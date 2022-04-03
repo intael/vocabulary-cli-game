@@ -1,6 +1,5 @@
 stats <- list2env(
   list(
-    c = new.env(),
     rightAnswers = 0L,
     wrongAnswers = 0L,
     totalAnswers = 0L,

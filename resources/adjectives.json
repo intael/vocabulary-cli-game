@@ -1,0 +1,155 @@
+{
+    "korkea": [
+      "high"
+    ],
+    "matala": [
+      "low"
+    ],
+    "pitkä": [
+      "tall"
+    ],
+    "lyhyt": [
+      "short"
+    ],
+    "leveä": [
+      "broad"
+    ],
+    "kapea": [
+      "narrow"
+    ],
+    "vanha": [
+      "old"
+    ],
+    "uusi": [
+      "new"
+    ],
+    "nuori": [
+      "young"
+    ],
+    "paksu": [
+      "thick"
+    ],
+    "ohut": [
+      "thin"
+    ],
+    "painava": [
+      "heavy"
+    ],
+    "kevyt": [
+      "light"
+    ],
+    "laiha": [
+      "skinny"
+    ],
+    "lihava": [
+      "fat"
+    ],
+    "vahva": [
+      "strong"
+    ],
+    "heikko": [
+      "weak"
+    ],
+    "köyhä": [
+      "poor"
+    ],
+    "rikas": [
+      "rich"
+    ],
+    "kallis": [
+      "expensive"
+    ],
+    "halpa": [
+      "cheap"
+    ],
+    "siisti": [
+      "tidy"
+    ],
+    "epäsiisti": [
+      "untidy"
+    ],
+    "valoisa": [
+      "light (as in brightness)"
+    ],
+    "pimeä": [
+      "dark (as in brightness)"
+    ],
+    "ilma": [
+      "weather"
+    ],
+    "lämmin": [
+      "warm"
+    ],
+    "kuuma": [
+      "hot"
+    ],
+    "kiva": [
+      "nice"
+    ],
+    "kaunis": [
+      "beautiful"
+    ],
+    "hieno": [
+      "fine"
+    ],
+    "kirkas": [
+      "bright"
+    ],
+    "viileä": [
+      "cool"
+    ],
+    "kylmä": [
+      "cold"
+    ],
+    "tylsä": [
+      "boring"
+    ],
+    "ikävä": [
+      "unpleasant"
+    ],
+    "pilvinen": [
+      "cloudy"
+    ],
+    "rasvainen": [
+      "greasy"
+    ],
+    "makea": [
+      "sweet"
+    ],
+    "soulainen": [
+      "salty"
+    ],
+    "varattu": [
+      "reserved"
+    ],
+    "vapaa": [
+      "vacant"
+    ],
+    "alkoholiton": [
+      "alcohol free"
+    ],
+    "kuiva": [
+      "dry"
+    ],
+    "rauhallinen": [
+      "calm"
+    ],
+    "kiire": [
+      "busy"
+    ],
+    "aikaisin": [
+      "early"
+    ],
+    "myöhään": [
+      "late"
+    ],
+    "sairas": [
+      "ill"
+    ],
+    "onneksi": [
+      "luck"
+    ],
+    "hassu": [
+      "silly"
+    ]
+  }

@@ -1,0 +1,76 @@
+{
+  "rauhoittaa": [
+    "calm"
+  ],
+  "häiritä": [
+    "disturb"
+  ],
+  "pelata": [
+    "play"
+  ],
+  "soittaa": [
+    "play"
+  ],
+  "herätä": [
+    "wake up"
+  ],
+  "haluta": [
+    "want"
+  ],
+  "tarvita": [
+    "need"
+  ],
+  "lainata": [
+    "lend",
+    "borrow"
+  ],
+  "riittää": [
+    "be enough"
+  ],
+  "pärjätä": [
+    "manage"
+  ],
+  "ansaita": [
+    "earn"
+  ],
+  "avata": [
+    "open"
+  ],
+  "siivota": [
+    "clean",
+    "tidy up"
+  ],
+  "asua": [
+    "reside"
+  ],
+  "kysyä": [
+    "ask"
+  ],
+  "vastata": [
+    "answer"
+  ],
+  "tupakoida": [
+    "smoke"
+  ],
+  "polttaa": [
+    "smoke",
+    "burn"
+  ],
+  "ajaa": [
+    "drive"
+  ],
+  "auttaa": [
+    "help",
+    "assist"
+  ],
+  "tuoda": [
+    "bring",
+    "get"
+  ],
+  "nousta": [
+    "stand up"
+  ],
+  "panna": [
+    "put"
+  ]
+}

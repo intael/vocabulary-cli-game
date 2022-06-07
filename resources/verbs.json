@@ -1,76 +1,147 @@
 {
-  "rauhoittaa": [
-    "calm"
-  ],
-  "häiritä": [
-    "disturb"
-  ],
-  "pelata": [
-    "play"
-  ],
-  "soittaa": [
-    "play"
-  ],
-  "herätä": [
-    "wake up"
-  ],
-  "haluta": [
-    "want"
-  ],
-  "tarvita": [
-    "need"
-  ],
-  "lainata": [
-    "lend",
-    "borrow"
-  ],
-  "riittää": [
-    "be enough"
-  ],
-  "pärjätä": [
-    "manage"
-  ],
-  "ansaita": [
-    "earn"
-  ],
-  "avata": [
-    "open"
-  ],
-  "siivota": [
-    "clean",
-    "tidy up"
-  ],
-  "asua": [
-    "reside"
-  ],
-  "kysyä": [
-    "ask"
-  ],
-  "vastata": [
-    "answer"
-  ],
-  "tupakoida": [
-    "smoke"
-  ],
-  "polttaa": [
-    "smoke",
-    "burn"
-  ],
-  "ajaa": [
-    "drive"
-  ],
-  "auttaa": [
-    "help",
-    "assist"
-  ],
-  "tuoda": [
-    "bring",
-    "get"
-  ],
-  "nousta": [
-    "stand up"
-  ],
-  "panna": [
-    "put"
-  ]
+   "rauhoittaa":[
+      "calm"
+   ],
+   "häiritä":[
+      "disturb"
+   ],
+   "pelata":[
+      "play"
+   ],
+   "soittaa":[
+      "play"
+   ],
+   "herätä":[
+      "wake up"
+   ],
+   "haluta":[
+      "want"
+   ],
+   "tarvita":[
+      "need"
+   ],
+   "lainata":[
+      "lend",
+      "borrow"
+   ],
+   "riittää":[
+      "be enough"
+   ],
+   "pärjätä":[
+      "manage"
+   ],
+   "ansaita":[
+      "earn"
+   ],
+   "avata":[
+      "open"
+   ],
+   "siivota":[
+      "clean",
+      "tidy up"
+   ],
+   "asua":[
+      "reside"
+   ],
+   "kysyä":[
+      "ask"
+   ],
+   "vastata":[
+      "answer"
+   ],
+   "tupakoida":[
+      "smoke"
+   ],
+   "polttaa":[
+      "smoke",
+      "burn"
+   ],
+   "ajaa":[
+      "drive"
+   ],
+   "auttaa":[
+      "help",
+      "assist"
+   ],
+   "tuoda":[
+      "bring",
+      "get"
+   ],
+   "nousta":[
+      "stand up"
+   ],
+   "panna":[
+      "put"
+   ],
+   "pestä":[
+      "wash"
+   ],
+   "oppia":[
+      "learn"
+   ],
+   "nukkua":[
+      "sleep"
+   ],
+   "odottaa":[
+      "wait"
+   ],
+   "lukea":[
+      "read"
+   ],
+   "leipoa":[
+      "bake"
+   ],
+   "tietää":[
+      "know"
+   ],
+   "kieltää":[
+      "forbid"
+   ],
+   "antaa":[
+      "give"
+   ],
+   "ymmärtää":[
+      "understand"
+   ],
+   "ottaa":[
+      "take"
+   ],
+   "kirjoittaa":[
+      "write"
+   ],
+   "lähteä":[
+      "leave"
+   ],
+   "huutaa":[
+      "shout"
+   ],
+   "lentää":[
+      "fly"
+   ],
+   "ehtiä":[
+      "make it",
+      "arrive",
+      "reach",
+      "have time"
+   ],
+   "matkustaa":[
+      "travel"
+   ],
+   "viitsiä":[
+      "bother"
+   ],
+   "käyttää":[
+      "use",
+      "consume"
+   ],
+   "harrastaa":[
+      "practice"
+   ],
+   "katsoa":[
+      "look"
+   ],
+   "käydää":[
+      "visit",
+      "attend"
+   ]
 }

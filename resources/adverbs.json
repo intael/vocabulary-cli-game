@@ -1,26 +1,47 @@
 {
-    "vielä": [
+   "vielä":[
       "yet"
-    ],
-    "oikeastaan": [
+   ],
+   "oikeastaan":[
       "actually"
-    ],
-    "yhteensä": [
+   ],
+   "yhteensä":[
       "altogether"
-    ],
-    "varmasti": [
+   ],
+   "varmasti":[
       "certainly"
-    ],
-    "tavallisesti": [
+   ],
+   "tavallisesti":[
       "usually"
-    ],
-    "usein": [
+   ],
+   "usein":[
       "often"
-    ],
-    "ei koskaan": [
+   ],
+   "ei koskaan":[
       "never"
-    ],
-    "epäilemättä": [
+   ],
+   "epäilemättä":[
       "certainly"
-    ]
-  }
+   ],
+   "todennäköisesti":[
+      "probably",
+      "likely"
+   ],
+   "luultavasti":[
+      "probably"
+   ],
+   "takaisin":[
+      "back"
+   ],
+   "esimerkiksi":[
+      "for example",
+      "for instance"
+   ],
+   "kovin":[
+      "very",
+      "really"
+   ],
+   "mielummin":[
+      "preferably"
+   ]
+}

@@ -1,68 +1,126 @@
 {
-    "jotakin": [
+   "jotakin":[
       "something"
-    ],
-    "ei mitään": [
+   ],
+   "ei mitään":[
       "nothing"
-    ],
-    "pasteija": [
+   ],
+   "pasteija":[
       "pastry"
-    ],
-    "tuoppi": [
+   ],
+   "tuoppi":[
       "pint"
-    ],
-    "rauhallisuus": [
+   ],
+   "rauhallisuus":[
       "calm"
-    ],
-    "jälkiruoka": [
+   ],
+   "jälkiruoka":[
       "dessert"
-    ],
-    "lasku": [
+   ],
+   "lasku":[
       "bill"
-    ],
-    "patukka": [
+   ],
+   "patukka":[
       "bar"
-    ],
-    "jauhe": [
+   ],
+   "jauhe":[
       "powder"
-    ],
-    "koipi": [
+   ],
+   "koipi":[
       "leg"
-    ],
-    "luotto": [
+   ],
+   "luotto":[
       "credit"
-    ],
-    "muovi": [
+   ],
+   "muovi":[
       "plastic"
-    ],
-    "kassi": [
+   ],
+   "kassi":[
       "bag"
-    ],
-    "ensi": [
+   ],
+   "ensi":[
       "next"
-    ],
-    "edellinen": [
+   ],
+   "edellinen":[
       "previous"
-    ],
-    "pokka": [
+   ],
+   "pokka":[
       "poker"
-    ],
-    "pasianssi": [
+   ],
+   "pasianssi":[
       "solitaire"
-    ],
-    "salaisuus": [
+   ],
+   "salaisuus":[
       "secret"
-    ],
-    "kysymys": [
+   ],
+   "kysymys":[
       "question"
-    ],
-    "vastaus": [
+   ],
+   "vastaus":[
       "answer"
-    ],
-    "viulu": [
+   ],
+   "jatko":[
+      "continuation",
+      "extension"
+   ],
+   "viulu":[
       "violin"
-    ],
-    "jatko": [
-      "continuation"
-    ]
-  }
+   ],
+   "hammas":[
+      "tooth"
+   ],
+   "loma":[
+      "vacation"
+   ],
+   "työ":[
+      "job",
+      "labour",
+      "task",
+      "toil"
+   ],
+   "harmaa":[
+      "grey"
+   ],
+   "puu":[
+      "tree"
+   ],
+   "pysäki":[
+      "stop",
+      "stand"
+   ],
+   "toimittaja":[
+      "supplier",
+      "journalist",
+      "reporter"
+   ],
+   "kulttuuri":[
+      "culture"
+   ],
+   "suurlähetystö":[
+      "embassy"
+   ],
+   "netti":[
+      "internet"
+   ],
+   "osoite":[
+      "address"
+   ],
+   "urheilu":[
+      "sport"
+   ],
+   "kerta":[
+      "time",
+      "instance",
+      "occasion"
+   ],
+   "tavaratalo":[
+      "department store",
+      "mall"
+   ],
+   "lukeminen":[
+      "reading"
+   ],
+   "taide":[
+      "art"
+   ]
+}

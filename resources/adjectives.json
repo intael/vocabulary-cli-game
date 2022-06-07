@@ -1,155 +1,181 @@
 {
-    "korkea": [
+   "korkea":[
       "high"
-    ],
-    "matala": [
+   ],
+   "matala":[
       "low"
-    ],
-    "pitkä": [
+   ],
+   "pitkä":[
       "tall"
-    ],
-    "lyhyt": [
+   ],
+   "lyhyt":[
       "short"
-    ],
-    "leveä": [
+   ],
+   "leveä":[
       "broad"
-    ],
-    "kapea": [
+   ],
+   "kapea":[
       "narrow"
-    ],
-    "vanha": [
+   ],
+   "vanha":[
       "old"
-    ],
-    "uusi": [
+   ],
+   "uusi":[
       "new"
-    ],
-    "nuori": [
+   ],
+   "nuori":[
       "young"
-    ],
-    "paksu": [
+   ],
+   "paksu":[
       "thick"
-    ],
-    "ohut": [
+   ],
+   "ohut":[
       "thin"
-    ],
-    "painava": [
+   ],
+   "painava":[
       "heavy"
-    ],
-    "kevyt": [
+   ],
+   "kevyt":[
       "light"
-    ],
-    "laiha": [
+   ],
+   "laiha":[
       "skinny"
-    ],
-    "lihava": [
+   ],
+   "lihava":[
       "fat"
-    ],
-    "vahva": [
+   ],
+   "vahva":[
       "strong"
-    ],
-    "heikko": [
+   ],
+   "heikko":[
       "weak"
-    ],
-    "köyhä": [
+   ],
+   "köyhä":[
       "poor"
-    ],
-    "rikas": [
+   ],
+   "rikas":[
       "rich"
-    ],
-    "kallis": [
+   ],
+   "kallis":[
       "expensive"
-    ],
-    "halpa": [
+   ],
+   "halpa":[
       "cheap"
-    ],
-    "siisti": [
+   ],
+   "siisti":[
       "tidy"
-    ],
-    "epäsiisti": [
+   ],
+   "epäsiisti":[
       "untidy"
-    ],
-    "valoisa": [
+   ],
+   "valoisa":[
       "light (as in brightness)"
-    ],
-    "pimeä": [
+   ],
+   "pimeä":[
       "dark (as in brightness)"
-    ],
-    "ilma": [
+   ],
+   "ilma":[
       "weather"
-    ],
-    "lämmin": [
+   ],
+   "lämmin":[
       "warm"
-    ],
-    "kuuma": [
+   ],
+   "kuuma":[
       "hot"
-    ],
-    "kiva": [
+   ],
+   "kiva":[
       "nice"
-    ],
-    "kaunis": [
+   ],
+   "kaunis":[
       "beautiful"
-    ],
-    "hieno": [
+   ],
+   "hieno":[
       "fine"
-    ],
-    "kirkas": [
+   ],
+   "kirkas":[
       "bright"
-    ],
-    "viileä": [
+   ],
+   "viileä":[
       "cool"
-    ],
-    "kylmä": [
+   ],
+   "kylmä":[
       "cold"
-    ],
-    "tylsä": [
+   ],
+   "tylsä":[
       "boring"
-    ],
-    "ikävä": [
+   ],
+   "ikävä":[
       "unpleasant"
-    ],
-    "pilvinen": [
+   ],
+   "pilvinen":[
       "cloudy"
-    ],
-    "rasvainen": [
+   ],
+   "rasvainen":[
       "greasy"
-    ],
-    "makea": [
+   ],
+   "makea":[
       "sweet"
-    ],
-    "soulainen": [
+   ],
+   "soulainen":[
       "salty"
-    ],
-    "varattu": [
+   ],
+   "varattu":[
       "reserved"
-    ],
-    "vapaa": [
+   ],
+   "vapaa":[
       "vacant"
-    ],
-    "alkoholiton": [
+   ],
+   "alkoholiton":[
       "alcohol free"
-    ],
-    "kuiva": [
+   ],
+   "kuiva":[
       "dry"
-    ],
-    "rauhallinen": [
+   ],
+   "rauhallinen":[
       "calm"
-    ],
-    "kiire": [
+   ],
+   "kiire":[
       "busy"
-    ],
-    "aikaisin": [
+   ],
+   "aikaisin":[
       "early"
-    ],
-    "myöhään": [
+   ],
+   "myöhään":[
       "late"
-    ],
-    "sairas": [
+   ],
+   "sairas":[
       "ill"
-    ],
-    "onneksi": [
+   ],
+   "onneksi":[
       "luck"
-    ],
-    "hassu": [
+   ],
+   "hassu":[
       "silly"
-    ]
-  }
+   ],
+   "ihana":[
+      "wonderful"
+   ],
+   "vieras":[
+      "strange",
+      "alien"
+   ],
+   "yksin":[
+      "alone"
+   ],
+   "lähellä":[
+      "nearby",
+      "close"
+   ],
+   "ulkona":[
+      "out",
+      "outside",
+      "outdoors"
+   ],
+   "melkein":[
+      "almost"
+   ],
+   "heti":[
+      "immediately",
+      "instantly"
+   ]
+}

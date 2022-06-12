@@ -191,5 +191,11 @@
    ],
    "ratikka":[
       "tram"
+   ],
+   "ratiovaunu":[
+      "tram"
+   ],
+   "kaikki": [
+      "everybody", "everything", "everyone"
    ]
 }

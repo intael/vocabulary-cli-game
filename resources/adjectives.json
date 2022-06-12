@@ -122,9 +122,6 @@
    "varattu":[
       "reserved"
    ],
-   "vapaa":[
-      "vacant"
-   ],
    "alkoholiton":[
       "alcohol free"
    ],
@@ -175,33 +172,46 @@
       "almost"
    ],
    "lähin":[
-      "nearest", "closest"
+      "nearest",
+      "closest"
    ],
    "viime":[
       "last"
-  ],
+   ],
    "tarpeeksi":[
-      "enough", "sufficiently"
-  ],
+      "enough",
+      "sufficiently"
+   ],
    "rakas":[
-      "loving", "darling", "dear", "sweet"
+      "loving",
+      "darling",
+      "dear",
+      "sweet"
    ],
    "hidas":[
       "slow"
    ],
    "aika":[
-      "large", "pretty", "considerable", "fairly"
-   ]
+      "large",
+      "pretty",
+      "considerable",
+      "fairly"
+   ],
    "vapaa":[
-      "free"
+      "free",
+      "vacant"
    ],
    "kaikenlainen":[
-      "all kinds of", "all sorts of"
+      "all kinds of",
+      "all sorts of"
    ],
    "eri":[
-      "different", "various"
+      "different",
+      "various"
    ],
    "paha":[
-      "bad", "nasty", "malign"
+      "bad",
+      "nasty",
+      "malign"
    ]
 }

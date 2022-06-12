@@ -3,8 +3,9 @@ stats <- list2env(
     rightAnswers = 0L,
     wrongAnswers = 0L,
     totalAnswers = 0L,
+    wordWeights = list(),
     formatStats = function() {
-      sprintf(
+      baseMesssage <- sprintf(
         "  --> Total Answers: %s.\n  --> Right Answers: %s\n  --> %s Correct: %s%s\n",
         stats$totalAnswers,
         stats$rightAnswers,
@@ -17,16 +18,26 @@ stats <- list2env(
           ),
           3
         ) * 100,
-        "%"
+        "%\n"
       )
+      strugglingWords <- stats$wordWeights[stats$wordWeights > 1]
+      if (length(strugglingWords) >= 1) {
+        topThree <- strugglingWords[order(unlist(strugglingWords))][1:3]
+        top3Message <-
+          paste0("The top 3 words you're struggling the most with are: ",
+                 paste(names(topThree), collapse = ", "))
+        baseMesssage <- paste0(baseMesssage, top3Message)
+      }
+      baseMesssage
     },
     registerMistake = function(word) {
       stats$wrongAnswers <- stats$wrongAnswers + 1
-      if (is.null(stats$mistakes[[word]])) {
-        stats$mistakes[[word]] <- 1
-      } else {
-        stats$mistakes[[word]] <- stats$mistakes[[word]] + 1
-      }
+      stats$wordWeights[[word]] <- stats$wordWeights[[word]] + 1
+    },
+    registerCorrectAnswer =  function(word) {
+      stats$rightAnswers <- stats$rightAnswers + 1
+      stats$wordWeights[[word]] <-
+        max(stats$wordWeights[[word]] - 1, 1)
     }
   )
 )

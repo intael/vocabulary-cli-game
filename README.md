@@ -6,7 +6,7 @@ This is just a CLI program that asks you to translate words from finnish to engl
 
 You'll need `docker` and optionally `make` installed. If you don't have `make` installed, you can also run the docker commands directly (pick them from the `Makefile`).
 
-If itäs the first time you use it, build the docker image:
+If it's the first time you use it, build the docker image:
 
 ```shell
 make build

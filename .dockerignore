@@ -1,5 +1,5 @@
 renv/
-
+.Rprofile
 # IDE stuff
 vocabulary-cli-game.Rproj
 .Rproj.user

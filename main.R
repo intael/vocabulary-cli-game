@@ -20,7 +20,10 @@ stdIn <- file("stdin")
 while (TRUE) {
   wordToBeAsked <-
     names(sample(wordsList, size = 1, prob = stats$wordWeights))
-  message(sprintf("Do translate the word %s (or press enter to skip)", wordToBeAsked))
+  message(sprintf(
+    "Do translate the word %s (or press enter to skip)",
+    toupper(wordToBeAsked)
+  ))
   inputAnswer <- parseUserInput(
     scan(
       file = stdIn,
@@ -50,7 +53,7 @@ while (TRUE) {
       message(sprintf(
         "Wrong! The right answer is NOT '%s', but '%s'",
         inputAnswer,
-        paste(wordsMap[[wordToBeAsked]], collapse = " or ")
+        paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or ")
       ))
       stats$registerMistake(wordToBeAsked)
     }

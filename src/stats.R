@@ -21,11 +21,17 @@ stats <- list2env(
         "%\n"
       )
       strugglingWords <- stats$wordWeights[stats$wordWeights > 1]
-      if (length(strugglingWords) >= 1) {
-        topThree <- strugglingWords[order(unlist(strugglingWords))][1:3]
+      if (length(strugglingWords) > 0) {
+        topThree <-
+          unlist(strugglingWords[order(unlist(strugglingWords), decreasing = T)][1:3]) # unlist drops nulls
+        topThreeWithMistakes <-
+          sapply(names(topThree), function(word)
+            paste0(word, " (", topThree[[word]], ")"))
         top3Message <-
-          paste0("The top 3 words you're struggling the most with are: ",
-                 paste(names(topThree), collapse = ", "))
+          paste0(
+            "The top 3 words you're struggling the most with are (cumulative mistakes in parenthesis): ",
+            paste(topThreeWithMistakes, collapse = ", ")
+          )
         baseMesssage <- paste0(baseMesssage, top3Message)
       }
       baseMesssage

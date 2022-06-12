@@ -41,7 +41,45 @@
       "very",
       "really"
    ],
-   "mielummin":[
-      "preferably"
+   "mieluummin":[
+      "preferably", "rather"
+      ],
+   "ulkona":[
+      "outside", "out"
+   ],
+   "melkein":[
+      "almost", "nearly"
+   ],
+   "heti":[
+      "immediately",
+      "instantly"
+   ],
+   "vaikka":[
+      "for instance",
+      "for example"
+   ],
+   "mukaan":[
+      "with",
+      "along"
+   ],
+   "suoraan":[
+      "straight",
+      "directly",
+      "downright"
+   ],
+   "kansan":[
+      "national", "public"
+   ],
+   "klassinen":[
+      "classical"
+   ],
+   "ihan":[
+      "just", "quite", "totally"
+   ],
+   "aika":[
+      "very", "pretty", "quite", "fairly"
+   ],
+   "ainakin":[
+      "at least"
    ]
 }

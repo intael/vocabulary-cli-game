@@ -122,5 +122,74 @@
    ],
    "taide":[
       "art"
+   ],
+   "koko":[
+      "all"
+   ],
+   "vessapaperi":[
+      "toilet paper"
+   ],
+   "saippua":[
+      "soap"
+   ],
+   "eläintarha":[
+      "zoo"
+   ],
+   "tarha":[
+      "park"
+   ],
+   "eläin":[
+      "animal"
+   ],
+   "hylly":[
+      "shelf", "rack", "stand"
+   ],
+   "parveke":[
+      "balcony", "terrace", "gallery"
+   ],
+   "saapas":[
+      "boot"
+   ],
+   "kumi":[
+      "rubber"
+   ],
+   "kumisaapat":[
+      "rubber boots"
+   ],
+   "tiede":[
+      "science"
+   ],
+   "lääketiede":[
+      "medicine"
+   ],
+   "allas":[
+      "pool"
+   ],
+   "rakas":[
+      "darling", "dear", "sweetheart", "love", "beloved"
+   ],
+   "bändi":[
+      "band"
+   ],
+   "aika":[
+      "time", "moment", "era", "period"
+   ],
+   "erilainen":[
+      "different", "distinct", "various", "diverse"
+   ],
+   "paha":[
+      "evil", "corrupt"
+   ],
+   "mieli":[
+      "mind", "mood", "will"
+   ],
+   "laiva":[
+      "ship", "boat"
+   ],
+   "vene":[
+      "boat"
+   ],
+   "ratikka":[
+      "tram"
    ]
 }

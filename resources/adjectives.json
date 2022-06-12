@@ -174,8 +174,34 @@
    "melkein":[
       "almost"
    ],
-   "heti":[
-      "immediately",
-      "instantly"
+   "lähin":[
+      "nearest", "closest"
+   ],
+   "viime":[
+      "last"
+  ],
+   "tarpeeksi":[
+      "enough", "sufficiently"
+  ],
+   "rakas":[
+      "loving", "darling", "dear", "sweet"
+   ],
+   "hidas":[
+      "slow"
+   ],
+   "aika":[
+      "large", "pretty", "considerable", "fairly"
+   ]
+   "vapaa":[
+      "free"
+   ],
+   "kaikenlainen":[
+      "all kinds of", "all sorts of"
+   ],
+   "eri":[
+      "different", "various"
+   ],
+   "paha":[
+      "bad", "nasty", "malign"
    ]
 }

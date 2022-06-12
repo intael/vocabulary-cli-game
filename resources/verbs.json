@@ -140,8 +140,38 @@
    "katsoa":[
       "look"
    ],
-   "käydää":[
+   "käydä":[
       "visit",
       "attend"
+   ],
+   "seisoa":[
+      "stand"
+   ],
+   "jaksaa":[
+      "be able", "be capable", "have strength"
+   ],
+   "päästä":[
+      "reach", "arrive to", "access", "get to"
+   ],
+   "tavata":[
+      "meet"
+   ],
+   "toivoa":[
+      "hope", "wish"
+   ],
+   "uida":[
+      "swim"
+   ],
+   "tykätä":[
+      "like"
+   ],
+   "tanssia":[
+      "dance"
+   ],
+   "kokata":[
+      "cook"
+   ],
+   "meiltää":[
+      "perceive"
    ]
 }

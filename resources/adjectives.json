@@ -69,13 +69,10 @@
       "untidy"
    ],
    "valoisa":[
-      "light (as in brightness)"
+      "light"
    ],
    "pimeä":[
-      "dark (as in brightness)"
-   ],
-   "ilma":[
-      "weather"
+      "dark"
    ],
    "lämmin":[
       "warm"
@@ -116,7 +113,7 @@
    "makea":[
       "sweet"
    ],
-   "soulainen":[
+   "suolainen":[
       "salty"
    ],
    "varattu":[
@@ -142,9 +139,6 @@
    ],
    "sairas":[
       "ill"
-   ],
-   "onneksi":[
-      "luck"
    ],
    "hassu":[
       "silly"

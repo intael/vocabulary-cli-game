@@ -39,7 +39,10 @@
       "light"
    ],
    "laiha":[
-      "skinny"
+      "skinny",
+      "lean",
+      "thin",
+      "weak"
    ],
    "lihava":[
       "fat"
@@ -69,7 +72,7 @@
       "untidy"
    ],
    "valoisa":[
-      "light"
+      "light", "bright"
    ],
    "pimeä":[
       "dark"
@@ -207,5 +210,29 @@
       "bad",
       "nasty",
       "malign"
+   ],
+   "ajoissa":[
+      "on time"
+   ],
+   "myöhässa":[
+      "late"
+   ],
+   "hullu":[
+      "crazy"
+   ],
+   "terveellinen":[
+      "healthy"
+   ],
+   "erikoinen":[
+      "special",
+      "particular"
+   ],
+   "mukava":[
+      "comfortable",
+      "pleasant",
+      "nice"
+   ],
+   "tilava":[
+      "spacious"
    ]
 }

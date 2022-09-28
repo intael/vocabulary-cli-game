@@ -1,7 +1,14 @@
 {
-    "kuitenkin" : ["however"],
-    "ennen kuin" : ["until"],
-    "vaikka":[
-      "though", "although", "when", "while"
+   "kuitenkin":[
+      "however"
+   ],
+   "ennen kuin":[
+      "until"
+   ],
+   "vaikka":[
+      "though",
+      "although",
+      "when",
+      "while"
    ]
 }

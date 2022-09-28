@@ -8,4 +8,4 @@ build:
 
 .PHONY: run
 run:
-	docker run --rm -ti -v ${pwd}/.cache:/app/.cache ${CONTAINER_NAME} Rscript main.R ${wordtype}
+	docker run --rm -ti -v ${CURDIR}/.cache:/app/.cache ${CONTAINER_NAME} Rscript main.R ${wordtype}

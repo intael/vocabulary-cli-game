@@ -138,7 +138,9 @@
       "practice"
    ],
    "katsoa":[
-      "look"
+      "look",
+      "watch",
+      "look up"
    ],
    "käydä":[
       "visit",
@@ -148,16 +150,22 @@
       "stand"
    ],
    "jaksaa":[
-      "be able", "be capable", "have strength"
+      "be able",
+      "be capable",
+      "have strength"
    ],
    "päästä":[
-      "reach", "arrive to", "access", "get to"
+      "reach",
+      "arrive to",
+      "access",
+      "get to"
    ],
    "tavata":[
       "meet"
    ],
    "toivoa":[
-      "hope", "wish"
+      "hope",
+      "wish"
    ],
    "uida":[
       "swim"
@@ -173,5 +181,57 @@
    ],
    "meiltää":[
       "perceive"
+   ],
+   "työskennellä":[
+      "work"
+   ],
+   "yrittää":[
+      "try"
+   ],
+   "nähdä":[
+      "meet",
+      "see"
+   ],
+   "tarkoittaa":[
+      "mean",
+      "signify",
+      "imply",
+      "intend"
+   ],
+   "soitella":[
+      "phone"
+   ],
+   "kertoa":[
+      "tell"
+   ],
+   "jutella":[
+      "chat",
+      "talk"
+   ],
+   "riidella":[
+      "quarrel",
+      "argue",
+      "contend"
+   ],
+   "kerrata":[
+      "revise",
+      "rehearse"
+   ],
+   "vuokrata":[
+      "rent"
+   ],
+   "pitää":[
+      "keep",
+      "hold",
+      "arrange",
+      "run"
+   ],
+   "kutsua":[
+      "call",
+      "invite"
+   ],
+   "lopettaa":[
+      "finish",
+      "stop"
    ]
 }

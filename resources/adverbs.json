@@ -3,7 +3,8 @@
       "yet"
    ],
    "oikeastaan":[
-      "actually"
+      "actually",
+      "in fact"
    ],
    "yhteensä":[
       "altogether"
@@ -12,7 +13,9 @@
       "certainly"
    ],
    "tavallisesti":[
-      "usually"
+      "usually",
+      "generally",
+      "normally"
    ],
    "usein":[
       "often"
@@ -42,13 +45,16 @@
       "really"
    ],
    "mieluummin":[
-      "preferably", "rather"
-      ],
+      "preferably",
+      "rather"
+   ],
    "ulkona":[
-      "outside", "out"
+      "outside",
+      "out"
    ],
    "melkein":[
-      "almost", "nearly"
+      "almost",
+      "nearly"
    ],
    "heti":[
       "immediately",
@@ -68,21 +74,56 @@
       "downright"
    ],
    "kansan":[
-      "national", "public"
+      "national",
+      "public"
    ],
    "klassinen":[
       "classical"
    ],
    "ihan":[
-      "just", "quite", "totally"
+      "just",
+      "quite",
+      "totally"
    ],
    "aika":[
-      "very", "pretty", "quite", "fairly"
+      "very",
+      "pretty",
+      "quite",
+      "fairly"
    ],
    "ainakin":[
       "at least"
    ],
    "onneksi":[
-      "luckily", "fortunately", "happily"
+      "luckily",
+      "fortunately",
+      "happily"
    ],
+   "rehellisesti":[
+      "honestly"
+   ],
+   "vasta":[
+      "freshly",
+      "not until"
+   ],
+   "ensin":[
+      "first",
+      "before"
+   ],
+   "sitten":[
+      "then"
+   ],
+   "vähän":[
+      "a little",
+      "few"
+   ],
+   "muuten":[
+      "otherwise",
+      "by the way",
+      "besides"
+   ],
+   "edes":[
+      "even",
+      "at least"
+   ]
 }

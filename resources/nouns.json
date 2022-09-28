@@ -142,10 +142,14 @@
       "animal"
    ],
    "hylly":[
-      "shelf", "rack", "stand"
+      "shelf",
+      "rack",
+      "stand"
    ],
    "parveke":[
-      "balcony", "terrace", "gallery"
+      "balcony",
+      "terrace",
+      "gallery"
    ],
    "saapas":[
       "boot"
@@ -166,25 +170,39 @@
       "pool"
    ],
    "rakas":[
-      "darling", "dear", "sweetheart", "love", "beloved"
+      "darling",
+      "dear",
+      "sweetheart",
+      "love",
+      "beloved"
    ],
    "bändi":[
       "band"
    ],
    "aika":[
-      "time", "moment", "era", "period"
+      "time",
+      "moment",
+      "era",
+      "period"
    ],
    "erilainen":[
-      "different", "distinct", "various", "diverse"
+      "different",
+      "distinct",
+      "various",
+      "diverse"
    ],
    "paha":[
-      "evil", "corrupt"
+      "evil",
+      "corrupt"
    ],
    "mieli":[
-      "mind", "mood", "will"
+      "mind",
+      "mood",
+      "will"
    ],
    "laiva":[
-      "ship", "boat"
+      "ship",
+      "boat"
    ],
    "vene":[
       "boat"
@@ -195,10 +213,108 @@
    "ratiovaunu":[
       "tram"
    ],
-   "kaikki": [
-      "everybody", "everything", "everyone"
+   "kaikki":[
+      "everybody",
+      "everything",
+      "everyone"
    ],
    "ilma":[
       "weather"
+   ],
+   "väri":[
+      "color"
+   ],
+   "kiire":[
+      "hurry",
+      "rush",
+      "rush"
+   ],
+   "joki":[
+      "river"
+   ],
+   "koski":[
+      "rapid"
+   ],
+   "vieras":[
+      "visitor",
+      "guest"
+   ],
+   "vaate":[
+      "clothing"
+   ],
+   "huoneisto":[
+      "flat",
+      "apartment"
+   ],
+   "asuntola":[
+      "dormitory"
+   ],
+   "vuokra":[
+      "rent",
+      "rental"
+   ],
+   "eteinen":[
+      "hallway",
+      "lobby",
+      "vestibule",
+      "aisle"
+   ],
+   "seina":[
+      "wall"
+   ],
+   "lattia":[
+      "floor"
+   ],
+   "katto":[
+      "ceiling",
+      "roof"
+   ],
+   "matto":[
+      "rug",
+      "carpet"
+   ],
+   "juliste":[
+      "poster",
+      "bill",
+      "placard"
+   ],
+   "taulu":[
+      "painting"
+   ],
+   "amme":[
+      "bathtub",
+      "tub"
+   ],
+   "vintti":[
+      "attic"
+   ],
+   "ullakko":[
+      "attic"
+   ],
+   "kukkapenkki":[
+      "flower bed"
+   ],
+   "peili":[
+      "mirror"
+   ],
+   "hella":[
+      "oven",
+      "stove"
+   ],
+   "makuuhuone":[
+      "bedroom"
+   ],
+   "juhla":[
+      "party"
+   ],
+   "harjoitus":[
+      "exercise",
+      "practice",
+      "drill"
+   ],
+   "jano":[
+      "thirst",
+      "desire",
+      "lust"
    ]
 }

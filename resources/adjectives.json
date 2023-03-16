@@ -9,7 +9,8 @@
       "tall"
    ],
    "lyhyt":[
-      "short"
+      "short",
+      "brief"
    ],
    "leveä":[
       "broad"
@@ -72,7 +73,8 @@
       "untidy"
    ],
    "valoisa":[
-      "light", "bright"
+      "light",
+      "bright"
    ],
    "pimeä":[
       "dark"
@@ -105,7 +107,10 @@
       "boring"
    ],
    "ikävä":[
-      "unpleasant"
+      "unpleasant",
+      "tedious",
+      "boring",
+      "sad"
    ],
    "pilvinen":[
       "cloudy"
@@ -136,9 +141,6 @@
    ],
    "aikaisin":[
       "early"
-   ],
-   "myöhään":[
-      "late"
    ],
    "sairas":[
       "ill"
@@ -217,6 +219,9 @@
    "myöhässa":[
       "late"
    ],
+   "myöhään":[
+      "late"
+   ],
    "hullu":[
       "crazy"
    ],
@@ -234,5 +239,77 @@
    ],
    "tilava":[
       "spacious"
+   ],
+   "kipeä":[
+      "sore",
+      "ill",
+      "aching"
+   ],
+   "kamala":[
+      "horrible",
+      "terrible",
+      "awful"
+   ],
+   "tumma":[
+      "dark"
+   ],
+   "entinen":[
+      "former",
+      "past"
+   ],
+   "oma":[
+      "own"
+   ],
+   "virallinen":[
+      "official"
+   ],
+   "saamelainen":[
+      "sami"
+   ],
+   "kiinni":[
+      "closed"
+   ],
+   "vihainen":[
+      "angry"
+   ],
+   "tyytyväinen":[
+      "satisfied",
+      "content",
+      "pleased"
+   ],
+   "törkeä":[
+      "aggravated",
+      "coarse",
+      "egregious",
+      "outrageous"
+   ],
+   "tuore":[
+      "recent",
+      "new",
+      "fresh"
+   ],
+   "kotimainen":[
+      "domestic"
+   ],
+   "tavallinen":[
+      "ordinary",
+      "usual",
+      "common"
+   ],
+   "aurinkoinen":[
+      "sunny"
+   ],
+   "upea":[
+      "awesome",
+      "gorgeous",
+      "luxurious"
+   ],
+   "vapari":[
+      "free"
+   ],
+   "hirveä":[
+      "horrible",
+      "terrible",
+      "awful"
    ]
 }

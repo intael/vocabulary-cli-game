@@ -1,8 +1,12 @@
 {
    "vielä":[
-      "yet"
+      "yet",
+      "still",
+      "even",
+      "already"
    ],
    "oikeastaan":[
+      "really",
       "actually",
       "in fact"
    ],
@@ -31,7 +35,8 @@
       "likely"
    ],
    "luultavasti":[
-      "probably"
+      "probably",
+      "likely"
    ],
    "takaisin":[
       "back"
@@ -125,5 +130,71 @@
    "edes":[
       "even",
       "at least"
+   ],
+   "myöhässa":[
+      "late"
+   ],
+   "myöhään":[
+      "late"
+   ],
+   "kuitenkin":[
+      "however",
+      "nevertheless",
+      "nonetheless"
+   ],
+   "väliaikaisesti":[
+      "temporarily",
+      "transitorily"
+   ],
+   "useimmat":[
+      "most"
+   ],
+   "etukäteen":[
+      "beforehand"
+   ],
+   "kauhean":[
+      "awfully"
+   ],
+   "ehdottomasti":[
+      "absolutely",
+      "necessarily"
+   ],
+   "joten":[
+      "therefore",
+      "hence"
+   ],
+   "kaukana":[
+      "far",
+      "distant"
+   ],
+   "nykyisin":[
+      "nowadays"
+   ],
+   "tosiaan":[
+      "indeed",
+      "all right",
+      "truly"
+   ],
+   "vihdoin":[
+      "finally",
+      "at last",
+      "eventually"
+   ],
+   "hirveasti":[
+      "terribly",
+      "awfully"
+   ],
+   "ajoissa":[
+      "in time",
+      "early",
+      "on time"
+   ],
+   "seuravaaksi":[
+      "next",
+      "second"
+   ],
+   "tarpeeksi":[
+      "enough",
+      "sufficiently"
    ]
 }

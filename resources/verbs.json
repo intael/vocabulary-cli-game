@@ -112,9 +112,6 @@
    "lähteä":[
       "leave"
    ],
-   "huutaa":[
-      "shout"
-   ],
    "lentää":[
       "fly"
    ],
@@ -202,7 +199,10 @@
       "phone"
    ],
    "kertoa":[
-      "tell"
+      "tell",
+      "impart",
+      "multiply",
+      "narrate"
    ],
    "jutella":[
       "chat",
@@ -233,5 +233,195 @@
    "lopettaa":[
       "finish",
       "stop"
+   ],
+   "kehdata":[
+      "dare"
+   ],
+   "lähettää":[
+      "send"
+   ],
+   "sopia":[
+      "agree"
+   ],
+   "näyttää":[
+      "show",
+      "look"
+   ],
+   "kuulla":[
+      "hear"
+   ],
+   "kuulua":[
+      "concern",
+      "be heard"
+   ],
+   "varata":[
+      "reserve"
+   ],
+   "viedä":[
+      "take",
+      "move",
+      "transfer"
+   ],
+   "huutaa":[
+      "yell",
+      "shout",
+      "scream"
+   ],
+   "saada":[
+      "get",
+      "receive",
+      "gain",
+      "deserve"
+   ],
+   "suihkuta":[
+      "shower"
+   ],
+   "levätä":[
+      "rest"
+   ],
+   "sataa":[
+      "rain"
+   ],
+   "löytää":[
+      "find",
+      "discover",
+      "come across"
+   ],
+   "meinata":[
+      "mean",
+      "plan to do",
+      "intend to do"
+   ],
+   "meilata":[
+      "email"
+   ],
+   "myöhästyä":[
+      "miss",
+      "be late"
+   ],
+   "muuttaa":[
+      "move",
+      "relocate",
+      "change",
+      "transform",
+      "modify"
+   ],
+   "muistaa":[
+      "remember"
+   ],
+   "unohtaa":[
+      "forget",
+      "dismiss",
+      "leave behind"
+   ],
+   "kuolla":[
+      "die"
+   ],
+   "jäädä":[
+      "stay",
+      "remain"
+   ],
+   "tapahtua":[
+      "happen",
+      "occur"
+   ],
+   "tilata":[
+      "order",
+      "sign up for",
+      "subscribe to",
+      "sing up"
+   ],
+   "pyytää":[
+      "ask",
+      "request",
+      "demand",
+      "insist"
+   ],
+   "tarjota":[
+      "serve",
+      "pay",
+      "offer"
+   ],
+   "voittaa":[
+      "overcome",
+      "defeat",
+      "win",
+      "conquer"
+   ],
+   "kiittää":[
+      "thank",
+      "praise",
+      "commend"
+   ],
+   "alkaa":[
+      "start"
+   ],
+   "halata":[
+      "hug",
+      "embrace"
+   ],
+   "saattaa":[
+      "escort",
+      "accompany"
+   ],
+   "kestää":[
+      "endure",
+      "withstand",
+      "take",
+      "support",
+      "cope",
+      "tolerate"
+   ],
+   "päättää":[
+      "decide",
+      "determine",
+      "opt"
+   ],
+   "tarkastaa":[
+      "check",
+      "inspect",
+      "vet",
+      "audit"
+   ],
+   "varoittaa":[
+      "warn",
+      "caution"
+   ],
+   "luulla":[
+      "think",
+      "believe",
+      "suppose",
+      "guess"
+   ],
+   "särkeä":[
+      "break",
+      "ache",
+      "breach"
+   ],
+   "hävetä":[
+      "be ashamed",
+      "be afraid"
+   ],
+   "aikoa":[
+      "intend",
+      "plan"
+   ],
+   "varastaa":[
+      "steal"
+   ],
+   "matkata":[
+      "travel"
+   ],
+   "väsyttaa":[
+      "tire",
+      "exhaust"
+   ],
+   "juosta":[
+      "run",
+      "sprint"
+   ],
+   "sarkeä":[
+      "break",
+      "ache"
    ]
 }

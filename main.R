@@ -36,31 +36,35 @@ while (TRUE) {
       skip = 0
     )
   )
-  if (length(inputAnswer) > 0) {
-    if (inputAnswer == "exit") {
-      message("Quitting! Remember: Practice makes perfect.")
-      message("Performance:")
-      message(stats$formatStats())
-      saveRDS(stats$wordWeights, file = serializedWordWeightsFile)
-      closeAllConnections()
-      quit(save = "no")
-    }
-    stats$totalAnswers <- stats$totalAnswers + 1
-    if (inputAnswer %in% wordsMap[[wordToBeAsked]]) {
-      message("Correct! :D")
-      stats$registerCorrectAnswer(wordToBeAsked)
+  if (length(inputAnswer) > 0 && inputAnswer == "exit") {
+    message("Quitting! Remember: Practice makes perfect.")
+    message("Performance:")
+    message(stats$formatStats())
+    saveRDS(stats$wordWeights, file = serializedWordWeightsFile)
+    closeAllConnections()
+    quit(save = "no")
+  }
+  stats$totalAnswers <- stats$totalAnswers + 1
+  if (length(inputAnswer) > 0 &&
+      inputAnswer %in% wordsMap[[wordToBeAsked]]) {
+    message("Correct! :D")
+    stats$registerCorrectAnswer(wordToBeAsked)
+  }
+  else {
+    stats$registerMistake(wordToBeAsked)
+    correctAnswers <-
+      paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or ")
+    if (length(inputAnswer) == 0) {
+      message(sprintf("Skipping! It means: '%s'.", correctAnswers))
     } else {
       message(
         sprintf(
           "Wrong! The right answer is NOT '%s', but '%s'. Weight: %s",
           inputAnswer,
-          paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or "),
+          correctAnswers,
           stats$wordWeights[[wordToBeAsked]]
         )
       )
-      stats$registerMistake(wordToBeAsked)
     }
-  } else {
-    message(sprintf("Skipping! It means: '%s'.", paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or ")))
   }
 }

@@ -50,14 +50,17 @@ while (TRUE) {
       message("Correct! :D")
       stats$registerCorrectAnswer(wordToBeAsked)
     } else {
-      message(sprintf(
-        "Wrong! The right answer is NOT '%s', but '%s'",
-        inputAnswer,
-        paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or ")
-      ))
+      message(
+        sprintf(
+          "Wrong! The right answer is NOT '%s', but '%s'. Weight: %s",
+          inputAnswer,
+          paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or "),
+          stats$wordWeights[[wordToBeAsked]]
+        )
+      )
       stats$registerMistake(wordToBeAsked)
     }
   } else {
-    message("Skipping!")
+    message(sprintf("Skipping! It means: '%s'.", paste(toupper(wordsMap[[wordToBeAsked]]), collapse = " or ")))
   }
 }

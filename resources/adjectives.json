@@ -208,6 +208,12 @@
       "different",
       "various"
    ],
+   "erilainen":[
+      "different",
+      "distinct",
+      "various",
+      "diverse"
+   ],
    "paha":[
       "bad",
       "nasty",
@@ -311,5 +317,8 @@
       "horrible",
       "terrible",
       "awful"
+   ],
+   "kiltti":[
+      "obedient", "kind"
    ]
 }

@@ -99,6 +99,10 @@
    "suurlähetystö":[
       "embassy"
    ],
+   "lähetystö":[
+      "delegation",
+      "legation"
+   ],
    "netti":[
       "internet"
    ],
@@ -136,7 +140,9 @@
       "zoo"
    ],
    "tarha":[
-      "park"
+      "garden",
+      "yard",
+      "enclosure"
    ],
    "eläin":[
       "animal"
@@ -153,6 +159,12 @@
    ],
    "saapas":[
       "boot"
+   ],
+   "ero":[
+      "difference",
+      "distinction",
+      "divorce",
+      "resignation"
    ],
    "kumi":[
       "rubber"
@@ -184,12 +196,6 @@
       "moment",
       "era",
       "period"
-   ],
-   "erilainen":[
-      "different",
-      "distinct",
-      "various",
-      "diverse"
    ],
    "paha":[
       "evil",
@@ -248,7 +254,8 @@
       "apartment"
    ],
    "asuntola":[
-      "dormitory"
+      "dormitory",
+      "residence"
    ],
    "vuokra":[
       "rent",
@@ -295,6 +302,10 @@
    "kukkapenkki":[
       "flower bed"
    ],
+   "penkki":[
+      "bench",
+      "workbench"
+   ],
    "peili":[
       "mirror"
    ],
@@ -326,7 +337,7 @@
       "temperature"
    ],
    "nälkä":[
-      "hungry",
+      "hunger",
       "craving"
    ],
    "tukka":[
@@ -434,7 +445,8 @@
       "umbrella"
    ],
    "passi":[
-      "passi"
+      "passport",
+      "pass"
    ],
    "postimerkki":[
       "stamp"
@@ -469,7 +481,7 @@
       "painkiller"
    ],
    "Tukholma":[
-      "Stockholm"
+      "stockholm"
    ],
    "lehti":[
       "newspaper",
@@ -494,6 +506,17 @@
       "hostel",
       "youth hostel"
    ],
+   "retkeily":[
+      "hiking",
+      "camping",
+      "backpacking"
+   ],
+   "maja":[
+      "hut",
+      "cottage",
+      "lodge",
+      "cabin"
+   ],
    "assa":[
       "station"
    ],
@@ -512,5 +535,23 @@
    ],
    "suihku":[
       "shower"
+   ],
+   "tavallinen":[
+      "common",
+      "ordinary",
+      "usual",
+      "normal",
+      "conventional"
+   ],
+   "maisema":[
+      "landscape",
+      "scene",
+      "view",
+      "scenery"
+   ],
+   "dokumentti":[
+      "document",
+      "documentary",
+      "paper"
    ]
 }

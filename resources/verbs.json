@@ -14,6 +14,9 @@
    "herätä":[
       "wake up"
    ],
+   "istua":[
+      "sit"
+   ],
    "haluta":[
       "want"
    ],
@@ -59,6 +62,9 @@
    "ajaa":[
       "drive"
    ],
+   "ajatella":[
+      "think"
+   ],
    "auttaa":[
       "help",
       "assist"
@@ -68,7 +74,10 @@
       "get"
    ],
    "nousta":[
-      "stand up"
+      "get up",
+      "increase",
+      "arise",
+      "rise"
    ],
    "panna":[
       "put"
@@ -78,6 +87,9 @@
    ],
    "oppia":[
       "learn"
+   ],
+   "tiskata":[
+      "wash dishes"
    ],
    "nukkua":[
       "sleep"
@@ -90,6 +102,9 @@
    ],
    "leipoa":[
       "bake"
+   ],
+   "leikkiä":[
+      "play"
    ],
    "tietää":[
       "know"
@@ -115,6 +130,9 @@
    "lentää":[
       "fly"
    ],
+   "maata":[
+      "lay down"
+   ],
    "ehtiä":[
       "make it",
       "arrive",
@@ -123,6 +141,9 @@
    ],
    "matkustaa":[
       "travel"
+   ],
+   "imuroida":[
+      "vacuum"
    ],
    "viitsiä":[
       "bother"
@@ -145,6 +166,9 @@
    ],
    "seisoa":[
       "stand"
+   ],
+   "saapua":[
+      "arrive"
    ],
    "jaksaa":[
       "be able",
@@ -224,7 +248,8 @@
       "keep",
       "hold",
       "arrange",
-      "run"
+      "run",
+      "like"
    ],
    "kutsua":[
       "call",
@@ -256,6 +281,9 @@
    ],
    "varata":[
       "reserve"
+   ],
+   "vihata":[
+      "hate"
    ],
    "viedä":[
       "take",
@@ -317,6 +345,9 @@
    "kuolla":[
       "die"
    ],
+   "tutustua":[
+      "get to know"
+   ],
    "jäädä":[
       "stay",
       "remain"
@@ -324,6 +355,10 @@
    "tapahtua":[
       "happen",
       "occur"
+   ],
+   "pyöräillä":[
+      "cycle",
+      "ride a bike"
    ],
    "tilata":[
       "order",
@@ -363,6 +398,9 @@
    "saattaa":[
       "escort",
       "accompany"
+   ],
+   "keskustella":[
+      "chat"
    ],
    "kestää":[
       "endure",
@@ -423,5 +461,13 @@
    "sarkeä":[
       "break",
       "ache"
+   ],
+   "kierrellä":[
+      "wander",
+      "tour"
+   ],
+   "pidetä":[
+      "grow long",
+      "lengthen"
    ]
 }

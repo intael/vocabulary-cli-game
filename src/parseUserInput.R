@@ -1,3 +1,3 @@
 parseUserInput <- function(rawInput) {
-  tolower(trimws(rawInput, which = "both"))
+  tolower(trimws(iconv(enc2utf8(rawInput), sub="byte"), which = "both"))
 }

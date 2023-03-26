@@ -553,5 +553,34 @@
       "document",
       "documentary",
       "paper"
+   ],
+   "setti": [
+      "set",
+      "package"
+   ],
+   "vippi": [
+      "loan",
+      "accomodation"
+   ],
+   "olemus": [
+      "attitude"
+   ],
+   "käveleminen": [
+      "walk"
+   ],
+   "sanasto": [
+      "vocabulary"
+   ],
+   "usko": [
+      "belief"
+   ],
+   "luulo": [
+      "belief",
+      "supposition",
+      "thought",
+      "impression"
+   ],
+   "kansa": [
+      "people"
    ]
 }

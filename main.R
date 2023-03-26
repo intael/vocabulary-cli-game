@@ -36,6 +36,10 @@ while (TRUE) {
       skip = 0
     )
   )
+  if (length(inputAnswer) > 0 && inputAnswer == "summary") {
+    message(stats$formatStats())
+    next
+  }
   if (length(inputAnswer) > 0 && inputAnswer == "exit") {
     message("Quitting! Remember: Practice makes perfect.")
     message("Performance:")

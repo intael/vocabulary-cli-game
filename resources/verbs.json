@@ -77,7 +77,8 @@
       "get up",
       "increase",
       "arise",
-      "rise"
+      "rise",
+      "stand up"
    ],
    "panna":[
       "put"
@@ -469,5 +470,16 @@
    "pidetä":[
       "grow long",
       "lengthen"
+   ],
+   "läpäistä":[
+      "pass",
+      "penetrate",
+      "pierce",
+      "make a hole"
+   ],
+   "uskoa":[
+      "believe",
+      "have faith",
+      "entrust"
    ]
 }

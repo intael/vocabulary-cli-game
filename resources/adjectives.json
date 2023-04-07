@@ -136,14 +136,18 @@
    "rauhallinen":[
       "calm"
    ],
-   "kiire":[
-      "busy"
-   ],
    "aikaisin":[
       "early"
    ],
+   "tavallinen":[
+      "common",
+      "ordinary",
+      "usual",
+      "normal",
+      "conventional"
+   ],
    "sairas":[
-      "ill"
+      "ill", "sick"
    ],
    "hassu":[
       "silly"

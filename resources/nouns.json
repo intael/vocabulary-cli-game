@@ -232,7 +232,8 @@
    ],
    "kiire":[
       "hurry",
-      "rush"
+      "rush",
+      "busy"
    ],
    "joki":[
       "river"
@@ -407,6 +408,9 @@
       "handbag",
       "purse"
    ],
+   "laukku":[
+      "bag"
+   ],
    "reppu":[
       "backpack",
       "bag"
@@ -536,13 +540,6 @@
    "suihku":[
       "shower"
    ],
-   "tavallinen":[
-      "common",
-      "ordinary",
-      "usual",
-      "normal",
-      "conventional"
-   ],
    "maisema":[
       "landscape",
       "scene",
@@ -582,5 +579,8 @@
    ],
    "kansa": [
       "people"
+   ],
+   "hullu": [
+      "crazy", "lunatic", "madman"
    ]
 }

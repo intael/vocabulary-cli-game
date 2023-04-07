@@ -6,23 +6,27 @@ source("src/loadWordWeights.R")
 
 wordType <- parseCliArgs(commandArgs(trailingOnly = TRUE))
 
-wordsList <-
+wordsMap <-
   rjson::fromJSON(file = file.path("resources", paste0(wordType, ".json")))
-
-wordsMap <- list2env(wordsList)
 
 serializedWordWeightsFile <-
   file.path(".cache",  paste0(wordType, ".rds"))
 loadWordWeights(serializedWordWeightsFile, wordsMap, stats)
+stats$wordWeights <-
+  stats$wordWeights[order(names(stats$wordWeights))]
+wordsMap <- wordsMap[order(names(wordsMap))]
 
 stdIn <- file("stdin")
 
 while (TRUE) {
   wordToBeAsked <-
-    names(sample(wordsList, size = 1, prob = stats$wordWeights))
+    names(sample(wordsMap, size = 1, prob = stats$wordWeights))
+  sampleProbability <-
+    round(stats$wordWeights[[wordToBeAsked]] / sum(unlist(stats$wordWeights)) * 100, 2)
   message(sprintf(
-    "Do translate the word %s (or press enter to skip)",
-    toupper(wordToBeAsked)
+    "Do translate the word %s [p=%s] (or press enter to skip)",
+    toupper(wordToBeAsked),
+    paste0(sampleProbability, "%")
   ))
   inputAnswer <- parseUserInput(
     scan(
@@ -63,10 +67,9 @@ while (TRUE) {
     } else {
       message(
         sprintf(
-          "Wrong! The right answer is NOT '%s', but '%s'. Weight: %s",
+          "Wrong! The right answer is NOT '%s', but '%s'.",
           inputAnswer,
-          correctAnswers,
-          stats$wordWeights[[wordToBeAsked]]
+          correctAnswers
         )
       )
     }

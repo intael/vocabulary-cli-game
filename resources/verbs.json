@@ -481,5 +481,59 @@
       "believe",
       "have faith",
       "entrust"
+   ],
+   "etsiä":[
+      "search",
+      "look for"
+   ],
+   "hakea":[
+      "seek",
+      "retrieve",
+      "look for"
+   ],
+   "pyyhkiä":[
+      "wipe",
+      "erase"
+   ],
+   "pestä pyykkiä":[
+      "do laundry"
+   ],
+   "pyyhkiä pölyt":[
+      "dust"
+   ],
+   "kyllästyä":[
+      "get bored",
+      "get tired"
+   ],
+   "ihastua":[
+      "be charmed"
+   ],
+   "luottaa":[
+      "trust"
+   ],
+   "jättää":[
+      "leave",
+      "abandon"
+   ],
+   "haukkua":[
+      "bark"
+   ],
+   "höpistä":[
+      "talk nonsense"
+   ],
+   "arvata":[
+      "guess"
+   ],
+   "hiihtää":[
+      "ski"
+   ],
+   "kaatua":[
+      "fall"
+   ],
+   "pudota":[
+      "fall"
+   ],
+   "hirttää":[
+      "hang"
    ]
 }

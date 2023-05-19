@@ -551,36 +551,142 @@
       "documentary",
       "paper"
    ],
-   "setti": [
+   "setti":[
       "set",
       "package"
    ],
-   "vippi": [
+   "vippi":[
       "loan",
       "accomodation"
    ],
-   "olemus": [
+   "olemus":[
       "attitude"
    ],
-   "käveleminen": [
+   "käveleminen":[
       "walk"
    ],
-   "sanasto": [
+   "sanasto":[
       "vocabulary"
    ],
-   "usko": [
+   "usko":[
       "belief"
    ],
-   "luulo": [
+   "luulo":[
       "belief",
       "supposition",
       "thought",
       "impression"
    ],
-   "kansa": [
+   "kansa":[
       "people"
    ],
-   "hullu": [
-      "crazy", "lunatic", "madman"
+   "hullu":[
+      "crazy",
+      "lunatic",
+      "madman"
+   ],
+   "ostos":[
+      "purchase"
+   ],
+   "korkkokengät":[
+      "high heels"
+   ],
+   "mekko":[
+      "dress"
+   ],
+   "huivi":[
+      "scarf"
+   ],
+   "alusvaate":[
+      "underwear"
+   ],
+   "käärme":[
+      "snake"
+   ],
+   "tavara":[
+      "thing",
+      "object",
+      "ware",
+      "commodity",
+      "item"
+   ],
+   "silakka":[
+      "herring"
+   ],
+   "porkkana":[
+      "carrot"
+   ],
+   "hedelmä":[
+      "fruit"
+   ],
+   "huonekalu":[
+      "furniture"
+   ],
+   "lamppu":[
+      "lamp"
+   ],
+   "divari":[
+      "antiquarian bookshop"
+   ],
+   "aivot":[
+      "brain"
+   ],
+   "marja":[
+      "berry"
+   ],
+   "rapu":[
+      "crayfish"
+   ],
+   "sukulainen":[
+      "relative",
+      "relation",
+      "affinity"
+   ],
+   "perä":[
+      "back",
+      "rear"
+   ],
+   "herne":[
+      "pea",
+      "legume"
+   ],
+   "tilanne":[
+      "situation"
+   ],
+   "osasto":[
+      "department",
+      "unit",
+      "compartment",
+      "area",
+      "section"
+   ],
+   "turkki":[
+      "coat",
+      "fur coat"
+   ],
+   "erisnimi":[
+      "proper name"
+   ],
+   "uhka":[
+      "threat",
+      "danger",
+      "menace"
+   ],
+   "tuote":[
+      "product"
+   ],
+   "silta":[
+      "bridge"
+   ],
+   "laatikko":[
+      "box",
+      "drawer"
+   ],
+   "sarja":[
+      "serie",
+      "succession"
+   ],
+   "majatalo":[
+      "inn"
    ]
 }

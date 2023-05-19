@@ -147,7 +147,8 @@
       "conventional"
    ],
    "sairas":[
-      "ill", "sick"
+      "ill",
+      "sick"
    ],
    "hassu":[
       "silly"
@@ -301,11 +302,6 @@
    "kotimainen":[
       "domestic"
    ],
-   "tavallinen":[
-      "ordinary",
-      "usual",
-      "common"
-   ],
    "aurinkoinen":[
       "sunny"
    ],
@@ -323,6 +319,33 @@
       "awful"
    ],
    "kiltti":[
-      "obedient", "kind"
+      "obedient",
+      "kind"
+   ],
+   "raskas":[
+      "oppressive",
+      "heavy"
+   ],
+   "taivaallinen":[
+      "heavenly",
+      "celestial",
+      "divine"
+   ],
+   "käytetty":[
+      "used",
+      "second hand"
+   ],
+   "laiska":[
+      "lazy"
+   ],
+   "syvä":[
+      "deep",
+      "profound"
+   ],
+   "omituinen":[
+      "bizarre",
+      "strange",
+      "peculiar",
+      "quirky"
    ]
 }

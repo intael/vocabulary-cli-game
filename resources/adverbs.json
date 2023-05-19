@@ -204,5 +204,27 @@
    ],
    "välissä":[
       "between"
-   ]	
+   ],
+   "ilmeisesti":[
+      "apparently",
+      "obviously",
+      "seemingly"
+   ],
+   "aivan":[
+      "precisely",
+      "exactly",
+      "totally",
+      "indeed"
+   ],
+   "ollenkaan":[
+      "at all",
+      "never",
+      "any"
+   ],
+   "tietenkään":[
+      "of course not"
+   ],
+   "toivottavasti":[
+      "hopefully"
+   ]
 }

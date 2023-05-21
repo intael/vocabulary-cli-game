@@ -8,4 +8,8 @@ build:
 
 .PHONY: run
 run:
-	docker run --rm -ti -v ${CURDIR}/.cache:/app/.cache ${CONTAINER_NAME} Rscript main.R ${wordtype}
+	docker run --rm -ti -v ${CURDIR}/.cache:/app/.cache ${CONTAINER_NAME} Rscript main.R ${wordlist}
+
+.PHONY: run_reverse
+run_reverse:
+	docker run --rm -ti -v ${CURDIR}/.cache:/app/.cache ${CONTAINER_NAME} Rscript main.R ${wordlist} --reverse

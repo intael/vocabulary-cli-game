@@ -1,16 +1,25 @@
 library(rjson)
+library(argparser, quietly = TRUE)
 source("src/parseUserInput.R")
 source("src/stats.R")
-source("src/parseCliArgs.R")
-source("src/loadWordWeights.R")
+source("src/cli.R")
+source("src/wordMap.R")
 
-wordType <- parseCliArgs(commandArgs(trailingOnly = TRUE))
+
+argvals <- parse_args(argParser())
+parsedArgs <- validateArgs(argvals)
 
 wordsMap <-
-  rjson::fromJSON(file = file.path("resources", paste0(wordType, ".json")))
+  rjson::fromJSON(file = file.path("resources", paste0(parsedArgs$wordlist, ".json")))
 
-serializedWordWeightsFile <-
-  file.path(".cache",  paste0(wordType, ".rds"))
+cacheFile <- paste0(parsedArgs$wordlist, ".rds")
+cacheFile <-
+  ifelse(parsedArgs$reverse, paste0("reverse_", cacheFile) , cacheFile)
+serializedWordWeightsFile <- file.path(".cache",  cacheFile)
+
+if(parsedArgs$reverse){
+  wordsMap<- reverseWordMap(wordsMap)
+}
 loadWordWeights(serializedWordWeightsFile, wordsMap, stats)
 stats$wordWeights <-
   stats$wordWeights[order(names(stats$wordWeights))]

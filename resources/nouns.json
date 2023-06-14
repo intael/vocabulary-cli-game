@@ -688,5 +688,8 @@
    ],
    "majatalo":[
       "inn"
+   ],
+   "kuormuri":[
+      "truck", "lorry"
    ]
 }

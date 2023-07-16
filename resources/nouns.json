@@ -197,10 +197,6 @@
       "era",
       "period"
    ],
-   "paha":[
-      "evil",
-      "corrupt"
-   ],
    "mieli":[
       "mind",
       "mood",
@@ -216,7 +212,7 @@
    "ratikka":[
       "tram"
    ],
-   "ratiovaunu":[
+   "raitiovaunu":[
       "tram"
    ],
    "kaikki":[
@@ -263,12 +259,12 @@
       "rental"
    ],
    "eteinen":[
+      "hall",
       "hallway",
       "lobby",
-      "vestibule",
-      "aisle"
+      "vestibule"
    ],
-   "seina":[
+   "seinä":[
       "wall"
    ],
    "lattia":[
@@ -521,7 +517,7 @@
       "lodge",
       "cabin"
    ],
-   "assa":[
+   "asema":[
       "station"
    ],
    "vapaalippu":[
@@ -547,9 +543,10 @@
       "scenery"
    ],
    "dokumentti":[
-      "document",
-      "documentary",
-      "paper"
+      "documentary"
+   ],
+   "asiakirja": [
+      "document"
    ],
    "setti":[
       "set",
@@ -638,9 +635,7 @@
       "crayfish"
    ],
    "sukulainen":[
-      "relative",
-      "relation",
-      "affinity"
+      "relative"
    ],
    "perä":[
       "back",

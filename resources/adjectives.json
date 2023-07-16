@@ -6,14 +6,14 @@
       "low"
    ],
    "pitkä":[
-      "tall"
+      "tall", "long"
    ],
    "lyhyt":[
       "short",
       "brief"
    ],
    "leveä":[
-      "broad"
+      "broad", "wide"
    ],
    "kapea":[
       "narrow"
@@ -42,8 +42,7 @@
    "laiha":[
       "skinny",
       "lean",
-      "thin",
-      "weak"
+      "thin"
    ],
    "lihava":[
       "fat"
@@ -136,7 +135,7 @@
    "rauhallinen":[
       "calm"
    ],
-   "aikaisin":[
+   "aikainen":[
       "early"
    ],
    "tavallinen":[
@@ -154,51 +153,40 @@
       "silly"
    ],
    "ihana":[
-      "wonderful"
+      "wonderful",
+      "lovely"
    ],
    "vieras":[
       "strange",
       "alien"
    ],
-   "yksin":[
-      "alone"
-   ],
-   "lähellä":[
-      "nearby",
-      "close"
-   ],
-   "ulkona":[
-      "out",
-      "outside",
-      "outdoors"
-   ],
-   "melkein":[
-      "almost"
+   "yksinäinen": [
+      "lonely"
    ],
    "lähin":[
       "nearest",
       "closest"
    ],
-   "viime":[
+   "viime": [
+      "last"
+   ],   
+   "viimeinen":[
       "last"
    ],
-   "tarpeeksi":[
-      "enough",
-      "sufficiently"
+   "rakastava": [
+      "loving"
    ],
    "rakas":[
-      "loving",
       "darling",
-      "dear",
-      "sweet"
+      "dear"
    ],
    "hidas":[
       "slow"
    ],
    "aika":[
-      "large",
+      "quite",
       "pretty",
-      "considerable",
+      "considerably",
       "fairly"
    ],
    "vapaa":[
@@ -210,8 +198,7 @@
       "all sorts of"
    ],
    "eri":[
-      "different",
-      "various"
+      "different"
    ],
    "erilainen":[
       "different",
@@ -222,16 +209,8 @@
    "paha":[
       "bad",
       "nasty",
-      "malign"
-   ],
-   "ajoissa":[
-      "on time"
-   ],
-   "myöhässa":[
-      "late"
-   ],
-   "myöhään":[
-      "late"
+      "malign",
+      "evil"
    ],
    "hullu":[
       "crazy"
@@ -310,9 +289,6 @@
       "gorgeous",
       "luxurious"
    ],
-   "vapari":[
-      "free"
-   ],
    "hirveä":[
       "horrible",
       "terrible",
@@ -347,5 +323,8 @@
       "strange",
       "peculiar",
       "quirky"
+   ],
+   "korruptoitunut": [
+      "corrupt"
    ]
 }

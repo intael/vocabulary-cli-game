@@ -11,7 +11,8 @@
       "in fact"
    ],
    "yhteensä":[
-      "altogether"
+      "altogether",
+      "in total"
    ],
    "varmasti":[
       "certainly"
@@ -28,7 +29,8 @@
       "never"
    ],
    "epäilemättä":[
-      "certainly"
+      "certainly",
+      "undoubtedly"
    ],
    "todennäköisesti":[
       "probably",
@@ -54,8 +56,20 @@
       "rather"
    ],
    "ulkona":[
+      "out",
       "outside",
-      "out"
+      "outdoors"
+   ],
+   "sisällä": [
+      "inside"
+   ],
+   "ulkopuolella": [
+      "outside",
+      "outside of"
+   ],
+   "sisäpuolella": [
+      "inside",
+      "inside of"
    ],
    "melkein":[
       "almost",
@@ -78,7 +92,7 @@
       "directly",
       "downright"
    ],
-   "kansan":[
+   "kansallinen":[
       "national",
       "public"
    ],
@@ -172,7 +186,6 @@
    ],
    "tosiaan":[
       "indeed",
-      "all right",
       "truly"
    ],
    "vihdoin":[
@@ -180,7 +193,7 @@
       "at last",
       "eventually"
    ],
-   "hirveasti":[
+   "hirveästi":[
       "terribly",
       "awfully"
    ],
@@ -206,9 +219,7 @@
       "between"
    ],
    "ilmeisesti":[
-      "apparently",
-      "obviously",
-      "seemingly"
+      "apparently"
    ],
    "aivan":[
       "precisely",
@@ -218,7 +229,6 @@
    ],
    "ollenkaan":[
       "at all",
-      "never",
       "any"
    ],
    "tietenkään":[
@@ -226,5 +236,15 @@
    ],
    "toivottavasti":[
       "hopefully"
+   ],
+   "yksin":[
+      "alone"
+   ],
+   "lähellä":[
+      "nearby",
+      "close"
+   ],
+   "aikaisin": [
+      "early"
    ]
 }

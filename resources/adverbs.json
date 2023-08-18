@@ -1,250 +1,278 @@
 {
    "vielä":[
-      "yet",
-      "still",
-      "even",
-      "already"
+       "yet",
+       "still",
+       "even",
+       "already"
    ],
    "oikeastaan":[
-      "really",
-      "actually",
-      "in fact"
+       "really",
+       "actually",
+       "in fact"
    ],
    "yhteensä":[
-      "altogether",
-      "in total"
+       "altogether",
+       "in total"
    ],
    "varmasti":[
-      "certainly"
+       "certainly"
    ],
    "tavallisesti":[
-      "usually",
-      "generally",
-      "normally"
+       "usually",
+       "generally",
+       "normally"
    ],
    "usein":[
-      "often"
+       "often"
    ],
-   "ei koskaan":[
-      "never"
+   "koskaan":[
+       "ever"
    ],
    "epäilemättä":[
-      "certainly",
-      "undoubtedly"
+       "certainly",
+       "undoubtedly"
    ],
    "todennäköisesti":[
-      "probably",
-      "likely"
+       "probably",
+       "likely"
    ],
    "luultavasti":[
-      "probably",
-      "likely"
+       "probably",
+       "likely"
    ],
    "takaisin":[
-      "back"
+       "back"
    ],
    "esimerkiksi":[
-      "for example",
-      "for instance"
+       "for example",
+       "for instance"
    ],
    "kovin":[
-      "very",
-      "really"
+       "very",
+       "really"
    ],
    "mieluummin":[
-      "preferably",
-      "rather"
+       "preferably",
+       "rather"
    ],
    "ulkona":[
-      "out",
-      "outside",
-      "outdoors"
+       "out",
+       "outside",
+       "outdoors"
    ],
-   "sisällä": [
-      "inside"
+   "sisällä":[
+       "inside"
    ],
-   "ulkopuolella": [
-      "outside",
-      "outside of"
+   "ulkopuolella":[
+       "outside",
+       "outside of"
    ],
-   "sisäpuolella": [
-      "inside",
-      "inside of"
+   "sisäpuolella":[
+       "inside",
+       "inside of"
    ],
    "melkein":[
-      "almost",
-      "nearly"
+       "almost",
+       "nearly"
    ],
    "heti":[
-      "immediately",
-      "instantly"
+       "immediately",
+       "instantly"
    ],
    "vaikka":[
-      "for instance",
-      "for example"
+       "for instance",
+       "for example"
    ],
    "mukaan":[
-      "with",
-      "along"
+       "with",
+       "along"
    ],
    "suoraan":[
-      "straight",
-      "directly",
-      "downright"
+       "straight",
+       "directly",
+       "downright"
    ],
    "kansallinen":[
-      "national",
-      "public"
+       "national",
+       "public"
    ],
    "klassinen":[
-      "classical"
+       "classical"
    ],
    "ihan":[
-      "just",
-      "quite",
-      "totally"
+       "just",
+       "quite",
+       "totally"
    ],
    "aika":[
-      "very",
-      "pretty",
-      "quite",
-      "fairly"
+       "very",
+       "pretty",
+       "quite",
+       "fairly"
    ],
    "ainakin":[
-      "at least"
+       "at least"
    ],
    "onneksi":[
-      "luckily",
-      "fortunately",
-      "happily"
+       "luckily",
+       "fortunately",
+       "happily"
    ],
    "rehellisesti":[
-      "honestly"
+       "honestly"
    ],
    "vasta":[
-      "freshly",
-      "not until"
+       "freshly",
+       "not until"
    ],
    "ensin":[
-      "first",
-      "before"
+       "first",
+       "before"
    ],
    "sitten":[
-      "then"
+       "then"
    ],
    "vähän":[
-      "a little",
-      "few"
+       "a little",
+       "few"
    ],
    "muuten":[
-      "otherwise",
-      "by the way",
-      "besides"
+       "otherwise",
+       "by the way",
+       "besides"
    ],
    "edes":[
-      "even",
-      "at least"
+       "even",
+       "at least"
    ],
    "myöhässa":[
-      "late"
+       "late"
    ],
    "myöhään":[
-      "late"
+       "late"
    ],
    "kuitenkin":[
-      "however",
-      "nevertheless",
-      "nonetheless"
+       "however",
+       "nevertheless",
+       "nonetheless"
    ],
    "väliaikaisesti":[
-      "temporarily",
-      "transitorily"
+       "temporarily",
+       "transitorily"
    ],
    "useimmat":[
-      "most"
+       "most"
    ],
    "etukäteen":[
-      "beforehand"
+       "beforehand"
    ],
    "kauhean":[
-      "awfully"
+       "awfully"
    ],
    "ehdottomasti":[
-      "absolutely",
-      "necessarily"
+       "absolutely",
+       "necessarily"
    ],
    "joten":[
-      "therefore",
-      "hence"
+       "therefore",
+       "hence"
    ],
    "kaukana":[
-      "far",
-      "distant"
+       "far",
+       "distant"
    ],
    "nykyisin":[
-      "nowadays"
+       "nowadays"
    ],
    "tosiaan":[
-      "indeed",
-      "truly"
+       "indeed",
+       "truly"
    ],
    "vihdoin":[
-      "finally",
-      "at last",
-      "eventually"
+       "finally",
+       "at last",
+       "eventually"
    ],
    "hirveästi":[
-      "terribly",
-      "awfully"
+       "terribly",
+       "awfully"
    ],
    "ajoissa":[
-      "in time",
-      "early",
-      "on time"
+       "in time",
+       "early",
+       "on time"
    ],
    "seuravaaksi":[
-      "next",
-      "second"
+       "next",
+       "second"
    ],
    "tarpeeksi":[
-      "enough",
-      "sufficiently"
+       "enough",
+       "sufficiently"
    ],
    "ympäri":[
-      "around",
-      "over",
-      "about"
+       "around",
+       "over",
+       "about"
    ],
    "välissä":[
-      "between"
+       "between"
    ],
    "ilmeisesti":[
-      "apparently"
+       "apparently"
    ],
    "aivan":[
-      "precisely",
-      "exactly",
-      "totally",
-      "indeed"
+       "precisely",
+       "exactly",
+       "totally",
+       "indeed"
    ],
    "ollenkaan":[
-      "at all",
-      "any"
+       "at all",
+       "any"
    ],
    "tietenkään":[
-      "of course not"
+       "of course not"
    ],
    "toivottavasti":[
-      "hopefully"
+       "hopefully"
    ],
    "yksin":[
-      "alone"
+       "alone"
    ],
    "lähellä":[
-      "nearby",
-      "close"
+       "nearby",
+       "close"
    ],
-   "aikaisin": [
-      "early"
+   "aikaisin":[
+       "early"
+   ],
+   "ikinä":[
+       "ever"
+   ],
+   "päin":[
+       "towards"
+   ],
+   "liikkumatta":[
+       "immobile"
+   ],
+   "aikaisemmin":[
+       "earlier",
+       "before"
+   ],
+   "viimeksi":[
+       "lastly",
+       "ultimately"
+   ],
+   "kohta":[
+       "soon",
+       "shortly"
+   ],
+   "ohi":[
+       "past",
+       "over"
+   ],
+   "kotoa":[
+       "from home"
    ]
 }

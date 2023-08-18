@@ -1,14 +1,24 @@
 {
    "jälkeen":[
-      "after",
-      "following",
-      "past",
-      "next",
-      "whereupon"
+       "after",
+       "following",
+       "past",
+       "next",
+       "whereupon"
    ],
    "mukaan":[
-      "along",
-      "according to",
-      "after"
+       "along",
+       "according to",
+       "after"
+   ],
+   "takia":[
+       "because of",
+       "due to"
+   ],
+   "kohti":[
+       "towards"
+   ],
+   "kuluttua":[
+       "after"
    ]
 }

@@ -1,540 +1,676 @@
 {
    "rauhoittaa":[
-      "calm"
+       "calm"
    ],
    "häiritä":[
-      "disturb"
+       "disturb"
    ],
    "pelata":[
-      "play"
+       "play"
    ],
    "soittaa":[
-      "play"
+       "play"
    ],
    "herätä":[
-      "wake up"
+       "wake up"
    ],
    "istua":[
-      "sit"
+       "sit"
    ],
    "haluta":[
-      "want"
+       "want"
    ],
    "tarvita":[
-      "need"
+       "need"
    ],
    "lainata":[
-      "lend",
-      "borrow"
+       "lend",
+       "borrow"
    ],
    "riittää":[
-      "be enough"
+       "be enough"
    ],
    "pärjätä":[
-      "manage"
+       "manage"
    ],
    "ansaita":[
-      "earn"
+       "earn"
    ],
    "avata":[
-      "open"
+       "open"
    ],
    "siivota":[
-      "clean",
-      "tidy up"
+       "clean",
+       "tidy up"
    ],
    "asua":[
-      "reside"
+       "reside"
    ],
    "kysyä":[
-      "ask"
+       "ask"
    ],
    "vastata":[
-      "answer"
+       "answer"
    ],
    "tupakoida":[
-      "smoke"
+       "smoke"
    ],
    "polttaa":[
-      "smoke",
-      "burn"
+       "smoke",
+       "burn"
    ],
    "ajaa":[
-      "drive"
+       "drive"
    ],
    "ajatella":[
-      "think"
+       "think"
    ],
    "auttaa":[
-      "help",
-      "assist"
+       "help",
+       "assist"
    ],
    "tuoda":[
-      "bring",
-      "get"
+       "bring",
+       "get"
    ],
    "nousta":[
-      "get up",
-      "increase",
-      "arise",
-      "rise",
-      "stand up"
+       "get up",
+       "increase",
+       "arise",
+       "rise",
+       "stand up"
    ],
    "panna":[
-      "put"
+       "put"
    ],
    "pestä":[
-      "wash"
+       "wash"
    ],
    "oppia":[
-      "learn"
+       "learn"
    ],
    "tiskata":[
-      "wash dishes"
+       "wash dishes"
    ],
    "nukkua":[
-      "sleep"
+       "sleep"
    ],
    "odottaa":[
-      "wait"
+       "wait"
    ],
    "lukea":[
-      "read"
+       "read"
    ],
    "leipoa":[
-      "bake"
+       "bake"
    ],
    "leikkiä":[
-      "play"
+       "play"
    ],
    "tietää":[
-      "know"
+       "know"
    ],
    "kieltää":[
-      "forbid"
+       "forbid"
    ],
    "antaa":[
-      "give"
+       "give"
    ],
    "ymmärtää":[
-      "understand"
+       "understand"
    ],
    "ottaa":[
-      "take"
+       "take"
    ],
    "kirjoittaa":[
-      "write"
+       "write"
    ],
    "lähteä":[
-      "leave"
+       "leave"
    ],
    "lentää":[
-      "fly"
+       "fly"
    ],
    "maata":[
-      "lay down"
+       "lay down"
    ],
    "ehtiä":[
-      "make it",
-      "arrive",
-      "reach",
-      "have time"
+       "make it",
+       "arrive",
+       "reach",
+       "have time"
    ],
    "matkustaa":[
-      "travel"
+       "travel"
    ],
    "imuroida":[
-      "vacuum"
+       "vacuum"
    ],
    "viitsiä":[
-      "bother"
+       "bother"
    ],
    "käyttää":[
-      "use",
-      "consume"
+       "use",
+       "consume"
    ],
    "harrastaa":[
-      "be into", "be interested in"
+       "be into",
+       "be interested in"
    ],
    "katsoa":[
-      "look",
-      "watch",
-      "look up"
+       "look",
+       "watch",
+       "look up"
    ],
    "käydä":[
-      "visit",
-      "attend"
+       "visit",
+       "attend"
    ],
    "seisoa":[
-      "stand"
+       "stand"
    ],
    "saapua":[
-      "arrive"
+       "arrive"
    ],
    "jaksaa":[
-      "be able",
-      "be capable",
-      "have strength"
+       "be able",
+       "be capable",
+       "have strength"
    ],
    "päästä":[
-      "reach",
-      "arrive to",
-      "access",
-      "get to"
+       "reach",
+       "arrive to",
+       "access",
+       "get to"
    ],
    "tavata":[
-      "meet"
+       "meet"
    ],
    "toivoa":[
-      "hope",
-      "wish"
+       "hope",
+       "wish"
    ],
    "uida":[
-      "swim"
+       "swim"
    ],
    "tykätä":[
-      "like"
+       "like"
    ],
    "tanssia":[
-      "dance"
+       "dance"
    ],
    "kokata":[
-      "cook"
+       "cook"
    ],
    "mieltää":[
-      "perceive"
+       "perceive"
    ],
    "työskennellä":[
-      "work"
+       "work"
    ],
    "yrittää":[
-      "try"
+       "try"
    ],
    "nähdä":[
-      "meet",
-      "see"
+       "meet",
+       "see"
    ],
    "tarkoittaa":[
-      "mean",
-      "signify",
-      "imply",
-      "intend"
+       "mean",
+       "signify",
+       "imply",
+       "intend"
    ],
    "soitella":[
-      "phone"
+       "phone"
    ],
    "kertoa":[
-      "tell",
-      "impart",
-      "multiply",
-      "narrate"
+       "tell",
+       "impart",
+       "multiply",
+       "narrate"
    ],
    "jutella":[
-      "chat",
-      "talk"
+       "chat",
+       "talk"
    ],
    "riidellä":[
-      "quarrel",
-      "argue",
-      "contend"
+       "quarrel",
+       "argue",
+       "contend"
    ],
    "kerrata":[
-      "revise",
-      "rehearse"
+       "revise",
+       "rehearse"
    ],
    "vuokrata":[
-      "rent"
+       "rent"
    ],
    "pitää":[
-      "keep",
-      "hold",
-      "arrange",
-      "run",
-      "like"
+       "keep",
+       "hold",
+       "arrange",
+       "run",
+       "like"
    ],
    "kutsua":[
-      "call",
-      "invite"
+       "call",
+       "invite"
    ],
    "lopettaa":[
-      "finish",
-      "stop"
+       "finish",
+       "stop"
    ],
    "kehdata":[
-      "dare"
+       "dare"
    ],
    "lähettää":[
-      "send"
+       "send"
    ],
    "sopia":[
-      "agree"
+       "agree",
+       "match"
    ],
    "näyttää":[
-      "show",
-      "look"
+       "show",
+       "look"
    ],
    "kuulla":[
-      "hear"
+       "hear"
    ],
    "kuulua":[
-      "concern",
-      "be heard"
+       "concern",
+       "be heard"
    ],
    "varata":[
-      "reserve"
+       "reserve"
    ],
    "vihata":[
-      "hate"
+       "hate"
    ],
    "viedä":[
-      "take",
-      "move",
-      "transfer"
+       "take",
+       "move",
+       "transfer"
    ],
    "huutaa":[
-      "yell",
-      "shout",
-      "scream"
+       "yell",
+       "shout",
+       "scream"
    ],
    "saada":[
-      "get",
-      "receive",
-      "gain",
-      "deserve"
+       "get",
+       "receive",
+       "gain",
+       "deserve"
    ],
    "suihkuta":[
-      "shower"
+       "shower"
    ],
    "levätä":[
-      "rest"
+       "rest"
    ],
    "sataa":[
-      "rain"
+       "rain"
    ],
    "löytää":[
-      "find",
-      "discover",
-      "come across"
+       "find",
+       "discover",
+       "come across"
    ],
    "meinata":[
-      "mean",
-      "plan to do",
-      "intend to do"
+       "mean",
+       "plan to do",
+       "intend to do"
    ],
    "meilata":[
-      "email"
+       "email"
    ],
    "myöhästyä":[
-      "miss",
-      "be late"
+       "miss",
+       "be late"
    ],
    "muuttaa":[
-      "move",
-      "relocate",
-      "change",
-      "transform",
-      "modify"
+       "move",
+       "relocate",
+       "change",
+       "transform",
+       "modify"
    ],
    "muistaa":[
-      "remember"
+       "remember"
    ],
    "unohtaa":[
-      "forget",
-      "leave behind"
+       "forget",
+       "leave behind"
    ],
    "kuolla":[
-      "die"
+       "die"
    ],
    "tutustua":[
-      "get to know"
+       "get to know"
    ],
    "jäädä":[
-      "stay",
-      "remain"
+       "stay",
+       "remain"
    ],
    "tapahtua":[
-      "happen",
-      "occur"
+       "happen",
+       "occur"
    ],
    "pyöräillä":[
-      "cycle",
-      "ride a bike"
+       "cycle",
+       "ride a bike"
    ],
    "tilata":[
-      "order",
-      "sign up for",
-      "subscribe to",
-      "sing up"
+       "order",
+       "sign up for",
+       "subscribe to",
+       "sing up"
    ],
    "pyytää":[
-      "ask",
-      "request",
-      "demand",
-      "insist"
+       "ask",
+       "request",
+       "demand",
+       "insist"
    ],
    "tarjota":[
-      "serve",
-      "pay",
-      "offer"
+       "serve",
+       "pay",
+       "offer"
    ],
    "voittaa":[
-      "overcome",
-      "defeat",
-      "win",
-      "conquer"
+       "overcome",
+       "defeat",
+       "win",
+       "conquer"
    ],
    "kiittää":[
-      "thank",
-      "praise",
-      "commend"
+       "thank",
+       "praise",
+       "commend"
    ],
    "alkaa":[
-      "start"
+       "start"
    ],
    "halata":[
-      "hug",
-      "embrace"
+       "hug",
+       "embrace"
    ],
    "saattaa":[
-      "escort",
-      "accompany"
+       "escort",
+       "accompany"
    ],
    "keskustella":[
-      "chat"
+       "chat"
    ],
    "kestää":[
-      "endure",
-      "withstand",
-      "take",
-      "support",
-      "cope",
-      "tolerate"
+       "endure",
+       "withstand",
+       "take",
+       "support",
+       "cope",
+       "tolerate"
    ],
    "päättää":[
-      "decide",
-      "determine",
-      "opt"
+       "decide",
+       "determine",
+       "opt"
    ],
    "tarkastaa":[
-      "check",
-      "inspect",
-      "vet",
-      "audit"
+       "check",
+       "inspect",
+       "vet",
+       "audit"
    ],
    "varoittaa":[
-      "warn",
-      "caution"
+       "warn",
+       "caution"
    ],
    "luulla":[
-      "think",
-      "believe",
-      "suppose",
-      "guess"
+       "think",
+       "believe",
+       "suppose",
+       "guess"
    ],
    "särkeä":[
-      "break",
-      "ache",
-      "breach"
+       "break",
+       "ache",
+       "breach"
    ],
    "hävetä":[
-      "be ashamed",
-      "be afraid"
+       "be ashamed",
+       "be afraid"
    ],
    "aikoa":[
-      "intend",
-      "plan"
+       "intend",
+       "plan"
    ],
    "varastaa":[
-      "steal"
+       "steal"
    ],
    "matkata":[
-      "travel"
+       "travel"
    ],
    "väsyttää":[
-      "tire",
-      "exhaust"
+       "tire",
+       "exhaust"
    ],
    "juosta":[
-      "run",
-      "sprint"
+       "run",
+       "sprint"
    ],
    "kierrellä":[
-      "wander",
-      "tour"
+       "wander",
+       "tour"
    ],
    "pidetä":[
-      "grow long",
-      "lengthen"
+       "grow long",
+       "lengthen"
    ],
    "läpäistä":[
-      "pass",
-      "penetrate",
-      "pierce",
-      "make a hole"
+       "pass",
+       "penetrate",
+       "pierce",
+       "make a hole"
    ],
    "uskoa":[
-      "believe",
-      "have faith",
-      "entrust"
+       "believe",
+       "have faith",
+       "entrust"
    ],
    "etsiä":[
-      "search",
-      "look for"
+       "search",
+       "look for"
    ],
    "hakea":[
-      "seek",
-      "retrieve",
-      "look for"
+       "seek",
+       "retrieve",
+       "look for"
    ],
    "pyyhkiä":[
-      "wipe",
-      "erase"
+       "wipe",
+       "erase"
    ],
    "pestä pyykkiä":[
-      "do laundry"
+       "do laundry"
    ],
    "pyyhkiä pölyt":[
-      "dust"
+       "dust"
    ],
    "kyllästyä":[
-      "get bored",
-      "get tired"
+       "get bored",
+       "get tired"
    ],
    "ihastua":[
-      "be charmed"
+       "be charmed"
    ],
    "luottaa":[
-      "trust"
+       "trust"
    ],
    "jättää":[
-      "leave",
-      "abandon"
+       "leave",
+       "abandon"
    ],
    "haukkua":[
-      "bark"
+       "bark"
    ],
    "höpistä":[
-      "talk nonsense"
+       "talk nonsense"
    ],
    "arvata":[
-      "guess"
+       "guess"
    ],
    "hiihtää":[
-      "ski"
+       "ski"
    ],
    "kaatua":[
-      "fall"
+       "fall"
    ],
    "pudota":[
-      "fall"
+       "fall"
    ],
    "hirttää":[
-      "hang"
+       "hang"
    ],
    "vanheta":[
-      "age"
+       "age"
    ],
    "parantaa":[
-      "improve", "cure", "heal", "remedy"
+       "improve",
+       "cure",
+       "heal",
+       "remedy"
+   ],
+   "suorittaa":[
+       "carry out",
+       "perform",
+       "fulfill",
+       "accomplish"
+   ],
+   "liikkua":[
+       "move",
+       "travel"
+   ],
+   "kääntyä":[
+       "turn to",
+       "change direction",
+       "shift"
+   ],
+   "sisältää":[
+       "contain",
+       "include",
+       "involve",
+       "entail",
+       "imply"
+   ],
+   "varoa":[
+       "be careful",
+       "beware of"
+   ],
+   "erota":[
+       "divorce",
+       "separate"
+   ],
+   "jatkua":[
+       "last",
+       "continue"
+   ],
+   "johtaa":[
+       "lead",
+       "guide",
+       "command"
+   ],
+   "vaihtaa":[
+       "replace",
+       "switch"
+   ],
+   "osallistua":[
+       "participate in",
+       "be involved in"
+   ],
+   "ilmoittaa":[
+       "report",
+       "announce",
+       "notify"
+   ],
+   "tunteä":[
+       "know personally",
+       "recognize"
+   ],
+   "pelätä":[
+       "fear"
+   ],
+   "pukea":[
+       "dress",
+       "put on"
+   ],
+   "kääntää":[
+       "translate"
+   ],
+   "maalata":[
+       "paint"
+   ],
+   "myydä":[
+       "sell"
+   ],
+   "aloittaa":[
+       "start"
+   ],
+   "suuttua":[
+       "get angry"
+   ],
+   "sallia":[
+       "allow"
+   ],
+   "sulkea":[
+       "shut",
+       "close"
+   ],
+   "loppuunmyydä":[
+       "sell out"
+   ],
+   "paluu":[
+       "return",
+       "come back"
+   ],
+   "hymyillä":[
+       "smile"
+   ],
+   "työntää":[
+       "push"
+   ],
+   "vetää":[
+       "pull"
+   ],
+   "nostaa":[
+       "lift"
+   ],
+   "laskea":[
+       "count"
+   ],
+   "laittaa":[
+       "put"
+   ],
+   "heittää":[
+       "throw"
+   ],
+   "valita":[
+       "choose"
+   ],
+   "hoitaa":[
+       "take care of"
+   ],
+   "syntyä":[
+       "be born"
+   ],
+   "elää":[
+       "be alive"
+   ],
+   "laulaa":[
+       "sing"
+   ],
+   "loppua":[
+       "end"
    ]
 }

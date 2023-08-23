@@ -1,330 +1,349 @@
 {
    "korkea":[
-      "high"
+       "high"
    ],
    "matala":[
-      "low"
+       "low"
    ],
    "pitkä":[
-      "tall", "long"
+       "tall",
+       "long"
    ],
    "lyhyt":[
-      "short",
-      "brief"
+       "short",
+       "brief"
    ],
    "leveä":[
-      "broad", "wide"
+       "broad",
+       "wide"
    ],
    "kapea":[
-      "narrow"
+       "narrow"
    ],
    "vanha":[
-      "old"
+       "old"
    ],
    "uusi":[
-      "new"
+       "new"
    ],
    "nuori":[
-      "young"
+       "young"
    ],
    "paksu":[
-      "thick"
+       "thick"
    ],
    "ohut":[
-      "thin"
+       "thin"
    ],
    "painava":[
-      "heavy"
+       "heavy"
    ],
    "kevyt":[
-      "light"
+       "light"
    ],
    "laiha":[
-      "skinny",
-      "lean",
-      "thin"
+       "skinny",
+       "lean",
+       "thin"
    ],
    "lihava":[
-      "fat"
+       "fat"
    ],
    "vahva":[
-      "strong"
+       "strong"
    ],
    "heikko":[
-      "weak"
+       "weak"
    ],
    "köyhä":[
-      "poor"
+       "poor"
    ],
    "rikas":[
-      "rich"
+       "rich"
    ],
    "kallis":[
-      "expensive"
+       "expensive"
    ],
    "halpa":[
-      "cheap"
+       "cheap"
    ],
    "siisti":[
-      "tidy"
+       "tidy"
    ],
    "epäsiisti":[
-      "untidy"
+       "untidy"
    ],
    "valoisa":[
-      "light",
-      "bright"
+       "light",
+       "bright"
    ],
    "pimeä":[
-      "dark"
+       "dark"
    ],
    "lämmin":[
-      "warm"
+       "warm"
    ],
    "kuuma":[
-      "hot"
+       "hot"
    ],
    "kiva":[
-      "nice"
+       "nice"
    ],
    "kaunis":[
-      "beautiful"
+       "beautiful"
    ],
    "hieno":[
-      "fine"
+       "fine"
    ],
    "kirkas":[
-      "bright"
+       "bright"
    ],
    "viileä":[
-      "cool"
+       "cool"
    ],
    "kylmä":[
-      "cold"
+       "cold"
    ],
    "tylsä":[
-      "boring"
+       "boring"
    ],
    "ikävä":[
-      "unpleasant",
-      "tedious",
-      "boring",
-      "sad"
+       "unpleasant",
+       "tedious",
+       "boring",
+       "sad"
    ],
    "pilvinen":[
-      "cloudy"
+       "cloudy"
    ],
    "rasvainen":[
-      "greasy"
+       "greasy"
    ],
    "makea":[
-      "sweet"
+       "sweet"
    ],
    "suolainen":[
-      "salty"
+       "salty"
    ],
    "varattu":[
-      "reserved"
+       "reserved"
    ],
    "alkoholiton":[
-      "alcohol free"
+       "alcohol free"
    ],
    "kuiva":[
-      "dry"
+       "dry"
    ],
    "rauhallinen":[
-      "calm"
+       "calm"
    ],
    "aikainen":[
-      "early"
+       "early"
    ],
    "tavallinen":[
-      "common",
-      "ordinary",
-      "usual",
-      "normal",
-      "conventional"
+       "common",
+       "ordinary",
+       "usual",
+       "normal",
+       "conventional"
    ],
    "sairas":[
-      "ill",
-      "sick"
+       "ill",
+       "sick"
    ],
    "hassu":[
-      "silly"
+       "silly"
    ],
    "ihana":[
-      "wonderful",
-      "lovely"
+       "wonderful",
+       "lovely"
    ],
    "vieras":[
-      "strange",
-      "alien"
+       "strange",
+       "alien"
    ],
-   "yksinäinen": [
-      "lonely"
+   "yksinäinen":[
+       "lonely"
    ],
    "lähin":[
-      "nearest",
-      "closest"
+       "nearest",
+       "closest"
    ],
-   "viime": [
-      "last"
-   ],   
+   "viime":[
+       "last"
+   ],
    "viimeinen":[
-      "last"
+       "last"
    ],
-   "rakastava": [
-      "loving"
+   "rakastava":[
+       "loving"
    ],
    "rakas":[
-      "darling",
-      "dear"
+       "darling",
+       "dear"
    ],
    "hidas":[
-      "slow"
+       "slow"
    ],
    "aika":[
-      "quite",
-      "pretty",
-      "considerably",
-      "fairly"
+       "quite",
+       "pretty",
+       "considerably",
+       "fairly"
    ],
    "vapaa":[
-      "free",
-      "vacant"
+       "free",
+       "vacant"
    ],
    "kaikenlainen":[
-      "all kinds of",
-      "all sorts of"
+       "all kinds of",
+       "all sorts of"
    ],
    "eri":[
-      "different"
+       "different"
    ],
    "erilainen":[
-      "different",
-      "distinct",
-      "various",
-      "diverse"
+       "different",
+       "distinct",
+       "various",
+       "diverse"
    ],
    "paha":[
-      "bad",
-      "nasty",
-      "malign",
-      "evil"
+       "bad",
+       "nasty",
+       "malign",
+       "evil"
    ],
    "hullu":[
-      "crazy"
+       "crazy"
    ],
    "terveellinen":[
-      "healthy"
+       "healthy"
    ],
    "erikoinen":[
-      "special",
-      "particular"
+       "special",
+       "particular"
    ],
    "mukava":[
-      "comfortable",
-      "pleasant",
-      "nice"
+       "comfortable",
+       "pleasant",
+       "nice"
    ],
    "tilava":[
-      "spacious"
+       "spacious"
    ],
    "kipeä":[
-      "sore",
-      "ill",
-      "aching"
+       "sore",
+       "ill",
+       "aching"
    ],
    "kamala":[
-      "horrible",
-      "terrible",
-      "awful"
+       "horrible",
+       "terrible",
+       "awful"
    ],
    "tumma":[
-      "dark"
+       "dark"
    ],
    "entinen":[
-      "former",
-      "past"
+       "former",
+       "past"
    ],
    "oma":[
-      "own"
+       "own"
    ],
    "virallinen":[
-      "official"
+       "official"
    ],
    "saamelainen":[
-      "sami"
+       "sami"
    ],
    "kiinni":[
-      "closed"
+       "closed"
    ],
    "vihainen":[
-      "angry"
+       "angry"
    ],
    "tyytyväinen":[
-      "satisfied",
-      "content",
-      "pleased"
+       "satisfied",
+       "content",
+       "pleased"
    ],
    "törkeä":[
-      "aggravated",
-      "coarse",
-      "egregious",
-      "outrageous"
+       "aggravated",
+       "coarse",
+       "egregious",
+       "outrageous"
    ],
    "tuore":[
-      "recent",
-      "new",
-      "fresh"
+       "recent",
+       "new",
+       "fresh"
    ],
    "kotimainen":[
-      "domestic"
+       "domestic"
    ],
    "aurinkoinen":[
-      "sunny"
+       "sunny"
    ],
    "upea":[
-      "awesome",
-      "gorgeous",
-      "luxurious"
+       "awesome",
+       "gorgeous",
+       "luxurious"
    ],
    "hirveä":[
-      "horrible",
-      "terrible",
-      "awful"
+       "horrible",
+       "terrible",
+       "awful"
    ],
    "kiltti":[
-      "obedient",
-      "kind"
+       "obedient",
+       "kind"
    ],
    "raskas":[
-      "oppressive",
-      "heavy"
+       "oppressive",
+       "heavy"
    ],
    "taivaallinen":[
-      "heavenly",
-      "celestial",
-      "divine"
+       "heavenly",
+       "celestial",
+       "divine"
    ],
    "käytetty":[
-      "used",
-      "second hand"
+       "used",
+       "second hand"
    ],
    "laiska":[
-      "lazy"
+       "lazy"
    ],
    "syvä":[
-      "deep",
-      "profound"
+       "deep",
+       "profound"
    ],
    "omituinen":[
-      "bizarre",
-      "strange",
-      "peculiar",
-      "quirky"
+       "bizarre",
+       "strange",
+       "peculiar",
+       "quirky"
    ],
-   "korruptoitunut": [
-      "corrupt"
+   "korruptoitunut":[
+       "corrupt"
+   ],
+   "keskiaikainen":[
+       "medieval"
+   ],
+   "historiallinen":[
+       "historical"
+   ],
+   "tiukka":[
+       "strict",
+       "restrictive",
+       "vigorous"
+   ],
+   "itsenäinen":[
+       "independent"
+   ],
+   "kiintoisa":[
+       "interesting"
    ]
 }

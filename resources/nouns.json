@@ -1,1181 +1,1305 @@
 {
     "jotakin":[
-        "something"
+       "something"
     ],
     "ei mitään":[
-        "nothing"
+       "nothing"
     ],
     "pasteija":[
-        "pastry"
+       "pastry"
     ],
     "tuoppi":[
-        "pint"
+       "pint"
     ],
     "rauhallisuus":[
-        "calm"
+       "calm"
     ],
     "jälkiruoka":[
-        "dessert"
+       "dessert"
     ],
     "lasku":[
-        "bill"
+       "bill"
     ],
     "patukka":[
-        "bar"
+       "bar"
     ],
     "jauhe":[
-        "powder"
+       "powder"
     ],
     "koipi":[
-        "leg"
+       "leg"
     ],
     "luotto":[
-        "credit"
+       "credit"
     ],
     "muovi":[
-        "plastic"
+       "plastic"
     ],
     "kassi":[
-        "bag"
+       "bag"
     ],
     "ensi":[
-        "next"
+       "next"
     ],
     "edellinen":[
-        "previous"
+       "previous"
     ],
     "pokka":[
-        "poker"
+       "poker"
     ],
     "pasianssi":[
-        "solitaire"
+       "solitaire"
     ],
     "salaisuus":[
-        "secret"
+       "secret"
     ],
     "kysymys":[
-        "question"
+       "question"
     ],
     "vastaus":[
-        "answer"
+       "answer"
     ],
     "jatko":[
-        "continuation",
-        "extension"
+       "continuation",
+       "extension"
     ],
     "viulu":[
-        "violin"
+       "violin"
     ],
     "hammas":[
-        "tooth"
+       "tooth"
     ],
     "loma":[
-        "vacation"
+       "vacation"
     ],
     "työ":[
-        "job",
-        "labour",
-        "task",
-        "toil"
+       "job",
+       "labour",
+       "task",
+       "toil"
     ],
     "harmaa":[
-        "grey"
+       "grey"
     ],
     "puu":[
-        "tree"
+       "tree"
     ],
     "pysäki":[
-        "stop",
-        "stand"
+       "stop",
+       "stand"
     ],
     "toimittaja":[
-        "supplier",
-        "journalist",
-        "reporter"
+       "supplier",
+       "journalist",
+       "reporter"
     ],
     "kulttuuri":[
-        "culture"
+       "culture"
     ],
     "suurlähetystö":[
-        "embassy"
+       "embassy"
     ],
     "lähetystö":[
-        "delegation",
-        "legation"
+       "delegation",
+       "legation"
     ],
     "netti":[
-        "internet"
+       "internet"
     ],
     "osoite":[
-        "address"
+       "address"
     ],
     "urheilu":[
-        "sport"
+       "sport"
     ],
     "kerta":[
-        "time",
-        "instance",
-        "occasion"
+       "time",
+       "instance",
+       "occasion"
     ],
     "tavaratalo":[
-        "department store",
-        "mall"
+       "department store",
+       "mall"
     ],
     "lukeminen":[
-        "reading"
+       "reading"
     ],
     "taide":[
-        "art"
+       "art"
     ],
     "koko":[
-        "all"
+       "all"
     ],
     "vessapaperi":[
-        "toilet paper"
+       "toilet paper"
     ],
     "saippua":[
-        "soap"
+       "soap"
     ],
     "eläintarha":[
-        "zoo"
+       "zoo"
     ],
     "tarha":[
-        "garden",
-        "yard",
-        "enclosure"
+       "garden",
+       "yard",
+       "enclosure"
     ],
     "eläin":[
-        "animal"
+       "animal"
     ],
     "hylly":[
-        "shelf",
-        "rack",
-        "stand"
+       "shelf",
+       "rack",
+       "stand"
     ],
     "parveke":[
-        "balcony",
-        "terrace",
-        "gallery"
+       "balcony",
+       "terrace",
+       "gallery"
     ],
     "saapas":[
-        "boot"
+       "boot"
     ],
     "ero":[
-        "difference",
-        "distinction",
-        "divorce",
-        "resignation"
+       "difference",
+       "distinction",
+       "divorce",
+       "resignation"
     ],
     "kumi":[
-        "rubber"
+       "rubber"
     ],
     "kumisaapat":[
-        "rubber boots"
+       "rubber boots"
     ],
     "tiede":[
-        "science"
+       "science"
     ],
     "lääketiede":[
-        "medicine"
+       "medicine"
     ],
     "allas":[
-        "pool"
+       "pool"
     ],
     "rakas":[
-        "darling",
-        "dear",
-        "sweetheart",
-        "love",
-        "beloved"
+       "darling",
+       "dear",
+       "sweetheart",
+       "love",
+       "beloved"
     ],
     "bändi":[
-        "band"
+       "band"
     ],
     "aika":[
-        "time",
-        "moment",
-        "era",
-        "period"
+       "time",
+       "moment",
+       "era",
+       "period"
     ],
     "mieli":[
-        "mind",
-        "mood",
-        "will"
+       "mind",
+       "mood",
+       "will"
     ],
     "laiva":[
-        "ship",
-        "boat"
+       "ship",
+       "boat"
     ],
     "vene":[
-        "boat"
+       "boat"
     ],
     "ratikka":[
-        "tram"
+       "tram"
     ],
     "raitiovaunu":[
-        "tram"
+       "tram"
+    ],
+    "vaunu":[
+       "carriage",
+       "wagon"
     ],
     "kaikki":[
-        "everybody",
-        "everything",
-        "everyone"
+       "everybody",
+       "everything",
+       "everyone"
     ],
     "ilma":[
-        "weather"
+       "weather"
     ],
     "väri":[
-        "color"
+       "color"
     ],
     "kiire":[
-        "hurry",
-        "rush",
-        "busy"
+       "hurry",
+       "rush",
+       "busy"
     ],
     "joki":[
-        "river"
+       "river"
     ],
     "koski":[
-        "rapid"
+       "rapid"
     ],
     "vieras":[
-        "visitor",
-        "guest",
-        "stranger",
-        "outsider"
+       "visitor",
+       "guest",
+       "stranger",
+       "outsider"
     ],
     "vaate":[
-        "clothing"
+       "clothing"
     ],
     "huoneisto":[
-        "flat",
-        "apartment"
+       "flat",
+       "apartment"
     ],
     "asuntola":[
-        "dormitory",
-        "residence"
+       "dormitory",
+       "residence"
     ],
     "vuokra":[
-        "rent",
-        "rental"
+       "rent",
+       "rental"
     ],
     "eteinen":[
-        "hall",
-        "hallway",
-        "lobby",
-        "vestibule"
+       "hall",
+       "hallway",
+       "lobby",
+       "vestibule"
     ],
     "seinä":[
-        "wall"
+       "wall"
     ],
     "lattia":[
-        "floor"
+       "floor"
     ],
     "katto":[
-        "ceiling",
-        "roof"
+       "ceiling",
+       "roof"
     ],
     "matto":[
-        "rug",
-        "carpet"
+       "rug",
+       "carpet"
     ],
     "juliste":[
-        "poster",
-        "bill",
-        "placard"
+       "poster",
+       "bill",
+       "placard"
     ],
     "taulu":[
-        "painting"
+       "painting"
     ],
     "amme":[
-        "bathtub",
-        "tub"
+       "bathtub",
+       "tub"
     ],
     "vintti":[
-        "attic"
+       "attic"
     ],
     "ullakko":[
-        "attic"
+       "attic"
     ],
     "kukkapenkki":[
-        "flower bed"
+       "flower bed"
     ],
     "penkki":[
-        "bench",
-        "workbench"
+       "bench",
+       "workbench"
     ],
     "peili":[
-        "mirror"
+       "mirror"
     ],
     "hella":[
-        "oven",
-        "stove"
+       "oven",
+       "stove"
     ],
     "makuuhuone":[
-        "bedroom"
+       "bedroom"
     ],
     "juhla":[
-        "party"
+       "party"
     ],
     "harjoitus":[
-        "exercise",
-        "practice",
-        "drill"
+       "exercise",
+       "practice",
+       "drill"
     ],
     "jano":[
-        "thirst",
-        "desire",
-        "lust"
+       "thirst",
+       "desire",
+       "lust"
     ],
     "vatsa":[
-        "stomach"
+       "stomach"
     ],
     "kuume":[
-        "fever",
-        "temperature"
+       "fever",
+       "temperature"
     ],
     "nälkä":[
-        "hunger",
-        "craving"
+       "hunger",
+       "craving"
     ],
     "tukka":[
-        "hair"
+       "hair"
     ],
     "kaksikielinen":[
-        "bilingual"
+       "bilingual"
     ],
     "takki":[
-        "coat"
+       "coat"
     ],
     "farkut":[
-        "jeans"
+       "jeans"
     ],
     "kasvot":[
-        "face"
+       "face"
     ],
     "hiukset":[
-        "hair"
+       "hair"
     ],
     "silmä":[
-        "eye"
+       "eye"
     ],
     "sakset":[
-        "scissors"
+       "scissors"
     ],
     "lastenvaunut":[
-        "baby carriage",
-        "pram",
-        "perambulator"
+       "baby carriage",
+       "pram",
+       "perambulator"
     ],
     "housut":[
-        "trousers"
+       "trousers"
     ],
     "kenkä":[
-        "shoe",
-        "boot"
+       "shoe",
+       "boot"
     ],
     "sukka":[
-        "sock"
+       "sock"
     ],
     "käsine":[
-        "glove"
+       "glove"
     ],
     "yöpuku":[
-        "pyjama"
+       "pyjama"
     ],
     "hattu":[
-        "hat"
+       "hat"
     ],
     "kaulaliina":[
-        "scarf"
+       "scarf"
     ],
     "hame":[
-        "skirt"
+       "skirt"
     ],
     "paita":[
-        "shirt"
+       "shirt"
     ],
     "pusero":[
-        "blouse"
+       "blouse"
     ],
     "puku":[
-        "suit"
+       "suit"
     ],
     "käsilaukku":[
-        "handbag",
-        "purse"
+       "handbag",
+       "purse"
     ],
     "laukku":[
-        "bag"
+       "bag"
     ],
     "reppu":[
-        "backpack",
-        "bag"
+       "backpack",
+       "bag"
     ],
     "sähköposti":[
-        "email"
+       "email"
     ],
     "tekstiviesti":[
-        "text message"
+       "text message"
     ],
     "neuvo":[
-        "advice"
+       "advice"
     ],
     "kutsu":[
-        "invitation",
-        "call",
-        "invite"
+       "invitation",
+       "call",
+       "invite"
     ],
     "patonki":[
-        "baguette"
+       "baguette"
     ],
     "tila":[
-        "space",
-        "room"
+       "space",
+       "room"
     ],
     "sadetakki":[
-        "raincoat"
+       "raincoat"
     ],
     "hyttynen":[
-        "mosquito"
+       "mosquito"
     ],
     "viisumi":[
-        "visa"
+       "visa"
     ],
     "sateenvarjo":[
-        "umbrella"
+       "umbrella"
     ],
     "passi":[
-        "passport",
-        "pass"
+       "passport",
+       "pass"
     ],
     "postimerkki":[
-        "stamp"
+       "stamp"
     ],
     "merta":[
-        "trap"
+       "trap"
     ],
     "saatto":[
-        "procession",
-        "escort"
+       "procession",
+       "escort"
     ],
     "lahja":[
-        "gift",
-        "present"
+       "gift",
+       "present"
     ],
     "aamiainen":[
-        "breakfast"
+       "breakfast"
     ],
     "luoja":[
-        "creator",
-        "author"
+       "creator",
+       "author"
     ],
     "suukko":[
-        "kiss"
+       "kiss"
     ],
     "näytös":[
-        "show",
-        "presentation"
+       "show",
+       "presentation"
     ],
     "särkylääke":[
-        "analgesic",
-        "painkiller"
+       "analgesic",
+       "painkiller"
     ],
     "Tukholma":[
-        "stockholm"
+       "stockholm"
     ],
     "lehti":[
-        "newspaper",
-        "magazine"
+       "newspaper",
+       "magazine"
     ],
     "kylä":[
-        "village",
-        "town"
+       "village",
+       "town"
     ],
     "ruusu":[
-        "rose"
+       "rose"
     ],
     "pallo":[
-        "ball"
+       "ball"
     ],
     "kirpputori":[
-        "flea market"
+       "flea market"
     ],
     "kirjekortti":[
-        "postcard"
+       "postcard"
     ],
     "retkeilymaja":[
-        "hostel",
-        "youth hostel"
+       "hostel",
+       "youth hostel"
     ],
     "retkeily":[
-        "hiking",
-        "camping",
-        "backpacking"
+       "hiking",
+       "camping",
+       "backpacking"
     ],
     "maja":[
-        "hut",
-        "cottage",
-        "lodge",
-        "cabin"
+       "hut",
+       "cottage",
+       "lodge",
+       "cabin"
     ],
     "asema":[
-        "station"
+       "station"
     ],
     "vapaalippu":[
-        "free ticket"
+       "free ticket"
     ],
     "aalto":[
-        "wave",
-        "outbreak"
+       "wave",
+       "outbreak"
     ],
     "matka":[
-        "travel",
-        "trip",
-        "tour",
-        "voyage"
+       "travel",
+       "trip",
+       "tour",
+       "voyage"
     ],
     "suihku":[
-        "shower"
+       "shower"
     ],
     "maisema":[
-        "landscape",
-        "scene",
-        "view",
-        "scenery"
+       "landscape",
+       "scene",
+       "view",
+       "scenery"
     ],
     "dokumentti":[
-        "documentary"
+       "documentary"
     ],
     "asiakirja":[
-        "document"
+       "document"
     ],
     "setti":[
-        "set",
-        "package"
+       "set",
+       "package"
     ],
     "vippi":[
-        "loan",
-        "accomodation"
+       "loan",
+       "accomodation"
     ],
     "olemus":[
-        "attitude"
+       "attitude"
     ],
     "käveleminen":[
-        "walk"
+       "walk"
     ],
     "sanasto":[
-        "vocabulary"
+       "vocabulary"
     ],
     "usko":[
-        "belief"
+       "belief"
     ],
     "luulo":[
-        "belief",
-        "supposition",
-        "thought",
-        "impression"
+       "belief",
+       "supposition",
+       "thought",
+       "impression"
     ],
     "kansa":[
-        "people"
+       "people"
     ],
     "hullu":[
-        "crazy",
-        "lunatic",
-        "madman"
+       "crazy",
+       "lunatic",
+       "madman"
     ],
     "ostos":[
-        "purchase"
+       "purchase"
     ],
     "korkokengät":[
-        "high heels"
+       "high heels"
     ],
     "mekko":[
-        "dress"
+       "dress"
     ],
     "huivi":[
-        "scarf"
+       "scarf"
     ],
     "alusvaate":[
-        "underwear"
+       "underwear"
     ],
     "käärme":[
-        "snake"
+       "snake"
     ],
     "tavara":[
-        "thing",
-        "object",
-        "ware",
-        "commodity",
-        "item"
+       "thing",
+       "object",
+       "ware",
+       "commodity",
+       "item"
     ],
     "silakka":[
-        "herring"
+       "herring"
     ],
     "porkkana":[
-        "carrot"
+       "carrot"
     ],
     "hedelmä":[
-        "fruit"
+       "fruit"
     ],
     "huonekalu":[
-        "furniture"
+       "furniture"
     ],
     "lamppu":[
-        "lamp"
+       "lamp"
     ],
     "divari":[
-        "antiquarian bookshop"
+       "antiquarian bookshop"
     ],
     "aivot":[
-        "brain"
+       "brain"
     ],
     "marja":[
-        "berry"
+       "berry"
     ],
     "rapu":[
-        "crayfish"
+       "crayfish"
     ],
     "sukulainen":[
-        "relative"
+       "relative"
     ],
     "perä":[
-        "back",
-        "rear"
+       "back",
+       "rear"
     ],
     "herne":[
-        "pea",
-        "legume"
+       "pea",
+       "legume"
     ],
     "tilanne":[
-        "situation"
+       "situation"
     ],
     "osasto":[
-        "department",
-        "unit",
-        "compartment",
-        "area",
-        "section"
+       "department",
+       "unit",
+       "compartment",
+       "area",
+       "section"
     ],
     "turkki":[
-        "coat",
-        "fur coat"
+       "coat",
+       "fur coat"
     ],
     "erisnimi":[
-        "proper name"
+       "proper name"
     ],
     "uhka":[
-        "threat",
-        "danger",
-        "menace"
+       "threat",
+       "danger",
+       "menace"
     ],
     "tuote":[
-        "product"
+       "product"
     ],
     "silta":[
-        "bridge"
+       "bridge"
     ],
     "laatikko":[
-        "box",
-        "drawer"
+       "box",
+       "drawer"
     ],
     "sarja":[
-        "serie",
-        "succession"
+       "serie",
+       "succession"
     ],
     "majatalo":[
-        "inn"
+       "inn"
     ],
     "kuormuri":[
-        "truck",
-        "lorry"
+       "truck",
+       "lorry"
     ],
     "ranta":[
-        "beach"
+       "beach",
+       "coast"
     ],
     "metsä":[
-        "forest"
+       "forest"
     ],
     "lintu":[
-        "bird"
+       "bird"
     ],
     "kukko":[
-        "rooster"
+       "rooster"
     ],
     "kynä":[
-        "pen"
+       "pen"
     ],
     "sormus":[
-        "ring"
+       "ring"
     ],
     "kuu":[
-        "moon"
+       "moon"
     ],
     "tähti":[
-        "star"
+       "star"
     ],
     "kukkula":[
-        "hill"
+       "hill"
     ],
     "mäki":[
-        "hill"
+       "hill"
     ],
     "puro":[
-        "stream"
+       "stream"
     ],
     "vesiputous":[
-        "waterfall"
+       "waterfall"
     ],
     "auringonlasku":[
-        "sunset"
+       "sunset"
     ],
     "auringonnousu":[
-        "sunrise"
+       "sunrise"
     ],
     "pilvi":[
-        "cloud"
+       "cloud"
     ],
     "sade":[
-        "rain"
+       "rain"
     ],
     "ukkonen":[
-        "thunder"
+       "thunder"
     ],
     "salama":[
-        "lightning"
+       "lightning"
     ],
     "sumu":[
-        "fog"
+       "fog"
     ],
     "lumi":[
-        "snow"
+       "snow"
     ],
     "jää":[
-        "ice"
+       "ice"
     ],
     "tuuli":[
-        "wind"
+       "wind"
     ],
     "sää":[
-        "weather"
+       "weather"
     ],
     "lämpötila":[
-        "temperature"
+       "temperature"
     ],
     "sadevarjo":[
-        "umbrella"
+       "umbrella"
     ],
     "lapaset":[
-        "mittens"
+       "mittens"
     ],
     "tossut":[
-        "slippers"
+       "slippers"
     ],
     "lenkkarit":[
-        "trainers"
+       "trainers"
     ],
     "matkalaukku":[
-        "suitcase"
+       "suitcase"
     ],
     "lompakko":[
-        "wallet"
+       "wallet"
     ],
     "kolikko":[
-        "coin"
+       "coin"
     ],
     "luottokortti":[
-        "credit card"
+       "credit card"
     ],
     "sanomalehti":[
-        "newspaper"
+       "newspaper"
     ],
     "sanoma":[
-        "message",
-        "communication"
+       "message",
+       "communication"
     ],
     "sarjakuva":[
-        "comic book"
+       "comic book"
     ],
     "novelli":[
-        "short story"
+       "short story",
+       "novella"
     ],
     "kirjasto":[
-        "library"
+       "library"
     ],
     "näppäimistö":[
-        "keyboard"
+       "keyboard"
     ],
     "hiiri":[
-        "mouse"
+       "mouse"
     ],
     "näyttö":[
-        "monitor",
-        "display"
+       "monitor",
+       "display"
     ],
     "tulostin":[
-        "printer"
+       "printer"
     ],
     "kaiutin":[
-        "speaker"
+       "speaker"
     ],
     "kuuloke":[
-        "headphone"
+       "headphone"
     ],
     "mikrofoni":[
-        "microphone"
+       "microphone"
     ],
     "kaukosäädin":[
-        "remote control"
+       "remote control"
     ],
     "säädin":[
-        "controller"
+       "controller"
     ],
     "kaupungintalo":[
-        "city hall"
+       "city hall"
     ],
     "pikaruokala":[
-        "fast food restaurant"
+       "fast food restaurant"
     ],
     "panimo":[
-        "brewery"
+       "brewery"
     ],
     "parturi-kampaamo":[
-        "hair salon",
-        "hairdresser"
+       "hair salon",
+       "hairdresser"
     ],
     "raha":[
-        "money"
+       "money"
     ],
     "valuutta":[
-        "currency"
+       "currency"
     ],
     "pankki":[
-        "bank"
+       "bank"
     ],
     "tili":[
-        "account"
+       "account"
     ],
     "laina":[
-        "loan"
+       "loan"
     ],
     "velka":[
-        "debt"
+       "debt"
     ],
     "sijoitus":[
-        "investment"
+       "investment"
     ],
     "osake":[
-        "stock"
+       "stock"
     ],
     "korko":[
-        "interest"
+       "interest"
     ],
     "tulos":[
-        "outcome",
-        "result",
-        "sum"
+       "outcome",
+       "result",
+       "sum"
     ],
     "menot":[
-        "expenses"
+       "expenses"
     ],
     "voitto":[
-        "profit"
+       "profit"
     ],
     "tappio":[
-        "loss"
+       "loss"
     ],
     "verotus":[
-        "taxation"
+       "taxation"
     ],
     "vero":[
-        "tax"
+       "tax"
     ],
     "varat":[
-        "assets"
+       "assets"
     ],
     "vastuu":[
-        "liability"
+       "liability"
     ],
     "omaisuus":[
-        "property"
+       "property"
     ],
     "omistaja":[
-        "owner"
+       "owner"
     ],
     "vakuutus":[
-        "insurance"
+       "insurance"
     ],
     "korvaus":[
-        "compensation"
+       "compensation"
     ],
     "maksu":[
-        "payment"
+       "payment"
     ],
     "takaus":[
-        "guarantee"
+       "guarantee"
     ],
     "pankkitili":[
-        "bank account"
+       "bank account"
     ],
     "tulot":[
-        "earnings"
+       "earnings"
     ],
-    "kulut":[
-        "costs"
+    "kulu":[
+       "cost"
+    ],
+    "ruokala":[
+       "cafeteria",
+       "canteen"
     ],
     "tase":[
-        "balance sheet"
+       "balance sheet"
     ],
     "pääoma":[
-        "capital"
+       "capital"
     ],
     "sijoittaja":[
-        "investor"
+       "investor"
     ],
     "nosto":[
-        "withdrawal"
+       "withdrawal"
     ],
     "säästöt":[
-        "savings"
+       "savings"
     ],
     "osinko":[
-        "dividend"
+       "dividend"
     ],
     "tilaaja":[
-        "subscriber"
+       "subscriber"
     ],
     "maksutapa":[
-        "payment method"
+       "payment method"
     ],
     "maksusuoritus":[
-        "payment transaction"
+       "payment transaction"
     ],
     "palkka":[
-        "salary"
+       "salary"
     ],
     "työnantaja":[
-        "employer"
+       "employer"
     ],
     "työntekijä":[
-        "employee",
-        "worker"
+       "employee",
+       "worker"
     ],
     "laskelma":[
-        "calculation"
+       "calculation"
     ],
     "tuloslaskelma":[
-        "income statement"
+       "income statement"
     ],
     "kassavirta":[
-        "cash flow"
+       "cash flow"
     ],
     "korkokanta":[
-        "interest rate"
+       "interest rate"
     ],
     "kassavarat":[
-        "cash reserves"
+       "cash reserves"
     ],
     "tavoite":[
-        "goal"
+       "goal"
     ],
     "sopimus":[
-        "contract"
+       "contract"
     ],
     "kassakone":[
-        "cash register"
+       "cash register"
     ],
     "rahoitus":[
-        "financing"
+       "financing"
     ],
     "vakuus":[
-        "collateral"
+       "collateral"
     ],
     "tuotto":[
-        "yield",
-        "return",
-        "revenue"
+       "yield",
+       "return",
+       "revenue"
     ],
     "tilaus":[
-        "order"
+       "order"
     ],
     "käteinen":[
-        "cash"
+       "cash"
     ],
     "osuus":[
-        "share"
+       "share"
     ],
     "eräpäivä":[
-        "due date"
+       "due date"
     ],
     "asuntolaina":[
-        "mortgage"
+       "mortgage"
     ],
     "omistus":[
-        "ownership"
+       "ownership"
     ],
     "tilisiirto":[
-        "bank transfer"
+       "bank transfer"
+    ],
+    "siirto":[
+       "transfer",
+       "transport"
     ],
     "rahoituslaitos":[
-        "financial institution"
+       "financial institution"
     ],
     "maksuton":[
-        "free of charge"
+       "free of charge"
     ],
     "hyvitys":[
-        "refund"
+       "refund"
     ],
     "vaihtokauppa":[
-        "barter"
+       "barter"
     ],
     "luottamuksellinen":[
-        "confidential"
+       "confidential"
     ],
     "palautus":[
-        "return"
+       "return",
+       "refund"
     ],
     "takaisinmaksu":[
-        "repayment"
+       "repayment"
     ],
     "kivääri":[
-        "rifle",
-        "gun"
+       "rifle",
+       "gun"
     ],
     "suoritus":[
-        "transaction"
+       "transaction"
     ],
     "purkka":[
-        "chewing gum"
+       "chewing gum"
     ],
     "maksa":[
-        "liver"
+       "liver"
     ],
     "alku":[
-        "beginning"
+       "beginning"
     ],
     "edusta":[
-        "front"
+       "front"
     ],
     "ahvenaanmaa":[
-        "Aland"
+       "Aland"
     ],
     "naiminen":[
-        "marriage"
+       "marriage"
     ],
     "joukko":[
-        "group",
-        "band",
-        "troops"
+       "group",
+       "band",
+       "troops"
     ],
     "kapina":[
-        "rebellion",
-        "mutiny",
-        "insurrection"
+       "rebellion",
+       "mutiny",
+       "insurrection"
     ],
     "toimi":[
-        "task",
-        "duty",
-        "activity",
-        "operation"
+       "task",
+       "duty",
+       "activity",
+       "operation"
     ],
     "johtaja":[
-        "conductor",
-        "leader",
-        "manager",
-        "director",
-        "commander"
+       "conductor",
+       "leader",
+       "manager",
+       "director",
+       "commander"
     ],
     "rangaistus":[
-        "punishment",
-        "penalty"
+       "punishment",
+       "penalty"
     ],
     "kännykkä":[
-        "cell phone",
-        "mobile"
+       "cell phone",
+       "mobile"
     ],
     "pelko":[
-        "fear"
+       "fear"
     ],
     "juotava":[
-        "beverage",
-        "drink"
+       "beverage",
+       "drink"
     ],
     "syötävä":[
-        "food",
-        "comestible",
-        "edible"
+       "food",
+       "comestible",
+       "edible"
     ],
     "kehä":[
-        "circle",
-        "circumference"
+       "circle",
+       "circumference"
     ],
     "noita":[
-        "hex",
-        "witch"
+       "hex",
+       "witch"
     ],
     "tyyny":[
-        "cushion",
-        "pillow"
+       "cushion",
+       "pillow"
     ],
     "käännös":[
-        "translation"
+       "translation"
     ],
     "suojelu":[
-        "protection",
-        "conservation"
+       "protection",
+       "conservation"
     ],
     "oppimäärä":[
-        "syllabus"
+       "syllabus"
     ],
     "määrä":[
-        "quantity",
-        "amount",
-        "count"
+       "quantity",
+       "amount",
+       "count"
     ],
     "turpa":[
-        "mouth"
+       "mouth"
     ],
     "puhe":[
-        "speech",
-        "talk"
+       "speech",
+       "talk"
     ],
     "päämäärä":[
-        "aim",
-        "goal",
-        "destination"
+       "aim",
+       "goal",
+       "destination"
     ],
     "kirjallisuus":[
-        "literature"
+       "literature"
     ],
     "mahdollisuus":[
-        "chance",
-        "possibility",
-        "probability"
+       "chance",
+       "possibility",
+       "probability"
     ],
     "telkkari":[
-        "television"
+       "television"
     ],
     "jätski":[
-        "ice cream"
+       "ice cream"
     ],
-    "järjestus":[
-        "order",
-        "organization"
+    "järjestys":[
+       "order",
+       "organization"
     ],
     "kävely":[
-        "walk"
+       "walk"
     ],
     "päivällinen":[
-        "dinner"
+       "dinner"
     ],
     "pyykki":[
-        "laundry"
+       "laundry"
     ],
     "naru":[
-        "cord",
-        "string",
-        "rope"
+       "cord",
+       "string",
+       "rope"
     ],
     "aines":[
-        "ingredient"
+       "ingredient"
+    ],
+    "lähtö":[
+       "exit",
+       "start",
+       "launch"
+    ],
+    "tunnelma":[
+       "mood"
+    ],
+    "yllätys":[
+       "surprise"
+    ],
+    "myöhä":[
+       "late"
+    ],
+    "porras":[
+       "stair"
+    ],
+    "olo":[
+       "feeling",
+       "condition"
+    ],
+    "nuha":[
+       "common cold"
+    ],
+    "kurkku":[
+       "throat",
+       "cucumber"
+    ],
+    "kirpu":[
+       "ache"
+    ],
+    "otsa":[
+       "forehead"
+    ],
+    "tuli":[
+       "fire"
+    ],
+    "vedenkeitin":[
+       "kettle"
+    ],
+    "into":[
+       "excitement"
+    ],
+    "lääke":[
+       "medicine"
+    ],
+    "jono":[
+       "queue",
+       "sequence"
+    ],
+    "odotus":[
+       "wait",
+       "expectation",
+       "waiting"
+    ],
+    "potilas":[
+       "patient"
+    ],
+    "flunssa":[
+       "common cold",
+       "flu"
+    ],
+    "oire":[
+       "symptom"
+    ],
+    "nenä":[
+       "nose"
+    ],
+    "särky":[
+       "pain"
+    ],
+    "korva":[
+       "ear"
+    ],
+    "keuhko":[
+       "lund"
+    ],
+    "tauti":[
+       "disease",
+       "illness"
+    ],
+    "vastaanotto":[
+       "reception"
+    ],
+    "otto":[
+       "withdrawal",
+       "taking"
+    ],
+    "sairaus":[
+       "sickness"
+    ],
+    "todistus":[
+       "certificate"
+    ],
+    "tikka":[
+       "dart"
+    ],
+    "poltto":[
+       "burning",
+       "combustion",
+       "incineration"
+    ],
+    "monikko":[
+       "plural"
+    ],
+    "tehtävä":[
+       "task",
+       "assignment"
     ]
-}
+ }

@@ -1,349 +1,366 @@
 {
-   "korkea":[
+    "korkea":[
        "high"
-   ],
-   "matala":[
+    ],
+    "matala":[
        "low"
-   ],
-   "pitkä":[
+    ],
+    "pitkä":[
        "tall",
        "long"
-   ],
-   "lyhyt":[
+    ],
+    "lyhyt":[
        "short",
        "brief"
-   ],
-   "leveä":[
+    ],
+    "leveä":[
        "broad",
        "wide"
-   ],
-   "kapea":[
+    ],
+    "kapea":[
        "narrow"
-   ],
-   "vanha":[
+    ],
+    "vanha":[
        "old"
-   ],
-   "uusi":[
+    ],
+    "uusi":[
        "new"
-   ],
-   "nuori":[
+    ],
+    "nuori":[
        "young"
-   ],
-   "paksu":[
+    ],
+    "paksu":[
        "thick"
-   ],
-   "ohut":[
+    ],
+    "ohut":[
        "thin"
-   ],
-   "painava":[
+    ],
+    "painava":[
        "heavy"
-   ],
-   "kevyt":[
+    ],
+    "kevyt":[
        "light"
-   ],
-   "laiha":[
+    ],
+    "laiha":[
        "skinny",
        "lean",
        "thin"
-   ],
-   "lihava":[
+    ],
+    "lihava":[
        "fat"
-   ],
-   "vahva":[
+    ],
+    "vahva":[
        "strong"
-   ],
-   "heikko":[
+    ],
+    "heikko":[
        "weak"
-   ],
-   "köyhä":[
+    ],
+    "köyhä":[
        "poor"
-   ],
-   "rikas":[
+    ],
+    "rikas":[
        "rich"
-   ],
-   "kallis":[
+    ],
+    "kallis":[
        "expensive"
-   ],
-   "halpa":[
+    ],
+    "halpa":[
        "cheap"
-   ],
-   "siisti":[
+    ],
+    "siisti":[
        "tidy"
-   ],
-   "epäsiisti":[
+    ],
+    "epäsiisti":[
        "untidy"
-   ],
-   "valoisa":[
+    ],
+    "valoisa":[
        "light",
        "bright"
-   ],
-   "pimeä":[
+    ],
+    "pimeä":[
        "dark"
-   ],
-   "lämmin":[
+    ],
+    "lämmin":[
        "warm"
-   ],
-   "kuuma":[
+    ],
+    "kuuma":[
        "hot"
-   ],
-   "kiva":[
+    ],
+    "kiva":[
        "nice"
-   ],
-   "kaunis":[
+    ],
+    "kaunis":[
        "beautiful"
-   ],
-   "hieno":[
+    ],
+    "hieno":[
        "fine"
-   ],
-   "kirkas":[
+    ],
+    "kirkas":[
        "bright"
-   ],
-   "viileä":[
+    ],
+    "viileä":[
        "cool"
-   ],
-   "kylmä":[
+    ],
+    "kylmä":[
        "cold"
-   ],
-   "tylsä":[
+    ],
+    "tylsä":[
        "boring"
-   ],
-   "ikävä":[
+    ],
+    "ikävä":[
        "unpleasant",
        "tedious",
        "boring",
        "sad"
-   ],
-   "pilvinen":[
+    ],
+    "pilvinen":[
        "cloudy"
-   ],
-   "rasvainen":[
+    ],
+    "rasvainen":[
        "greasy"
-   ],
-   "makea":[
+    ],
+    "makea":[
        "sweet"
-   ],
-   "suolainen":[
+    ],
+    "suolainen":[
        "salty"
-   ],
-   "varattu":[
+    ],
+    "varattu":[
        "reserved"
-   ],
-   "alkoholiton":[
+    ],
+    "alkoholiton":[
        "alcohol free"
-   ],
-   "kuiva":[
+    ],
+    "kuiva":[
        "dry"
-   ],
-   "rauhallinen":[
+    ],
+    "rauhallinen":[
        "calm"
-   ],
-   "aikainen":[
+    ],
+    "aikainen":[
        "early"
-   ],
-   "tavallinen":[
+    ],
+    "tavallinen":[
        "common",
        "ordinary",
        "usual",
        "normal",
        "conventional"
-   ],
-   "sairas":[
+    ],
+    "sairas":[
        "ill",
        "sick"
-   ],
-   "hassu":[
+    ],
+    "hassu":[
        "silly"
-   ],
-   "ihana":[
+    ],
+    "ihana":[
        "wonderful",
        "lovely"
-   ],
-   "vieras":[
+    ],
+    "vieras":[
        "strange",
        "alien"
-   ],
-   "yksinäinen":[
+    ],
+    "yksinäinen":[
        "lonely"
-   ],
-   "lähin":[
+    ],
+    "lähin":[
        "nearest",
        "closest"
-   ],
-   "viime":[
+    ],
+    "viime":[
        "last"
-   ],
-   "viimeinen":[
+    ],
+    "viimeinen":[
        "last"
-   ],
-   "rakastava":[
+    ],
+    "rakastava":[
        "loving"
-   ],
-   "rakas":[
+    ],
+    "rakas":[
        "darling",
        "dear"
-   ],
-   "hidas":[
+    ],
+    "hidas":[
        "slow"
-   ],
-   "aika":[
+    ],
+    "aika":[
        "quite",
        "pretty",
        "considerably",
        "fairly"
-   ],
-   "vapaa":[
+    ],
+    "vapaa":[
        "free",
        "vacant"
-   ],
-   "kaikenlainen":[
+    ],
+    "kaikenlainen":[
        "all kinds of",
        "all sorts of"
-   ],
-   "eri":[
+    ],
+    "eri":[
        "different"
-   ],
-   "erilainen":[
+    ],
+    "erilainen":[
        "different",
        "distinct",
        "various",
        "diverse"
-   ],
-   "paha":[
+    ],
+    "paha":[
        "bad",
        "nasty",
        "malign",
        "evil"
-   ],
-   "hullu":[
+    ],
+    "hullu":[
        "crazy"
-   ],
-   "terveellinen":[
+    ],
+    "terveellinen":[
        "healthy"
-   ],
-   "erikoinen":[
+    ],
+    "erikoinen":[
        "special",
        "particular"
-   ],
-   "mukava":[
+    ],
+    "mukava":[
        "comfortable",
        "pleasant",
        "nice"
-   ],
-   "tilava":[
+    ],
+    "tilava":[
        "spacious"
-   ],
-   "kipeä":[
+    ],
+    "kipeä":[
        "sore",
        "ill",
        "aching"
-   ],
-   "kamala":[
+    ],
+    "kamala":[
        "horrible",
        "terrible",
        "awful"
-   ],
-   "tumma":[
+    ],
+    "tumma":[
        "dark"
-   ],
-   "entinen":[
+    ],
+    "entinen":[
        "former",
        "past"
-   ],
-   "oma":[
+    ],
+    "oma":[
        "own"
-   ],
-   "virallinen":[
+    ],
+    "virallinen":[
        "official"
-   ],
-   "saamelainen":[
+    ],
+    "saamelainen":[
        "sami"
-   ],
-   "kiinni":[
+    ],
+    "kiinni":[
        "closed"
-   ],
-   "vihainen":[
+    ],
+    "vihainen":[
        "angry"
-   ],
-   "tyytyväinen":[
+    ],
+    "tyytyväinen":[
        "satisfied",
        "content",
        "pleased"
-   ],
-   "törkeä":[
+    ],
+    "törkeä":[
        "aggravated",
        "coarse",
        "egregious",
        "outrageous"
-   ],
-   "tuore":[
+    ],
+    "tuore":[
        "recent",
        "new",
        "fresh"
-   ],
-   "kotimainen":[
+    ],
+    "kotimainen":[
        "domestic"
-   ],
-   "aurinkoinen":[
+    ],
+    "aurinkoinen":[
        "sunny"
-   ],
-   "upea":[
+    ],
+    "upea":[
        "awesome",
        "gorgeous",
        "luxurious"
-   ],
-   "hirveä":[
+    ],
+    "hirveä":[
        "horrible",
        "terrible",
        "awful"
-   ],
-   "kiltti":[
+    ],
+    "kiltti":[
        "obedient",
        "kind"
-   ],
-   "raskas":[
+    ],
+    "raskas":[
        "oppressive",
        "heavy"
-   ],
-   "taivaallinen":[
+    ],
+    "taivaallinen":[
        "heavenly",
        "celestial",
        "divine"
-   ],
-   "käytetty":[
+    ],
+    "käytetty":[
        "used",
        "second hand"
-   ],
-   "laiska":[
+    ],
+    "laiska":[
        "lazy"
-   ],
-   "syvä":[
+    ],
+    "syvä":[
        "deep",
        "profound"
-   ],
-   "omituinen":[
+    ],
+    "omituinen":[
        "bizarre",
        "strange",
        "peculiar",
        "quirky"
-   ],
-   "korruptoitunut":[
+    ],
+    "korruptoitunut":[
        "corrupt"
-   ],
-   "keskiaikainen":[
+    ],
+    "keskiaikainen":[
        "medieval"
-   ],
-   "historiallinen":[
+    ],
+    "historiallinen":[
        "historical"
-   ],
-   "tiukka":[
+    ],
+    "tiukka":[
        "strict",
        "restrictive",
        "vigorous"
-   ],
-   "itsenäinen":[
+    ],
+    "itsenäinen":[
        "independent"
-   ],
-   "kiintoisa":[
+    ],
+    "kiintoisa":[
        "interesting"
-   ]
-}
+    ],
+    "myöhäinen":[
+       "late"
+    ],
+    "tuulikuuma":[
+       "boiling"
+    ],
+    "ainoa":[
+       "only",
+       "single"
+    ],
+    "ahdas":[
+       "tight",
+       "narrow"
+    ],
+    "jännittävä":[
+       "exciting"
+    ]
+ }

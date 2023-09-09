@@ -784,5 +784,11 @@
     "pakata":[
        "pack",
        "compress"
+    ],
+    "leikata":[
+       "cut", "carve"
+    ],
+    "suunnitella":[
+       "plan", "design", "plot", "scheme"
     ]
  }

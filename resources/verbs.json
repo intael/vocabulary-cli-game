@@ -670,7 +670,7 @@
        "be born"
     ],
     "elää":[
-       "be alive"
+       "be alive", "live"
     ],
     "laulaa":[
        "sing"
@@ -790,5 +790,26 @@
     ],
     "suunnitella":[
        "plan", "design", "plot", "scheme"
+    ],
+    "äänestää":[
+       "vote"
+    ],
+    "kiertää":[
+       "circle", "avoid"
+    ],
+    "liittyä":[
+       "join"
+    ],
+    "vaihdella":[
+       "vary", "change rapidly"
+    ],
+    "kokea":[
+       "experience"
+    ],
+    "riippua":[
+       "depend"
+    ],
+    "kärsiä":[
+       "suffer"
     ]
  }

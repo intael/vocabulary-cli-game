@@ -876,6 +876,7 @@
        "interest"
     ],
     "tulos":[
+       "profit",
        "outcome",
        "result",
        "sum"
@@ -988,7 +989,8 @@
        "goal"
     ],
     "sopimus":[
-       "contract"
+       "contract",
+       "agreement"
     ],
     "kassakone":[
        "cash register"
@@ -1301,5 +1303,53 @@
     "tehtävä":[
        "task",
        "assignment"
+    ],
+    "mielipide":[
+       "opinion"
+    ],
+    "äänestys":[
+       "vote"
+    ],
+    "vaali":[
+       "election", "poll"
+    ],
+    "kimppa":[
+       "group"
+    ],
+    "kämppä":[
+       "apartment"
+    ],
+    "back wall":[
+       "apartment"
+    ],
+    "ääri":[
+       "verge", "end"
+    ],
+    "oikeisto":[
+       "right wing"
+    ],
+    "vasemmisto":[
+       "left wing"
+    ],
+    "totuus":[
+       "truth"
+    ],
+    "seura":[
+       "company", "circle", "society"
+    ],
+    "mieliala":[
+       "humour", "mood", "temper"
+    ],
+    "ryhmä":[
+       "group"
+    ],
+    "julkinen":[
+       "public", "unrestricted"
+    ],
+    "nousu":[
+       "ascent", "takeoff", "rising", "ascension"
+    ],
+    "vaikutus":[
+       "impact", "effect", "influence"
     ]
  }

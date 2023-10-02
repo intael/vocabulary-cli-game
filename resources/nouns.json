@@ -1034,9 +1034,6 @@
     "rahoituslaitos":[
        "financial institution"
     ],
-    "maksuton":[
-       "free of charge"
-    ],
     "hyvitys":[
        "refund"
     ],
@@ -1073,7 +1070,7 @@
        "front"
     ],
     "ahvenaanmaa":[
-       "Aland"
+       "aland"
     ],
     "naiminen":[
        "marriage"
@@ -1223,7 +1220,7 @@
        "throat",
        "cucumber"
     ],
-    "kirpu":[
+    "kipu":[
        "ache"
     ],
     "otsa":[
@@ -1319,9 +1316,6 @@
     "kämppä":[
        "apartment"
     ],
-    "back wall":[
-       "apartment"
-    ],
     "ääri":[
        "verge", "end"
     ],
@@ -1351,5 +1345,8 @@
     ],
     "vaikutus":[
        "impact", "effect", "influence"
+    ],
+    "meno":[
+       "expense"
     ]
  }

@@ -374,5 +374,21 @@
     ],
     "maksuton":[
       "free of charge"
-   ]
+   ],
+   "inhottava":[
+     "disgusting", "nasty"
+  ],
+  "turha":[
+    "useless", "unnecessary"
+ ],
+ "ylimääräinen":[
+   "excess", "waste"
+],
+"kansallinen":[
+   "national",
+   "public"
+],
+"klassinen":[
+   "classical"
+]
  }

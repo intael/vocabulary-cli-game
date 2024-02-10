@@ -92,13 +92,6 @@
         "directly",
         "downright"
     ],
-    "kansallinen":[
-        "national",
-        "public"
-    ],
-    "klassinen":[
-        "classical"
-    ],
     "ihan":[
         "just",
         "quite",
@@ -301,5 +294,11 @@
     ],
     "rauhaton":[
         "restless", "uneasy"
+    ],
+    "varmaan":[
+        "surely", "probably"
+    ],
+    "saakka":[
+        "until"
     ]
 }

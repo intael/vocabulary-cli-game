@@ -562,7 +562,7 @@
        "accomodation"
     ],
     "olemus":[
-       "attitude"
+       "self"
     ],
     "käveleminen":[
        "walk"
@@ -1347,5 +1347,44 @@
     ],
     "meno":[
        "expense"
-    ]
+    ],
+    "lento":[
+       "flying"
+    ],
+    "paluu":[
+       "return", "comeback"
+    ],
+    "matkatavara":[
+       "lugagge"
+    ],
+    "tarkastus":[
+       "examination", "inspection"
+    ],
+    "tulli":[
+       "tariff"
+    ],
+    "majoitus":[
+       "accomodation"
+    ],
+    "varaus":[
+       "reservation"
+    ],
+   "raivo":[
+      "wrath"
+   ],
+   "nähtävyys":[
+     "sight", "attraction"
+  ],
+  "kiertoajelu":[
+    "tour"
+ ],
+ "retki":[
+   "trip", "expedition"
+ ],
+ "opas":[
+   "guide"
+ ],
+ "huudahdus":[
+   "exclamation"
+ ]
  }

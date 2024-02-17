@@ -6,10 +6,9 @@ stats <- list2env(
     wordWeights = list(),
     formatStats = function() {
       baseMesssage <- sprintf(
-        "  --> Total Answers: %s.\n  --> Right Answers: %s\n  --> %s Correct: %s%s\n",
+        "  --> Total Answers: %d.\n  --> Right Answers: %d\n  --> %% Correct: %.1f%%\n --> Corpus size: %d\n",
         stats$totalAnswers,
         stats$rightAnswers,
-        "%",
         round(
           ifelse(
             stats$totalAnswers == 0,
@@ -18,7 +17,7 @@ stats <- list2env(
           ),
           3
         ) * 100,
-        "%\n"
+        length(stats$wordWeights)
       )
       strugglingWords <- stats$wordWeights[stats$wordWeights > 1]
       if (length(strugglingWords) > 0) {

@@ -583,11 +583,6 @@
    "kansa":[
       "people"
    ],
-   "hullu":[
-      "crazy",
-      "lunatic",
-      "madman"
-   ],
    "ostos":[
       "purchase"
    ],
@@ -880,9 +875,6 @@
       "outcome",
       "result",
       "sum"
-   ],
-   "menot":[
-      "expenses"
    ],
    "voitto":[
       "profit"
@@ -1484,7 +1476,7 @@
    "kierto":[
       "rotation"
    ],
-   "emantä":[
+   "emäntä":[
       "hostess"
    ],
    "lentoemantä":[
@@ -1704,7 +1696,7 @@
       "caretaker"
    ],
    "ristiäiset":[
-      "chistening"
+      "christening"
    ],
    "rippi":[
       "confession",
@@ -1802,9 +1794,6 @@
    ],
    "lomake":[
       "form"
-   ],
-   "ilomoitus":[
-      "notification"
    ],
    "valitus":[
       "complaint",

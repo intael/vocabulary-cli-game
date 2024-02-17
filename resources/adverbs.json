@@ -316,15 +316,50 @@
       "almost",
       "soon"
    ],
-   "erityinen":[
-      "particularly",
-      "extra"
-   ],
    "kauan":[
       "long time"
    ],
    "viimeistään":[
       "at the latest",
       "no later than"
+   ],
+   "kesken":[
+      "unfinished"
+   ],
+   "eräänä päivänä":[
+      "one day",
+      "the other day"
+   ],
+   "yhtäkkiä":[
+      "suddenly"
+   ],
+   "kuitenkaan":[
+      "however",
+      "nevertheless"
+   ],
+   "myöhemmin":[
+      "later",
+      "subsequently",
+      "afterwards"
+   ],
+   "tarkasti":[
+      "accurately",
+      "precisely"
+   ],
+   "harvoin":[
+      "rarely",
+      "seldom"
+   ],
+   "melko":[
+      "quite",
+      "somewhat"
+   ],
+   "erityisesti":[
+      "especially",
+      "particularly"
+   ],
+   "hieman":[
+      "a little",
+      "a bit"
    ]
 }

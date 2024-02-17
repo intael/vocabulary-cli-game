@@ -531,7 +531,8 @@
       "collapse"
    ],
    "pudota":[
-      "fall"
+      "fall",
+      "drop"
    ],
    "hirttää":[
       "hang"
@@ -863,5 +864,125 @@
    "taitaa":[
       "probably do",
       "can"
+   ],
+   "vaikuttaa":[
+      "effect",
+      "have an influence",
+      "seem"
+   ],
+   "inhota":[
+      "detest"
+   ],
+   "lenkkeillä":[
+      "jog"
+   ],
+   "kiinnostaa":[
+      "be of interest"
+   ],
+   "puhella":[
+      "chat"
+   ],
+   "purra":[
+      "bite"
+   ],
+   "tuoksua":[
+      "smell"
+   ],
+   "haistaa":[
+      "smell",
+      "sniff"
+   ],
+   "poluistua":[
+      "kneel down"
+   ],
+   "tulkata":[
+      "interpret"
+   ],
+   "tahtoa":[
+      "want",
+      "desire"
+   ],
+   "onnitella":[
+      "congratulate"
+   ],
+   "viettää":[
+      "spend"
+   ],
+   "vilkuttaa":[
+      "wave"
+   ],
+   "rekisteröidä":[
+      "register",
+      "book"
+   ],
+   "juhlia":[
+      "party",
+      "celebrate"
+   ],
+   "harmittaa":[
+      "irritate",
+      "annoy"
+   ],
+   "suostua":[
+      "agree"
+   ],
+   "puuttua":[
+      "be missing",
+      "intervene"
+   ],
+   "keskeyttää":[
+      "quit",
+      "stop"
+   ],
+   "roikkua":[
+      "hang"
+   ],
+   "huudahtaa":[
+      "exclaim"
+   ],
+   "murtautua":[
+      "break in"
+   ],
+   "rikkoa":[
+      "transgress",
+      "tresspass",
+      "compromise"
+   ],
+   "huomata":[
+      "notice",
+      "take notice"
+   ],
+   "loukkaantua":[
+      "be hurt",
+      "be offended"
+   ],
+   "sukeltaa":[
+      "dive"
+   ],
+   "nukahtaa":[
+      "fall asleep"
+   ],
+   "kadota":[
+      "disappear"
+   ],
+   "sijaita":[
+      "be located"
+   ],
+   "poistua":[
+      "leave",
+      "withdraw",
+      "get off",
+      "disappear"
+   ],
+   "ilmestyä":[
+      "show up",
+      "appear"
+   ],
+   "viihtyä":[
+      "enjoy"
+   ],
+   "keksiä":[
+      "invent",
+      "make up"
    ]
 }

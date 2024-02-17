@@ -23,5 +23,7 @@
    ],
    "välissä":[
        "between", "inbetween", "amongst"
-   ]
+   ],
+   "kesken": ["between"],
+   "pitkin": ["along"]
 }

@@ -27,7 +27,7 @@
     "etelä": ["south"],
     "etikka": ["vinegar"],
     "etunimi": ["first name"],
-    "erooppa": ["eruope"],
+    "eurooppa": ["europe"],
     "faksi": ["fax"],
     "haarukka": ["fork"],
     "hakea": ["get", "apply"],
@@ -655,7 +655,6 @@
     "gepardi": ["cheetah"],
     "grillata": ["barbecue"],
     "hastaattelu": ["interview"],
-    "hae": ["search"],
     "hai": ["shark"],
     "haista": ["smell"],
     "haitata": ["hinder"],
@@ -993,7 +992,7 @@
     "luento": ["lecture"],
     "luistelu": ["skating"],
     "lukio": ["high school"],
-    "lukko": ["lukko"],
+    "lukko": ["lock"],
     "lukukausi": ["semester"],
     "luonto": ["nature"],
     "kohde": ["target", "objective"],
@@ -1596,6 +1595,6 @@
     "ystävyys": ["friendship"],
     "yöpyä": ["sleep over", "stay overnight"],
     "älykäs": ["intelligent", "smart"],
-    "asken": ["just"],
+    "äsken": ["just"],
     "ääntäminen": ["pronounciation"]
 }

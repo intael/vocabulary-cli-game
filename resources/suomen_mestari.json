@@ -1,1600 +1,5034 @@
 {
-    "aamupala": ["breakfast"],
-    "aamuyö": ["early morning"],
-    "ammatti": ["occupation", "profession"],
-    "ananas": ["pineapple"],
-    "apu": ["help"],
-    "astia": ["dish"],
-    "auki": ["open"],
-    "aurinkoinen": ["sunny"],
-    "autotalli": ["garage"],
-    "automaatti": ["vending machine"],
-    "kuski": ["driver"],
-    "eksynyt": ["lost"],
-    "elektroniikka": ["electronics"],
-    "elokuu": ["august"],
-    "eläke": ["retirement", "pension"],
-    "ensin": ["first"],
-    "epäkohtelias": ["impolite"],
-    "terveellinen": ["healthy"],
-    "epäterveellinen": ["unhealthy"],
-    "ystävällinen": ["friendly"],
-    "epäystävällinen": ["unfriendly"],
-    "eronnut": ["divorced"],
-    "esimies": ["manager"],
-    "esitellä": ["present"],
-    "eteinen": ["hall"],
-    "etelä": ["south"],
-    "etikka": ["vinegar"],
-    "etunimi": ["first name"],
-    "eurooppa": ["europe"],
-    "faksi": ["fax"],
-    "haarukka": ["fork"],
-    "hakea": ["get", "apply"],
-    "halpa": ["cheap"],
-    "hapan": ["sour"],
-    "harmaa": ["gray"],
-    "hautajainen": ["funeral"],
-    "hedelmä": ["fruit"],
-    "hella": ["stove"],
-    "uuni": ["oven"],
-    "helppo": ["easy"],
-    "henki": ["person", "spirit"],
-    "henkilöstö": ["personnel"],
-    "tieto": ["data", "information", "knowledge"],
-    "herkullinen": ["delicious"],
-    "herne": ["pea"],
-    "herätys": ["wake up"],
-    "hetkinen": ["just a moment"],
-    "hiiri": ["mouse"],
-    "hiljainen": ["quiet"],
-    "hillo": ["jam"],
-    "hinta": ["price"],
-    "hissi": ["elevator"],
-    "hoikka": ["slim"],
-    "hunaja": ["honey"],
-    "yhtiö": ["corporation"],
-    "huomenna": ["tomorrow"],
-    "huone": ["room"],
-    "hymyillä": ["smile"],
-    "hyvännäköinen": ["good-looking"],
-    "häiritä": ["bother", "disturb"],
-    "häät": ["wedding"],
-    "ihan": ["quite"],
-    "ikkuna": ["window"],
-    "ilma": ["weather", "air"],
-    "suunta": ["direction"],
-    "iloinen": ["happy"],
-    "ilta": ["evening"],
-    "iltapäivä": ["afternoon"],
-    "imuri": ["vacuum cleaner"],
-    "imuroida": ["vacuum"],
-    "insinööri": ["engineer"],
-    "isoisä": ["grandfather"],
-    "isovanhempi": ["grandparent"],
-    "vanhempi": ["parent"],
-    "isoveli": ["big brother"],
-    "isoäiti": ["grandmother"],
-    "itkeä": ["cry"],
-    "itä": ["east"],
-    "jalkapallo": ["football"],
-    "jatkaa": ["continue"],
-    "jauho": ["flour"],
-    "jogurtti": ["yoghurt"],
-    "juhla": ["party"],
-    "juna": ["train"],
-    "juoda": ["drink"],
-    "juoma": ["beverage", "drink"],
-    "juosta": ["run"],
-    "jutella": ["talk"],
-    "juusto": ["cheese"],
-    "jääkaappi": ["fridge"],
-    "jäätelö": ["ice cream"],
-    "jäävesi": ["ice water"],
-    "kaakao": ["cocoa"],
-    "kaali": ["cabbage"],
-    "kaappi": ["closet", "cupboard"],
-    "kulma": ["corner"],
-    "keitin": ["stove", "cooker"],
-    "tauko": ["break", "pause"],
-    "kakku": ["cake"],
-    "kala": ["fish"],
-    "kalju": ["bald"],
-    "kampaaja": ["hairdresser"],
-    "kana": ["chicken"],
-    "kansalaisuus": ["nationality"],
-    "kansio": ["folder"],
-    "kapea": ["narrow"],
-    "karkki": ["candy"],
-    "kastike": ["sauce"],
-    "kasvis": ["vegetable"],
-    "katkarapu": ["shrimp"],
-    "katsoa": ["watch"],
-    "kattila": ["pot"],
-    "katto": ["roof"],
-    "katu": ["street"],
-    "kaukana": ["far"],
-    "kaunis": ["beautiful"],
-    "kaveri": ["friend"],
-    "keittiö": ["kitchen"],
-    "apulainen": ["helper", "assistant"],
-    "keitto": ["soup"],
-    "keksi": ["cookie"],
-    "kellari": ["cellar"],
-    "kello": ["clock"],
-    "keltainen": ["yellow"],
-    "kenkä": ["shoe"],
-    "kerma": ["cream"],
-    "kerros": ["floor"],
-    "kertoa": ["tell"],
-    "keskustella": ["talk"],
-    "kesä": ["summer"],
-    "ketsuppi": ["ketchup"],
-    "kieli": ["language", "tongue"],
-    "kihara": ["curly"],
-    "kihloissa": ["engaged"],
-    "kiinni": ["closed"],
-    "välittäjä": ["mediator", "broker", "intermediary"],
-    "hylly": ["shelf"],
-    "kirjanpitäjä": ["accountant"],
-    "kirjoittaa": ["write"],
-    "kirsikka": ["cherry"],
-    "kodikas": ["homely"],
-    "kodinkone": ["home appliance"],
-    "kohtelias": ["polite"],
-    "kokki": ["cook", "chef"],
-    "koko": ["size"],
-    "kollega": ["coleague"],
-    "kopiokone": ["copier"],
-    "korjata": ["fix"],
-    "korkea": ["high"],
-    "koti": ["home"],
-    "koulu": ["school"],
-    "kukka": ["flower"],
-    "kukkakaali": ["cauliflower"],
-    "kulho": ["bowl"],
-    "kunnolla": ["properly"],
-    "kuohu": ["sparkling"],
-    "kuppi": ["cup"],
-    "kuukausi": ["month"],
-    "kuunnella": ["listen"],
-    "kuuma": ["hot"],
-    "kylmä": ["cold"],
-    "kylpyhuone": ["bathroom"],
-    "kypsä": ["ripe"],
-    "kääntyä": ["turn"],
-    "laatikko": ["box"],
-    "lahja": ["gift"],
-    "laiva": ["ship"],
-    "lakka": ["cloudberry"],
-    "lamppu": ["lamp"],
-    "lapsi": ["child"],
-    "lasi": ["glass"],
-    "lasku": ["bill", "invoice"],
-    "osasto": ["department"],
-    "hoitaja": ["keeper"],
-    "lastenhuone": ["nursery"],
-    "lattia": ["floor"],
-    "laulaa": ["sing"],
-    "lautanen": ["plate"],
-    "lehti": ["magazine"],
-    "leipoa": ["bake"],
-    "leipä": ["bread"],
-    "paahdin": ["toaster"],
-    "lelu": ["toy"],
-    "lentokone": ["airplane"],
-    "lentää": ["fly"],
-    "leveä": ["wide"],
-    "liha": ["meat"],
-    "lihapulla": ["meatball"],
-    "liikenneympyrä": ["roundabout"],
-    "limu": ["lemonade"],
-    "lista": ["list"],
-    "loma": ["vacation"],
-    "loppua": ["end"],
-    "lossi": ["ferry"],
-    "lounas": ["lunch"],
-    "lukea": ["read"],
-    "lumi": ["snow"],
-    "luovuttaa": ["vacate"],
-    "lusikka": ["spoon"],
-    "luumu": ["plum"],
-    "luvata": ["promise"],
-    "lyhyt": ["short"],
-    "lähellä": ["close"],
-    "lähettäjä": ["sender"],
-    "lähteä": ["leave"],
-    "läksiäiset": ["farwell party"],
-    "lämmin": ["warm"],
-    "länsi": ["west"],
-    "läppäri": ["laptop"],
-    "löytää": ["find"],
-    "maailma": ["world"],
-    "maalari": ["painter"],
-    "maanviljelijä": ["farmer"],
-    "maito": ["milk"],
-    "makea": ["sweet"],
-    "makkara": ["sausage"],
-    "makuuhuone": ["bedroom"],
-    "mansikka": ["strawberry"],
-    "marja": ["berry"],
-    "matala": ["low"],
-    "matka": ["trip"],
-    "matkustaa": ["travel"],
-    "matto": ["rug"],
-    "mauste": ["spice"],
-    "mehu": ["juice"],
-    "melkein": ["almost"],
-    "meloni": ["meloni"],
-    "mies": ["man"],
-    "mieto": ["mild"],
-    "moottoripyörä": ["motorcycle"],
-    "mukava": ["nice", "comfortable"],
-    "muki": ["mug"],
-    "muna": ["egg"],
-    "muro": ["cereal"],
-    "mustikka": ["blueberry"],
-    "muuttaa": ["move", "relocate"],
-    "myrsky": ["storm"],
-    "myydä": ["sell"],
-    "myyjä": ["salesperson"],
-    "myöhä": ["late"],
-    "myös": ["also"],
-    "naapuri": ["neighbour"],
-    "naimaton": ["single"],
-    "nainen": ["woman"],
-    "nakki": ["frankfurter"],
-    "nauraa": ["laugh"],
-    "neukkari": ["conference room"],
-    "neuvoa": ["tell", "advice"],
-    "neuvotella": ["negotiate"],
-    "neuvottelu": ["negotiation"],
-    "neuvotteluhuone": ["conference room"],
-    "nimipäivä": ["name day"],
-    "noin": ["approximately"],
-    "nojatuoli": ["armchair"],
-    "nopea": ["fast"],
-    "nopeasti": ["quickly"],
-    "nousta": ["get up"],
-    "nuori": ["young"],
-    "nähdä": ["see"],
-    "nätti": ["pretty"],
-    "näyttelijä": ["actor"],
-    "näyttää": ["show"],
-    "oikea": ["right"],
-    "oikein": ["very"],
-    "oliivi": ["olive"],
-    "olohuone": ["living room"],
-    "omena": ["apple"],
-    "ongelma": ["problem"],
-    "onnellinen": ["happy"],
-    "opettaja": ["teacher"],
-    "opiskella": ["study"],
-    "oranssi": ["orange"],
-    "orkesteri": ["orchestra"],
-    "ostaa": ["buy"],
-    "otsikko": ["subject"],
-    "ovi": ["door"],
-    "paha": ["evil", "bad"],
-    "paikka": ["place"],
-    "paistaa": ["shine"],
-    "pannu": ["pan"],
-    "paistinpannu": ["frying pan"],
-    "pakastin": ["freezer"],
-    "pakkanen": ["frost"],
-    "palata": ["return"],
-    "palkka": ["salary"],
-    "pallo": ["ball"],
-    "palomies": ["firefighter"],
-    "pankki": ["bank"],
-    "panna": ["put"],
-    "paperi": ["paper"],
-    "pappi": ["priest"],
-    "paprika": ["pepper"],
-    "papu": ["bean"],
-    "parturi": ["barber"],
-    "parveke": ["balcony"],
-    "pehmeä": ["soft"],
-    "peili": ["mirror"],
-    "pelata": ["play"],
-    "perhe": ["family"],
-    "perjantai": ["friday"],
-    "persikka": ["peach"],
-    "peruna": ["potato"],
-    "pestä": ["wash"],
-    "pesuallas": ["sink"],
-    "pesukone": ["washing machine"],
-    "pian": ["soon"],
-    "pieni": ["small"],
-    "piha": ["yard", "garden"],
-    "pihvi": ["steak"],
-    "piimä": ["sour milk"],
-    "piirakka": ["pie"],
-    "pilvinen": ["cloudy"],
-    "pimeä": ["dark"],
-    "pippuri": ["pepper"],
-    "pitkä": ["tall"],
-    "pitää": ["like"],
-    "pohjoinen": ["north"],
-    "napa": ["pole", "hub", "terminal"],
-    "poika": ["boy", "son"],
-    "pomo": ["boss"],
-    "porkkana": ["carrot"],
-    "postinjakaja": ["mailman"],
-    "jakaja": ["dealer", "distributor"],
-    "printata": ["print"],
-    "printteri": ["printer"],
-    "puhelias": ["talkative"],
-    "puhelin": ["telephone"],
-    "puhelu": ["phone call"],
-    "puhua": ["speak"],
-    "puisto": ["park"],
-    "pulla": ["bun"],
-    "pullo": ["bottle"],
-    "puoli": ["half"],
-    "puolukka": ["lingonberry"],
-    "putkimies": ["plumber"],
-    "puuro": ["porridge"],
-    "pyörä": ["bike"],
-    "päivä": ["day"],
-    "päiväkoti": ["kindergarten"],
-    "pääkaupunki": ["capital city"],
-    "pöytä": ["table"],
-    "raaka": ["raw"],
-    "raha": ["money"],
-    "rakennus": ["building"],
-    "ranska": ["france"],
-    "rappu": ["stairway"],
-    "rasvainen": ["fatty"],
-    "rasvaton": ["fat-free"],
-    "riisi": ["rice"],
-    "risteys": ["crossing"],
-    "ristiäiset": ["christening"],
-    "ruis": ["rye"],
-    "ruma": ["ugly"],
-    "ruoka": ["food"],
-    "ruokala": ["canteen"],
-    "ruokalista": ["menu"],
-    "ruskea": ["brown"],
-    "räntä": ["sleet"],
-    "saada": ["get"],
-    "sairaanhoitaja": ["nurse"],
-    "salaatti": ["salad"],
-    "sama": ["same"],
-    "sataa": ["rain"],
-    "sateinen": ["rainy"],
-    "seinä": ["wall"],
-    "seisoa": ["stand"],
-    "selkeä": ["clear"],
-    "seteli": ["bill"],
-    "sentti": ["cent"],
-    "seuraava": ["next"],
-    "sihteeri": ["secretary"],
-    "siideri": ["cider"],
-    "siisti": ["tidy"],
-    "siivooja": ["cleaner"],
-    "siivota": ["clean"],
-    "silmä": ["eye"],
-    "sipuli": ["onion"],
-    "sisko": ["sister"],
-    "sitruuna": ["lemon"],
-    "sohva": ["couch"],
-    "soida": ["go off", "ring"],
-    "soittaa": ["play"],
-    "sokeri": ["sugar"],
-    "sopia": ["agree", "suit"],
-    "sopimus": ["deal", "agreement"],
-    "sopiva": ["fitting", "suitable"],
-    "sotkuinen": ["messy"],
-    "sovittaa": ["try on"],
-    "stressi": ["stress"],
-    "suihku": ["shower"],
-    "suklaa": ["chocolate"],
-    "sukunimi": ["last name"],
-    "suloinen": ["sweet"],
-    "sumuinen": ["foggy"],
-    "suola": ["salt"],
-    "suolainen": ["salty"],
-    "suolaton": ["salt-free"],
-    "suomalainen": ["finnish"],
-    "suora": ["straight"],
-    "surullinen": ["sad"],
-    "suuri": ["big"],
-    "syksy": ["autumn", "fall"],
-    "syntymäpäivä": ["birthday"],
-    "syödä": ["eat"],
-    "sähkömies": ["electrician"],
-    "sähköposti": ["email"],
-    "sämpylä": ["roll"],
-    "sänky": ["bed"],
-    "sää": ["weather"],
-    "säästää": ["save"],
-    "söpö": ["cute"],
-    "talo": ["house"],
-    "talvi": ["winter"],
-    "tanssia": ["dance"],
-    "tansilattia": ["dancefloor"],
-    "tapahtua": ["happen"],
-    "tarjoilija": ["waiter"],
-    "tarjoitin": ["tray"],
-    "tarvita": ["need"],
-    "taso": ["level"],
-    "taulu": ["painting"],
-    "tavaratalo": ["department store", "mall"],
-    "tavata": ["meet"],
-    "tee": ["tea"],
-    "tehdä ruoka": ["cook"],
-    "teksti": ["text"],
-    "televisio": ["television"],
-    "teltta": ["tent"],
-    "terveisin": ["greetings", "sincerely"],
-    "tie": ["road"],
-    "tietokone": ["computer"],
-    "tiimi": ["team"],
-    "tila": ["space"],
-    "tilata": ["order"],
-    "toimisto": ["office"],
-    "toimittaja": ["reporter", "journalist"],
-    "toinen": ["another", "second"],
-    "toissapäivänä": ["day before yesterday"],
-    "toivottavasti": ["hopefully"],
-    "toivotus": ["wish"],
-    "tomaatti": ["tomato"],
-    "tukeva": ["sturdy"],
-    "tukka": ["hair"],
-    "tulinen": ["hot"],
-    "tulostin": ["printer"],
-    "tumma": ["dark"],
-    "tuoda": ["bring"],
-    "tuoli": ["chair"],
-    "tupaantuliaiset": ["house-warming party"],
-    "tuulinen": ["windy"],
-    "tuulla": ["blow"],
-    "tyhmä": ["stupid"],
-    "tyttö": ["girl"],
-    "tyttöystävä": ["girlfriend"],
-    "tytär": ["daughter"],
-    "tyytyväinen": ["satisfied"],
-    "työaika": ["working hours"],
-    "työhuone": ["study"],
-    "työkaveri": ["coworker"],
-    "työnantaja": ["employer"],
-    "työntekijä": ["employee"],
-    "työpäivä": ["workday"],
-    "työton": ["unemployed"],
-    "työvuoro": ["shift"],
-    "tänään": ["today"],
-    "uida": ["swim"],
-    "uima-allas": ["swimming pool"],
-    "uimahalli": ["swimming hall"],
-    "ujo": ["shy"],
-    "ukkonen": ["thunder"],
-    "ulkona": ["outside"],
-    "ulos": ["out"],
-    "urheilija": ["athlete"],
-    "usein": ["often"],
-    "uutiset": ["news"],
-    "vaalea": ["blonde"],
-    "vaaleanpunainen": ["pink"],
-    "vaatehuone": ["closet"],
-    "vaatekaappi": ["wardrobe"],
-    "vadelma": ["raspberry"],
-    "vahtimestari": ["doorman"],
-    "vaikea": ["hard"],
-    "vaimo": ["wife"],
-    "vain": ["only"],
-    "valita": ["choose"],
-    "valkoinen": ["white"],
-    "valkosipuli": ["garlic"],
-    "valoisa": ["light"],
-    "valokuva": ["photograph"],
-    "valokuvaaja": ["photographer"],
-    "vanha": ["old"],
-    "vanhemmat": ["parents"],
-    "vanilja": ["vanilla"],
-    "vapaa": ["free"],
-    "varatuu": ["busy", "reserved"],
-    "varaus": ["reservation"],
-    "vartija": ["guard"],
-    "vartti": ["quarter"],
-    "vastata": ["answer"],
-    "vauva": ["baby"],
-    "vedenkeitin": ["kettle"],
-    "veitsi": ["knife"],
-    "veli": ["brother"],
-    "vene": ["boat"],
-    "verhot": ["curtains"],
-    "vesi": ["water"],
-    "vesihana": ["tap"],
-    "vessa": ["toilet"],
-    "vesaharja": ["toilet brush"],
-    "viedä": ["take"],
-    "vielä": ["yet", "still"],
-    "vihannes": ["vegetable"],
-    "vihreä": ["green"],
-    "viihtyisä": ["cozy"],
-    "viikonloppu": ["weekend"],
-    "viikonpäivät": ["weekdays"],
-    "viikset": ["moustache"],
-    "viini": ["wine"],
-    "viinilasi": ["wine glass"],
-    "viinirypäle": ["grape"],
-    "viipyä": ["stay"],
-    "vika": ["fault"],
-    "vitsi": ["joke"],
-    "voi": ["butter"],
-    "voileipä": ["sandwich"],
-    "vuodenaika": ["season"],
-    "vuokra-asunto": ["rental flat"],
-    "vuorokausi": ["day"],
-    "vuotaa": ["leak"],
-    "vähän": ["a little"],
-    "väri": ["color"],
-    "väsynyt": ["tired"],
-    "yhdessä": ["together"],
-    "yksityisyrittäjä": ["sole trader"],
-    "yksiö": ["studio flat", "studio apartment"],
-    "yleensä": ["usually"],
-    "ylihuomenna": ["day after tomorrow"],
-    "ylityö": ["overtime"],
-    "yläkerta": ["upstairs"],
-    "ylös": ["up"],
-    "ymmärtää": ["understand"],
-    "yritys": ["business", "company"],
-    "ystävä": ["friend"],
-    "yö": ["night"],
-    "yöpöytä": ["bedside table"],
-    "äidinkieli": ["mother tongue"],
-    "äiti": ["mother"],
-    "öljy": ["oil"],
-    "aalto": ["wave"],
-    "ahdas": ["narrow"],
-    "ahdistunut": ["anxious"],
-    "ahdistus": ["anxious"],
-    "ahkera": ["hard-working"],
-    "ahven": ["pike"],
-    "aiemmin": ["earlier"],
-    "aihe": ["subject"],
-    "aiheuttaa": ["cause"],
-    "aika": ["time"],
-    "aikaisemmin": ["earlier"],
-    "aikaisin": ["early"],
-    "aikamuoto": ["tense"],
-    "aikataulu": ["timetable", "schedule"],
-    "aikuinen": ["adult"],
-    "aina": ["always"],
-    "ainakin": ["at least"],
-    "ainoa": ["only"],
-    "aisti": ["sense"],
-    "aivan": ["just", "so"],
-    "aivot": ["brain"],
-    "ajanvaraus": ["appointment"],
-    "ajoissa": ["in time"],
-    "ajoitus": ["timing"],
-    "ajokortti": ["driving license"],
-    "aktiivinen": ["active"],
-    "aktiivisesti": ["actively"],
-    "akustinen": ["acoustic"],
-    "ala": ["industry", "sector", "field"],
-    "alakoulu": ["primary school"],
-    "alennus": ["discount", "sale"],
-    "alennuskoodi": ["discount code"],
-    "alentaa": ["lower"],
-    "allas": ["pool"],
-    "allergia": ["allergy"],
-    "aloittaa": ["start", "begin"],
-    "alue": ["area"],
-    "aluksi": ["at first"],
-    "ambulanssi": ["ambulance"],
-    "ammattitaitoinen": ["proficient", "skilled"],
-    "ampua": ["shoot"],
-    "annos": ["dish"],
-    "ansioluettelo": ["cv"],
-    "arkipäivä": ["weekday"],
-    "arvioitu": ["estimated"],
-    "arvokas": ["valuable"],
-    "arvonlisävero": ["value-added tax"],
-    "arvosana": ["grade"],
-    "arvostaa": ["value"],
-    "assistentti": ["assistant"],
-    "aste": ["degree"],
-    "asukas": ["resident", "inhabitant"],
-    "aueta": ["open"],
-    "aukioloaika": ["opening hours"],
-    "auringolasku": ["sunset"],
-    "autokorjaamo": ["car repair shop"],
-    "automaattinen": ["automatic"],
-    "automekaanikko": ["car mechanic"],
-    "autonkorjaaja": ["car mechanic"],
-    "avanto": ["hole in the ice"],
-    "avaruus": ["space"],
-    "avata": ["open"],
-    "avioliitto": ["marriage"],
-    "aviomies": ["husband"],
-    "aviopuoliso": ["spouse"],
-    "aviovaimo": ["wife"],
-    "avoin": ["open"],
-    "avulias": ["helpful"],
-    "tulehdus": ["inflammation"],
-    "edullinen": ["affordable"],
-    "ehdottaa": ["suggest"],
-    "ehdottomasti": ["definitely", "absolutely"],
-    "ehtiä": ["make it"],
-    "ensimmäinen": ["first"],
-    "eksyä": ["get lost"],
-    "elefantti": ["elephant"],
-    "eläin": ["animal"],
-    "elämys": ["experience"],
-    "elämä": ["life"],
-    "enemmän": ["more"],
-    "enintään": ["at most"],
-    "eniten": ["most"],
-    "entinen": ["former"],
-    "erikoisuus": ["specialty"],
-    "erilainen": ["different"],
-    "erinomainen": ["excellent"],
-    "erityisesti": ["specially"],
-    "ero": ["difference"],
-    "erota": ["divorce", "break up"],
-    "eräpäivä": ["due date"],
-    "esihenkilö": ["foreman"],
-    "esikoulu": ["pre-primary school"],
-    "esine": ["object"],
-    "esite": ["brochure"],
-    "esittää": ["perform"],
-    "esitys": ["performance"],
-    "etana": ["snail"],
-    "etenkin": ["specially"],
-    "etsiä": ["search from"],
-    "etukoodi": ["access code"],
-    "eväs": ["packed lunch"],
-    "farmasia": ["pharmacy"],
-    "firma": ["company"],
-    "flunssa": ["flu"],
-    "fyysinen": ["physical"],
-    "gepardi": ["cheetah"],
-    "grillata": ["barbecue"],
-    "hastaattelu": ["interview"],
-    "hai": ["shark"],
-    "haista": ["smell"],
-    "haitata": ["hinder"],
-    "hakata": ["chop", "cut"],
-    "hakemus": ["application"],
-    "hammas": ["tooth"],
-    "hammashoitaja": ["dental nurse"],
-    "hanhi": ["goose"],
-    "hankala": ["difficult"],
-    "hakkia": ["get", "acquire"],
-    "hanskat": ["gloves"],
-    "harjoitella": ["practice"],
-    "harjoittelija": ["trainee"],
-    "harmittaa": ["vex"],
-    "harrastaa": ["do hobbies"],
-    "harrastus": ["hobby"],
-    "hartiat": ["shoulders"],
-    "harvoin": ["rarely"],
-    "hassu": ["silly", "funny"],
-    "hattara": ["cotton candy"],
-    "hauki": ["pike"],
-    "haukka": ["hawk"],
-    "hauta": ["grave"],
-    "hautajaiset": ["funeral"],
-    "hautausmaa": ["graveyard"],
-    "heijastin": ["reflector"],
-    "heikko": ["weak"],
-    "heinä": ["hay"],
-    "heittää": ["throw"],
-    "helle": ["heatwave", "heat"],
-    "helposti": ["easily"],
-    "hengittää": ["breathe"],
-    "henkilökortti": ["id card"],
-    "henkilö": ["person", "individual"],
-    "herkku": ["delicacy", "treat"],
-    "hermostunut": ["nervous"],
-    "herättää": ["wake up"],
-    "herätä": ["wake up"],
-    "heti": ["immediately"],
-    "hieno": ["fine", "great"],
-    "hiihto": ["skiing"],
-    "hiljentyä": ["settle down", "quit down"],
-    "hirveä": ["awful"],
-    "hirvi": ["elk"],
-    "hiukset": ["hair"],
-    "hoitaa": ["take care"],
-    "hoito": ["treatment"],
-    "hoitoala": ["care sector"],
-    "hostelli": ["hostel"],
-    "huolellinen": ["careful", "meticulous"],
-    "huolto": ["maintenance"],
-    "huoltoasema": ["gast station"],
-    "huoltomies": ["maintenance man"],
-    "huoltoyhtiö": ["maintenance company"],
-    "huomata": ["notice"],
-    "huonekalu": ["furniture"],
-    "huonolaatuinen": ["bad quality"],
-    "huono": ["bad"],
-    "huutaa": ["shout"],
-    "hylje": ["seal"],
-    "hytti": ["cabin"],
-    "hyttynen": ["mosquito"],
-    "hyvinvointi": ["wellbeing"],
-    "hyväntuulinen": ["good-humoured"],
-    "hälyttää": ["alert", "alarm"],
-    "hämähäkki": ["spider"],
-    "hämärä": ["dark"],
-    "hätänumero": ["emergency number"],
-    "hävitä": ["lose"],
-    "hääpari": ["wedding couple"],
-    "ihana": ["wonderful", "lovely"],
-    "ihastua": ["get a crush"],
-    "ihminen": ["human"],
-    "iho": ["skin"],
-    "ihottuma": ["skin rash"],
-    "ikävä": ["unfortunate"],
-    "illallinen": ["dinner"],
-    "ilmainen": ["free"],
-    "ilmestyä": ["appear", "show up"],
-    "ilmoittaa": ["announce", "notify"],
-    "ilmoittautua": ["sign up", "enroll"],
-    "ilmoitus": ["notice"],
-    "ilo": ["joy"],
-    "ilotulitus": ["fireworks"],
-    "raketti": ["rocket"],
-    "iltapala": ["supper"],
-    "iltasatu": ["bedtime story"],
-    "inhota": ["detest"],
-    "innokas": ["enthusiastic"],
-    "innostua": ["get excited"],
-    "intensiivikurssi": ["intensive course"],
-    "irtaimisto": ["personal property"],
-    "vahinko": ["damage"],
-    "istua": ["sit"],
-    "isännöitsijä": ["property manager"],
-    "itse": ["self"],
-    "itsenäisesti": ["independently"],
-    "jaksaminen": ["resilience", "endurance"],
-    "jakso": ["period"],
-    "jalka": ["foot", "leg"],
-    "jälkäkäytävä": ["sidewalk"],
-    "jalkalamppu": ["foot lamp"],
-    "jatkua": ["continue"],
-    "jokainen": ["everybody"],
-    "joki": ["river"],
-    "jono": ["queue"],
-    "joulupäivä": ["christmas"],
-    "joutsen": ["swan"],
-    "juhannus": ["midsummer"],
-    "juhlia": ["celebrate", "party"],
-    "julkkis": ["celebrity"],
-    "jumppa": ["aerobics"],
-    "junamatkailu": ["train travel"],
-    "juoksi": ["running"],
-    "juotava": ["drinkable"],
-    "juttu": ["thing"],
-    "jälki": ["mark", "sign", "post"],
-    "jälkiruoka": ["dessert"],
-    "jänis": ["hare"],
-    "jännittynyt": ["tense"],
-    "jännittää": ["get excited"],
-    "järjestelmä": ["system"],
-    "järjestelmällinen": ["organised"],
-    "järjestely": ["arrangement"],
-    "järjestää": ["organize"],
-    "järki": ["reason"],
-    "järvi": ["lake"],
-    "jättää": ["leave"],
-    "jää": ["ice"],
-    "jäädä": ["stay"],
-    "jääkarhu": ["polar bear"],
-    "jääkiekko": ["ice hockey"],
-    "ottelu": ["match"],
-    "kaaso": ["maid", "matron of honour"],
-    "kaataa": ["pour"],
-    "kaatua": ["crash"],
-    "kadota": ["disappear"],
-    "kahvinkeitin": ["coffee maker"],
-    "kai": ["probably"],
-    "kaikenlainen": ["all sorts"],
-    "kaiutin": ["speaker"],
-    "kalastaa": ["fish"],
-    "kalastus": ["fishing"],
-    "kallio": ["rock"],
-    "kallis": ["expensive"],
-    "kalpea": ["pale"],
-    "kaluste": ["unit"],
-    "kamala": ["awful", "horrible"],
-    "kameli": ["camel"],
-    "kaneli": ["cinnamon"],
-    "kangas": ["fabric"],
-    "kannattaa": ["be worth something"],
-    "kannustaa": ["support"],
-    "kansainvälinen": ["international"],
-    "hymni": ["hymn"],
-    "runoilija": ["poet"],
-    "kansi": ["deck"],
-    "kantaa": ["carry"],
-    "karnevaali": ["carnival"],
-    "kassa": ["cash register"],
-    "kastella": ["water"],
-    "kasvaa": ["grow"],
-    "kasvot": ["face"],
-    "naama": ["face"],
-    "katella": ["look"],
-    "katsella": ["look"],
-    "kattaa": ["cover"],
-    "katuvalo": ["streetlight"],
-    "kauan": ["for long"],
-    "kauas": ["far"],
-    "kaukaa": ["from faraway"],
-    "kaukainen": ["faraway"],
-    "kaukojuna": ["long-distance train"],
-    "kaukosäädin": ["remote control"],
-    "kaula": ["neck"],
-    "kauneus": ["beauty"],
-    "kauppa": ["shop"],
-    "liike": ["shop", "business", "movement"],
-    "kauppakeskus": ["shopping center"],
-    "kaupunkilainen": ["urbanite", "townsman"],
-    "kauris": ["roe deer"],
-    "keikka": ["gig"],
-    "keilaus": ["bowling"],
-    "keittää": ["cook"],
-    "keksiä": ["come up with something"],
-    "kelvata": ["be good"],
-    "kenttä": ["field"],
-    "keräily": ["collecting"],
-    "kerätä": ["collect"],
-    "keskeyttää": ["interrupt"],
-    "keskikesä": ["midsummer"],
-    "keskiyö": ["midnight"],
-    "kestää": ["take time"],
-    "kettu": ["fox"],
-    "keuhko": ["lung"],
-    "kevyt": ["light"],
-    "kielitaito": ["language skills"],
-    "taito": ["skill", "ability"],
-    "kielteinen": ["negative"],
-    "kieltää": ["deny", "forbid"],
-    "kierros": ["round", "tour"],
-    "kierrätys": ["recycling"],
-    "kiertoajelu": ["tour"],
-    "kihlaus": ["engagement"],
-    "kiinnostava": ["interesting"],
-    "kiireetön": ["idle", "leisured"],
-    "kiireinen": ["busy"],
-    "kilpailu": ["competition"],
-    "kinkku": ["ham"],
-    "kipeä": ["sick", "sore", "aching"],
-    "kirjailija": ["author", "writer"],
-    "kirjain": ["letter"],
-    "kerho": ["club"],
-    "kirjallisuus": ["literature"],
-    "kirjata": ["record", "log", "register"],
-    "kirjaudu": ["login"],
-    "kirkko": ["church"],
-    "kirpputori": ["flea market"],
-    "kiuas": ["sauna heater"],
-    "klinikka": ["clinic"],
-    "kodinkoneliike": ["home appliance store"],
-    "koe": ["exam"],
-    "tentti": ["exam"],
-    "kohta": ["soon"],
-    "kohteliaasti": ["politely"],
-    "koivu": ["birch"],
-    "kokea": ["experience"],
-    "kokeilla": ["try out"],
-    "kokemus": ["experience"],
-    "kokenut": ["experienced"],
-    "kokko": ["bonfire"],
-    "kokonaan": ["completely"],
-    "kokoontuminen": ["meeting"],
-    "kokous": ["meeting"],
-    "kommentoida": ["comment"],
-    "konditoria": ["pastisserie", "confectionery"],
-    "kone": ["machine"],
-    "konfirmaatio": ["confirmation"],
-    "konsertti": ["concert", "gig"],
-    "kontakti": ["contact"],
-    "koripallo": ["basketball"],
-    "koristella": ["decorate"],
-    "korjaamo": ["repair shop", "workshop"],
-    "kumppani": ["parter"],
-    "kunnianhimoinen": ["ambitious"],
-    "kunto": ["shape"],
-    "kuntosali": ["gym"],
-    "kuohuviini": ["sparkling wine"],
-    "kuori": ["casing"],
-    "kuoro": ["choir"],
-    "kurkku": ["throat", "cucumber"],
-    "kutsu": ["invitation"],
-    "kutsua": ["invite"],
-    "kuu": ["moon"],
-    "kuulla": ["hear"],
-    "kuuloke": ["headset"],
-    "kuulua": ["belong"],
-    "kuuluisa": ["famous"],
-    "kuume": ["fever"],
-    "kuumemittari": ["thermometer"],
-    "kuumeta": ["heat up"],
-    "kuva": ["image"],
-    "kuvataide": ["visual arts"],
-    "kyky": ["ability"],
-    "kylmetä": ["cool down"],
-    "kylmälaukku": ["cooler"],
-    "kynttilä": ["candle"],
-    "kyynärpää": ["elbow"],
-    "kyyti": ["lift", "ride"],
-    "kännykkä": ["mobile phone", "cell phone"],
-    "kärpänen": ["fly"],
-    "kärsivällinen": ["patient"],
-    "käsi": ["hand"],
-    "käsijarru": ["hand brake"],
-    "matkatavara": ["luggage"],
-    "käsitellä": ["handle"],
-    "käsityö": ["handcraft"],
-    "käsivarsi": ["arm"],
-    "kätevästi": ["handily"],
-    "kätilö": ["midwife"],
-    "kävely": ["walk"],
-    "käyttäminen": ["using"],
-    "käyttää": ["use"],
-    "käyttö": ["use", "usage"],
-    "käytännöllinen": ["practical"],
-    "käännös": ["translation"],
-    "kääntää": ["turn"],
-    "käärme": ["snake"],
-    "laadukas": ["high quality"],
-    "laahustaa": ["shuffle along", "drag one's feet"],
-    "laaja": ["extensive"],
-    "laatikkoruoka": ["casserole"],
-    "laatu": ["quality"],
-    "ladata": ["load"],
-    "lahti": ["bay"],
-    "laite": ["device"],
-    "laittaa": ["prepare", "set", "lay"],
-    "laituri": ["dock", "platform"],
-    "lammas": ["sheep"],
-    "langaton": ["wireless"],
-    "lapsuus": ["childhood"],
-    "laskea": ["calculate", "descend", "fall", "drop"],
-    "laskettelu": ["downhill skiing"],
-    "laskeutua": ["land"],
-    "laskin": ["calculator"],
-    "lastata": ["load", "pack"],
-    "lataus": ["charge"],
-    "lautasliina": ["napkin"],
-    "leikata": ["cut"],
-    "leivänpaahdin": ["toaster"],
-    "lenkkeillä": ["jog"],
-    "lenkki": ["walk", "jog", "run"],
-    "lento": ["flight"],
-    "lentoasema": ["airport"],
-    "lentopallo": ["volleyball"],
-    "lepo": ["rest"],
-    "leuka": ["chin", "jaw"],
-    "levätä": ["rest"],
-    "lihas": ["muscle"],
-    "lihava": ["fat"],
-    "liikenne": ["traffic"],
-    "liikkua": ["move"],
-    "liikunta": ["exercise"],
-    "liite": ["appendix"],
-    "liittää": ["attach", "join", "relate"],
-    "linkki": ["link"],
-    "linna": ["castle"],
-    "liukas": ["slippery"],
-    "lohi": ["salmon"],
-    "lokki": ["seagull"],
-    "lomake": ["form"],
-    "lopettaa": ["stop"],
-    "loppu": ["end"],
-    "lopulta": ["finally"],
-    "luento": ["lecture"],
-    "luistelu": ["skating"],
-    "lukio": ["high school"],
-    "lukko": ["lock"],
-    "lukukausi": ["semester"],
-    "luonto": ["nature"],
-    "kohde": ["target", "objective"],
-    "luotettava": ["reliable", "trusty"],
-    "luova": ["creative"],
-    "lupa": ["permit"],
-    "lupaus": ["promise"],
-    "luu": ["bone"],
-    "luulla": ["think", "believe"],
-    "lyhetä": ["shorten"],
-    "lähde": ["source"],
-    "läheinen": ["nearby"],
-    "lähes": ["almost"],
-    "lähete": ["referral"],
-    "lähettää": ["send"],
-    "lähetys": ["shipment", "parcel"],
-    "lämmetä": ["warm up"],
-    "lämmittää": ["heat up"],
-    "lämpömittari": ["thermometer"],
-    "lämpötila": ["temperature"],
-    "lääke": ["medicine"],
-    "lääkekuuri": ["medication"],
-    "lääketiede": ["medicine"],
-    "lääkäri": ["doctor"],
-    "löyly": ["steam"],
-    "löylykauha": ["ladle"],
-    "löytyä": ["find"],
-    "maa": ["ground", "land", "country"],
-    "maanomistaja": ["landowner"],
-    "maaseutu": ["countryside"],
-    "maha": ["tummy"],
-    "mahdollinen": ["possible"],
-    "mahdollisuus": ["opportunity", "possibility", "chance"],
-    "mahdoton": ["impossible"],
-    "mahtava": ["awesome"],
-    "mahtua": ["fit"],
-    "mainos": ["ad", "advertisement"],
-    "mainostaa": ["advertise"],
-    "maisema": ["view"],
-    "maisteri": ["master"],
-    "maistua": ["taste"],
-    "majoitus": ["accomodation"],
-    "makoilla": ["lay down"],
-    "maksa": ["liver"],
-    "maksaa": ["pay"],
-    "maksaja": ["payer"],
-    "maksaminen": ["payment"],
-    "maksu": ["payment"],
-    "maksutapa": ["payment method"],
-    "maksuton": ["free of charge"],
-    "maku": ["taste"],
-    "malja": ["bowl", "cup"],
-    "maljakko": ["vase"],
-    "malli": ["model"],
-    "markkina": ["market"],
-    "masennus": ["depression"],
-    "masentunut": ["depressed"],
-    "matkailu": ["tourism"],
-    "matkustaminen": ["travelling"],
-    "mato": ["worm"],
-    "mehiläinen": ["bee"],
-    "tunnelma": ["atmosphere", "vibes", "mood"],
-    "melko": ["quite"],
-    "menneisyys": ["past"],
-    "meno": ["one-way"],
-    "meno-paluu": ["round-trip"],
-    "meri": ["sea"],
-    "merkki": ["brand"],
-    "messut": ["trade fair"],
-    "mestaruus": ["champion"],
-    "metsä": ["forest"],
-    "metsästys": ["hunting"],
-    "metsästää": ["hunt"],
-    "mielenkiintoinen": ["interesting"],
-    "mielenterveys": ["mental health"],
-    "mieletön": ["crazy"],
-    "mielulten": ["preferrably"],
-    "miettiä": ["think"],
-    "migreeni": ["migraine"],
-    "molemmat": ["both"],
-    "moni": ["many"],
-    "monikko": ["plural"],
-    "muisti": ["memory"],
-    "munuaine": ["kidney"],
-    "muoto": ["form"],
-    "murtovaras": ["burglar"],
-    "musikaali": ["musical"],
-    "muu": ["other"],
-    "muurahainen": ["ant"],
-    "muuten": ["otherwise"],
-    "myymälä": ["store", "shop"],
-    "myöhemmin": ["later"],
-    "myöhässä": ["late"],
-    "mäki": ["hill"],
-    "mänty": ["pine"],
-    "märkä": ["wet"],
-    "nalle": ["teddy bear"],
-    "naulakko": ["stand"],
-    "naurattaa": ["make someone laugh"],
-    "nauttia": ["enjoy"],
-    "negatiivinen": ["negative"],
-    "nenä": ["nose"],
-    "netti": ["internet"],
-    "neuvo": ["advice"],
-    "neuvonta": ["information desk"],
-    "niemi": ["cape"],
-    "nilkka": ["ankle"],
-    "niska": ["neck"],
-    "noita": ["witch"],
-    "nolo": ["embarassing"],
-    "nostaa": ["lift"],
-    "nukahtaa": ["fall asleep"],
-    "nukkua": ["sleep"],
-    "nuoreta": ["get younger"],
-    "nuoruus": ["youth"],
-    "nykyinen": ["current"],
-    "nykyään": ["nowadays", "these days", "now"],
-    "nähtävyys": ["tourist attraction"],
-    "näppäin": ["key"],
-    "näyte": ["sample"],
-    "ohje": ["instructions"],
-    "ohjelma": ["programme"],
-    "ohi": ["past"],
-    "oikeastaan": ["really"],
-    "oikeus": ["right"],
-    "oire": ["symptom"],
-    "oksa": ["branch"],
-    "oksennus": ["vomit"],
-    "oleskelu": ["stay"],
-    "olo": ["feeling"],
-    "oma": ["own"],
-    "omavastuu": ["deductible"],
-    "ominaisuus": ["characteristic"],
-    "ommella": ["sew"],
-    "ompelukone": ["sewing machine"],
-    "onkia": ["fish"],
-    "onneksi": ["luckily", "thankfully"],
-    "onnettomuus": ["accident"],
-    "onni": ["luck"],
-    "onnitella": ["congratulate"],
-    "opas": ["guide"],
-    "opetella": ["learn"],
-    "opinnot": ["studies"],
-    "opiskelija": ["student"],
-    "opiskelijavaihto": ["student exchange"],
-    "opisto": ["school", "institute"],
-    "oppia": ["learn"],
-    "oppilas": ["student"],
-    "oppitunti": ["lesson"],
-    "orava": ["squirrel"],
-    "organisoitunut": ["organised"],
-    "osa": ["part"],
-    "osallistua": ["participate"],
-    "ostos": ["purchase"],
-    "ostoskori": ["shopping basket"],
-    "otsa": ["forehead"],
-    "ottaa": ["take"],
-    "outo": ["strange"],
-    "paikkakunta": ["localilty", "municipality"],
-    "paikkavaraus": ["seat reservation"],
-    "painaa": ["press"],
-    "paitsi": ["except"],
-    "pajupuu": ["willow tree"],
-    "pakata": ["pack"],
-    "paketti": ["package"],
-    "pakettiauto": ["van"],
-    "palaa": ["burn"],
-    "palauttaa": ["return"],
-    "palauttaminen": ["return"],
-    "palautus": ["return"],
-    "palaveri": ["meeting"],
-    "palovaroitin": ["fire detector"],
-    "paluu": ["return"],
-    "palvelu": ["service"],
-    "parantua": ["heal"],
-    "passi": ["passport"],
-    "patsas": ["statue"],
-    "pelto": ["field"],
-    "paasto": ["fasting"],
-    "paeta": ["escape"],
-    "paholainen": ["devil"],
-    "paikallinen": ["local"],
-    "pelätä": ["fear"],
-    "pensas": ["bush"],
-    "perhonen": ["butterfly"],
-    "perinteinen": ["traditional"],
-    "perua": ["cancel"],
-    "perus": ["basic"],
-    "peruskoulu": ["comprehensive school"],
-    "perustaa": ["found", "stablish", "constitute"],
-    "peruttu": ["cancelled"],
-    "pesuhuone": ["washroom"],
-    "pesä": ["nest"],
-    "pesäpallo": ["baseball"],
-    "pidetä": ["lengthen"],
-    "pienentää": ["reduce"],
-    "pienetä": ["get smaller"],
-    "piirtää": ["draw"],
-    "pilkkiä": ["ice-fish"],
-    "pimetä": ["darken"],
-    "pipo": ["hat"],
-    "pitkään": ["long"],
-    "pituus": ["length"],
-    "poimia": ["forage", "pick"],
-    "politiikka": ["politics"],
-    "polttarit": ["bachelor party"],
-    "polvi": ["knee"],
-    "poro": ["reindeer"],
-    "porras": ["stair"],
-    "portti": ["gate"],
-    "porukka": ["group"],
-    "positiivinen": ["positive"],
-    "poski":  ["cheek"],
-    "potilas": ["patient"],
-    "presidentti": ["president"],
-    "prosessi": ["process"],
-    "psykologi": ["psychologist"],
-    "psyykkinen": ["psychological"],
-    "pudota": ["fall"],
-    "pudottaa": ["drop"],
-    "kupla": ["bubble"],
-    "pulkka": ["sled"],
-    "pulu": ["pigeon"],
-    "punkki": ["mite", "tick"],
-    "puolivälissä": ["halfway"],
-    "purjehdus": ["sailing"],
-    "putiikki": ["boutique"],
-    "puutyö": ["woodwork"],
-    "pyhäpäivä": ["holiday"],
-    "pysähtyä": ["stop"],
-    "pyyhe": ["towel"],
-    "pyykki": ["laundry"],
-    "pyytää": ["request"],
-    "pyöräily": ["cycling"],
-    "pähkinä": ["nut"],
-    "päivitys": ["update"],
-    "päivystys": ["emergency room"],
-    "päivällinen": ["dinner"],
-    "päiväys": ["date"],
-    "pätevyys": ["qualification"],
-    "pätevä": ["competent"],
-    "pätevöityä": ["qualify"],
-    "koulutus": ["training", "education"],
-    "pää": ["head"],
-    "päähenkilö": ["main character"],
-    "päänsärky": ["headache"],
-    "pääruoka": ["main course"],
-    "pääsiäinen": ["easter"],
-    "pääte": ["terminal"],
-    "päättää": ["decide"],
-    "päätös": ["decision"],
-    "pöllö": ["owl"],
-    "raide": ["track"],
-    "raikas": ["fresh"],
-    "rakastua": ["fall in love"],
-    "rakastanut": ["in love"],
-    "rakentaa": ["build"],
-    "rakkaus": ["love"],
-    "ranne": ["wrist"],
-    "rannikko": ["coast"],
-    "ranta": ["beach"],
-    "rantakallio": ["cliff"],
-    "rappukäytävä": ["stairwell"],
-    "raskas": ["heavy"],
-    "ratikka": ["tram"],
-    "ratkaisu": ["solution"],
-    "ratsastus": ["horse riding"],
-    "rauha": ["peace"],
-    "rauhallinen": ["calm", "peaceful"],
-    "rauhoittua": ["calm down"],
-    "ravinto": ["nutrition"],
-    "reagoida": ["react"],
-    "reipas": ["cheery"],
-    "reissu": ["trip"],
-    "rekisteröida": ["register"],
-    "parisuhde": ["relationship"],
-    "rekka": ["truck"],
-    "rento": ["relaxed"],
-    "rentouttava": ["relaxing"],
-    "rentoutua": ["relax"],
-    "repliikki": ["lines"],
-    "reppu": ["bag", "backpack"],
-    "resepti": ["prescription", "recipe"],
-    "retkeillä": ["hike"],
-    "retkeily": ["hiking", "camping"],
-    "retki": ["trip"],
-    "riippumatto": ["hammock"],
-    "riittävästi": ["enough"],
-    "rittää": ["be enough"],
-    "rikas": ["rich"],
-    "rikkaus": ["wealth"],
-    "rikki": ["broken"],
-    "rikkoa": ["break"],
-    "rinta": ["chest", "breast"],
-    "ripuli": ["diarrhea"],
-    "ripustaa": ["hang"],
-    "ristikko": ["lattice"],
-    "rohkea": ["brave"],
-    "rokotus": ["vaccination"],
-    "roska": ["rubbish"],
-    "runo": ["poem"],
-    "runsaasti": ["plenty"],
-    "ruoanlaitto": ["cooking"],
-    "ruoho": ["grass"],
-    "ruokailu": ["eating"],
-    "ruokavalio": ["diet"],
-    "ruveta": ["do"],
-    "saapas": ["boot"],
-    "saapua": ["arrive"],
-    "saari": ["island"],
-    "saastunut": ["contaminated"],
-    "sade": ["rain"],
-    "saippua": ["soap"],
-    "sairaala": ["hospital"],
-    "sairas": ["sick"],
-    "sairaus": ["sickness", "illness"],
-    "sairausloma": ["sick leave"],
-    "salaisuus": ["secret"],
-    "salibandy": ["floorball"],
-    "salmi": ["sound", "strait"],
-    "sammakko": ["frog"],
-    "sammal": ["moss"],
-    "sammua": ["shut down"],
-    "sammuttaa": ["shut down"],
-    "sanaristikko": ["crossword"],
-    "lyriikka": ["lyrics"],
-    "sandaali": ["sandal"],
-    "sarja": ["series"],
-    "sattua": ["hurt"],
-    "satula": ["saddle"],
-    "sauvapiippu": ["chimney"],
-    "selittää": ["explain"],
-    "selvitä": ["survive"],
-    "serkku": ["cousin"],
-    "seurata": ["follow", "track"],
-    "seurustella": ["date"],
-    "shakki": ["chess"],
-    "sieni": ["mushroom"],
-    "siili": ["hedgehog"],
-    "siirtyä": ["move"],
-    "sijainen": ["substitute"],
-    "silakka": ["herring"],
-    "sima": ["mead"],
-    "sisältää": ["include"],
-    "soitin": ["instrument"],
-    "sormi": ["finger"],
-    "sormus": ["ring"],
-    "sorsa": ["duck"],
-    "sosiaalinen": ["sociable"],
-    "sotku": ["mess"],
-    "stressata": ["stress"],
-    "sukulainen": ["relative"],
-    "suljettu": ["closed"],
-    "sulkapallo": ["badminton"],
-    "sulkea": ["close"],
-    "sulkeutua": ["close"],
-    "suo": ["marsh", "mire", "wetland"],
-    "suosittu": ["popular"],
-    "suostua": ["agree"],
-    "suppea": ["narrow"],
-    "susi": ["wolf"],
-    "suu": ["mouth"],
-    "suunnilleen": ["about"],
-    "suunnistaa": ["navigate"],
-    "suunnitella": ["plan"],
-    "suureta": ["get larger", "enlarge"],
-    "sydän": ["heart"],
-    "syntyä": ["born"],
-    "syttyä": ["catch fire", "ignite"],
-    "sytyttää": ["light"],
-    "syvyys": ["depth"],
-    "syy": ["reason"],
-    "syöpä": ["cancer"],
-    "syötävä": ["edible"],
-    "säilyttää": ["keep", "store", "preserve"],
-    "säilöä": ["preserve"],
-    "särkylääke": ["painkiller"],
-    "säännöllisesti": ["regularly"],
-    "taas": ["again"],
-    "taidenäyttely": ["art exhibition"],
-    "taitaa": ["may be"],
-    "taivas": ["sky"],
-    "tajuta": ["realise"],
-    "takaisin": ["back"],
-    "takapenkki": ["backseat"],
-    "takapuoli": ["butt", "backside"],
-    "takuu": ["warranty"],
-    "talonmies": ["janitor"],
-    "talous": ["economy", "economics"],
-    "tammi": ["oak"],
-    "tapa": ["habit"],
-    "tapaaminen": ["meeting"],
-    "tapahtuma": ["event"],
-    "tarina": ["story"],
-    "tarjeta": ["stand the cold"],
-    "tarjoilla": ["serve"],
-    "tarjotin": ["tray"],
-    "tarjous": ["tender", "offer"],
-    "tarkasti": ["carefully"],
-    "tarkistaa": ["check"],
-    "tarkka": ["exact", "accurate", "precise"],
-    "tarkoittaa": ["mean"],
-    "tarpeeksi": ["enough"],
-    "tasku": ["pocket"],
-    "tauti": ["disease", "illness", "sickness"],
-    "tavallinen": ["ordinary", "regular"],
-    "tavallisesti": ["usually"],
-    "tavara": ["item"],
-    "tavarateline": ["bike rack"],
-    "tavu": ["syllable"],
-    "tehdas": ["factory"],
-    "tehtävä": ["assignment", "task"],
-    "tekijä": ["maker", "culprit"],
-    "telttailla": ["camp"],
-    "temppeli": ["temple"],
-    "terassi": ["terrace"],
-    "teroitin": ["sharpener"],
-    "terve": ["healthy"],
-    "terveyhdenhoito": ["healthcare"],
-    "terveys": ["health"],
-    "terveyskeskus": ["health center"],
-    "tiede": ["science"],
-    "tietokirja": ["encyclopedia"],
-    "tietysti": ["of course"],
-    "tietää": ["know"],
-    "tilaus": ["order"],
-    "todistus": ["certificate"],
-    "tohtori": ["doctor"],
-    "toimipiste": ["location"],
-    "toimittaa": ["deliver"],
-    "toimitusaika": ["delivery time"],
-    "tonnikala": ["tuna"],
-    "tosiaan": ["indeed"],
-    "tosin": ["however"],
-    "totuus": ["truth"],
-    "totta": ["true"],
-    "tulevaisuus": ["future"],
-    "tuli": ["fire"],
-    "tuliainen": ["souvenir"],
-    "tulikuuma": ["burning hot"],
-    "tulkata": ["interpret"],
-    "tulli": ["customs"],
-    "tulos": ["result"],
-    "tunne": ["feeling"],
-    "tunnistautua": ["identify yourself"],
-    "tunnusluku": ["passcode"],
-    "tuntea": ["feel"],
-    "tuntua": ["feel"],
-    "tunturi": ["fell"],
-    "tuoksua": ["smell"],
-    "tuore": ["fresh"],
-    "tuote": ["product"],
-    "turhaan": ["in vain", "for nothing"],
-    "turva": ["safety"],
-    "turvallinen": ["safe"],
-    "turvatarkastus": ["security control"],
-    "turvonnut": ["swollen"],
-    "tutkimus": ["research"],
-    "tutkinto": ["degree"],
-    "tuttu": ["familiar"],
-    "tuuletin": ["fan"],
-    "tuuma": ["inch"],
-    "tyhjetä": ["empty"],
-    "tylsä": ["boring"],
-    "työhaastattelu": ["job interview"],
-    "työhakemus": ["job application"],
-    "työharjoittelu": ["internship"],
-    "työkokemus": ["work experience"],
-    "työnhakijä": ["job applicant"],
-    "työntää": ["push"],
-    "työpaikka": ["workplace"],
-    "työskennellä": ["work"],
-    "työttömyys": ["unemployment"],
-    "tuki": ["assistance", "support"],
-    "työtön": ["unemployed"],
-    "tärkeys": ["importance"],
-    "täsmällinen": ["punctual"],
-    "täynnä": ["full"],
-    "täyttää": ["fill"],
-    "uimapuku": ["swimsuit"],
-    "uinti": ["swimming"],
-    "ulkoilla": ["go outside"],
-    "ulkopuolella": ["outside"],
-    "unelma": ["dream"],
-    "uni": ["sleep"],
-    "unohtaa": ["forget"],
-    "upea": ["awesome", "great"],
-    "urheilu": ["sport"],
-    "uskaltaa": ["dare"],
-    "uudestaan": ["again"],
-    "uupunut": ["exhausted"],
-    "uutus": ["novelty"],
-    "vaahtera": ["maple"],
-    "vaarallinen": ["dangerous"],
-    "vaate": ["clothing"],
-    "vaatia": ["demand"],
-    "vahingoittaa": ["harm", "damage"],
-    "vahingossa": ["accidentally"],
-    "vahva": ["strong"],
-    "vaihtaa": ["exchange"],
-    "vaihteleva": ["varied", "variable"],
-    "vaihtelu": ["variation"],
-    "vaihto": ["exchange"],
-    "vaihtoehto": ["alternative"],
-    "vaihtua": ["change"],
-    "vaikka": ["although"],
-    "vaikkapa": ["for instance"],
-    "vaikuttaa": ["influence"],
-    "vakuutus": ["insurance"],
-    "valaisin": ["lamp"],
-    "valas": ["whale"],
-    "valitettavasti": ["unfortunately"],
-    "valitus": ["complaint"],
-    "valmis": ["ready"],
-    "valmistaa": ["prepare"],
-    "valmistautua": ["prepare"],
-    "valmistella": ["prepare"],
-    "valmistua": ["graduate"],
-    "valmistus": ["preparation"],
-    "valvoa": ["stay up late"],
-    "vanheta": ["grow old"],
-    "vanhuus": ["old age"],
-    "vapaasti": ["freely"],
-    "varas": ["thief"],
-    "varasto": ["storage", "stock"],
-    "varata": ["book"],
-    "varis": ["crow"],
-    "varkaus": ["theft"],
-    "varmasti": ["probably", "certainly"],
-    "varmistaa": ["verify"],
-    "varoa": ["be careful", "beware"],
-    "varsinkin": ["especially"],
-    "vartalo": ["body"],
-    "varvas": ["toe"],
-    "vasta": ["only"],
-    "vastaanottaja": ["receiver", "recipient"],
-    "vastaanotto": ["reception"],
-    "vastuuntuntoinen": ["responsible"],
-    "vatsa": ["stomach"],
-    "vatsatauti": ["stomach bug"],
-    "vaunu": ["carriage"],
-    "veneillä": ["boat"],
-    "verenpaine": ["blood pressure"],
-    "verikoe": ["blood sample"],
-    "veri": ["blood"],
-    "verkko": ["web", "network"],
-    "sivu": ["page"],
-    "vertailla": ["compare"],
-    "vertailu": ["comparison"],
-    "varastaa": ["steal"],
-    "vieläkin": ["still"],
-    "vieras": ["guest", "stranger", "visitor"],
-    "viettää": ["spend time"],
-    "vihainen": ["angry"],
-    "vihata": ["hate"],
-    "vihdoin": ["finally"],
-    "vihkiä": ["marry"],
-    "viihtylsä": ["homely"],
-    "viihtyä": ["have fun"],
-    "viiletä": ["cool down"],
-    "viileä": ["cool"],
-    "viime": ["last"],
-    "viimeinen": ["last"],
-    "viisas": ["wise"],
-    "viisumi": ["visa"],
-    "virkailija": ["clerk"],
-    "vitsailla": ["joke"],
-    "viulu": ["violin"],
-    "voittaa": ["win"],
-    "vuokranantaja": ["landlord"],
-    "vuokrata": ["rent"],
-    "vuori": ["mountain"],
-    "vuoristo": ["mountain range"],
-    "vuoro": ["shift"],
-    "vuosi": ["year"],
-    "väite": ["claim", "statement"],
-    "välillä": ["occasionally", "between"],
-    "väline": ["equipment"],
-    "vähintään": ["at least"],
-    "yhdistys": ["association"],
-    "yhdistää": ["connect"],
-    "yhdyssana": ["compound word"],
-    "yhteinen": ["common"],
-    "yhtä tarkeä kuin": ["as important as"],
-    "yhtäkkiä": ["suddenly"],
-    "yksin": ["alone"],
-    "yksinkertainen": ["simple"],
-    "yksinäisyys": ["loneliness"],
-    "yksityinen": ["private"],
-    "yleinen": ["general"],
-    "yli": ["over"],
-    "yliopisto": ["university"],
-    "yllättynyt": ["surprised"],
-    "yllättää": ["surprise"],
-    "yllätys": ["surprise"],
-    "ympäri": ["around"],
-    "ympäristö": ["environment", "surroundings"],
-    "yrittää": ["try"],
-    "yskä": ["cough"],
-    "ystävyys": ["friendship"],
-    "yöpyä": ["sleep over", "stay overnight"],
-    "älykäs": ["intelligent", "smart"],
-    "äsken": ["just"],
-    "ääntäminen": ["pronounciation"]
+    "aamupala": [
+        "breakfast"
+    ],
+    "aamuyö": [
+        "early morning"
+    ],
+    "ammatti": [
+        "occupation",
+        "profession"
+    ],
+    "ananas": [
+        "pineapple"
+    ],
+    "apu": [
+        "help"
+    ],
+    "astia": [
+        "dish"
+    ],
+    "auki": [
+        "open"
+    ],
+    "aurinkoinen": [
+        "sunny"
+    ],
+    "autotalli": [
+        "garage"
+    ],
+    "automaatti": [
+        "vending machine"
+    ],
+    "kuski": [
+        "driver"
+    ],
+    "eksynyt": [
+        "lost"
+    ],
+    "elektroniikka": [
+        "electronics"
+    ],
+    "elokuu": [
+        "august"
+    ],
+    "eläke": [
+        "retirement",
+        "pension"
+    ],
+    "ensin": [
+        "first"
+    ],
+    "epäkohtelias": [
+        "impolite"
+    ],
+    "terveellinen": [
+        "healthy"
+    ],
+    "epäterveellinen": [
+        "unhealthy"
+    ],
+    "ystävällinen": [
+        "friendly"
+    ],
+    "epäystävällinen": [
+        "unfriendly"
+    ],
+    "eronnut": [
+        "divorced"
+    ],
+    "esimies": [
+        "manager"
+    ],
+    "esitellä": [
+        "present"
+    ],
+    "eteinen": [
+        "hall"
+    ],
+    "etelä": [
+        "south"
+    ],
+    "etikka": [
+        "vinegar"
+    ],
+    "etunimi": [
+        "first name"
+    ],
+    "eurooppa": [
+        "europe"
+    ],
+    "faksi": [
+        "fax"
+    ],
+    "haarukka": [
+        "fork"
+    ],
+    "hakea": [
+        "get",
+        "apply"
+    ],
+    "halpa": [
+        "cheap"
+    ],
+    "hapan": [
+        "sour"
+    ],
+    "harmaa": [
+        "gray"
+    ],
+    "hautajainen": [
+        "funeral"
+    ],
+    "hedelmä": [
+        "fruit"
+    ],
+    "hella": [
+        "stove"
+    ],
+    "uuni": [
+        "oven"
+    ],
+    "helppo": [
+        "easy"
+    ],
+    "henki": [
+        "person",
+        "spirit"
+    ],
+    "henkilöstö": [
+        "personnel"
+    ],
+    "tieto": [
+        "data",
+        "information",
+        "knowledge"
+    ],
+    "herkullinen": [
+        "delicious"
+    ],
+    "herne": [
+        "pea"
+    ],
+    "herätys": [
+        "wake up"
+    ],
+    "hetkinen": [
+        "just a moment"
+    ],
+    "hiiri": [
+        "mouse"
+    ],
+    "hiljainen": [
+        "quiet"
+    ],
+    "hillo": [
+        "jam"
+    ],
+    "hinta": [
+        "price"
+    ],
+    "hissi": [
+        "elevator"
+    ],
+    "hoikka": [
+        "slim"
+    ],
+    "hunaja": [
+        "honey"
+    ],
+    "yhtiö": [
+        "corporation"
+    ],
+    "huomenna": [
+        "tomorrow"
+    ],
+    "huone": [
+        "room"
+    ],
+    "hymyillä": [
+        "smile"
+    ],
+    "hyvännäköinen": [
+        "good-looking"
+    ],
+    "häiritä": [
+        "bother",
+        "disturb"
+    ],
+    "häät": [
+        "wedding"
+    ],
+    "ihan": [
+        "quite"
+    ],
+    "ikkuna": [
+        "window"
+    ],
+    "ilma": [
+        "weather",
+        "air"
+    ],
+    "suunta": [
+        "direction"
+    ],
+    "iloinen": [
+        "happy"
+    ],
+    "ilta": [
+        "evening"
+    ],
+    "iltapäivä": [
+        "afternoon"
+    ],
+    "imuri": [
+        "vacuum cleaner"
+    ],
+    "imuroida": [
+        "vacuum"
+    ],
+    "insinööri": [
+        "engineer"
+    ],
+    "isoisä": [
+        "grandfather"
+    ],
+    "isovanhempi": [
+        "grandparent"
+    ],
+    "vanhempi": [
+        "parent"
+    ],
+    "isoveli": [
+        "big brother"
+    ],
+    "isoäiti": [
+        "grandmother"
+    ],
+    "itkeä": [
+        "cry"
+    ],
+    "itä": [
+        "east"
+    ],
+    "jalkapallo": [
+        "football"
+    ],
+    "jatkaa": [
+        "continue"
+    ],
+    "jauho": [
+        "flour"
+    ],
+    "jogurtti": [
+        "yoghurt"
+    ],
+    "juhla": [
+        "party"
+    ],
+    "juna": [
+        "train"
+    ],
+    "juoda": [
+        "drink"
+    ],
+    "juoma": [
+        "beverage",
+        "drink"
+    ],
+    "juosta": [
+        "run"
+    ],
+    "jutella": [
+        "talk"
+    ],
+    "juusto": [
+        "cheese"
+    ],
+    "jääkaappi": [
+        "fridge"
+    ],
+    "jäätelö": [
+        "ice cream"
+    ],
+    "jäävesi": [
+        "ice water"
+    ],
+    "kaakao": [
+        "cocoa"
+    ],
+    "kaali": [
+        "cabbage"
+    ],
+    "kaappi": [
+        "closet",
+        "cupboard"
+    ],
+    "kulma": [
+        "corner"
+    ],
+    "keitin": [
+        "stove",
+        "cooker"
+    ],
+    "tauko": [
+        "break",
+        "pause"
+    ],
+    "kakku": [
+        "cake"
+    ],
+    "kala": [
+        "fish"
+    ],
+    "kalju": [
+        "bald"
+    ],
+    "kampaaja": [
+        "hairdresser"
+    ],
+    "kana": [
+        "chicken"
+    ],
+    "kansalaisuus": [
+        "nationality"
+    ],
+    "kansio": [
+        "folder"
+    ],
+    "kapea": [
+        "narrow"
+    ],
+    "karkki": [
+        "candy"
+    ],
+    "kastike": [
+        "sauce"
+    ],
+    "kasvis": [
+        "vegetable"
+    ],
+    "katkarapu": [
+        "shrimp"
+    ],
+    "katsoa": [
+        "watch"
+    ],
+    "kattila": [
+        "pot"
+    ],
+    "katto": [
+        "roof"
+    ],
+    "katu": [
+        "street"
+    ],
+    "kaukana": [
+        "far"
+    ],
+    "kaunis": [
+        "beautiful"
+    ],
+    "kaveri": [
+        "friend"
+    ],
+    "keittiö": [
+        "kitchen"
+    ],
+    "apulainen": [
+        "helper",
+        "assistant"
+    ],
+    "keitto": [
+        "soup"
+    ],
+    "keksi": [
+        "cookie"
+    ],
+    "kellari": [
+        "cellar"
+    ],
+    "kello": [
+        "clock"
+    ],
+    "keltainen": [
+        "yellow"
+    ],
+    "kenkä": [
+        "shoe"
+    ],
+    "kerma": [
+        "cream"
+    ],
+    "kerros": [
+        "floor"
+    ],
+    "kertoa": [
+        "tell"
+    ],
+    "keskustella": [
+        "talk"
+    ],
+    "kesä": [
+        "summer"
+    ],
+    "ketsuppi": [
+        "ketchup"
+    ],
+    "kieli": [
+        "language",
+        "tongue"
+    ],
+    "kihara": [
+        "curly"
+    ],
+    "kihloissa": [
+        "engaged"
+    ],
+    "kiinni": [
+        "closed"
+    ],
+    "välittäjä": [
+        "mediator",
+        "broker",
+        "intermediary"
+    ],
+    "hylly": [
+        "shelf"
+    ],
+    "kirjanpitäjä": [
+        "accountant"
+    ],
+    "kirjoittaa": [
+        "write"
+    ],
+    "kirsikka": [
+        "cherry"
+    ],
+    "kodikas": [
+        "homely",
+        "cozy",
+        "comfortable"
+    ],
+    "kodinkone": [
+        "home appliance"
+    ],
+    "kohtelias": [
+        "polite"
+    ],
+    "kokki": [
+        "cook",
+        "chef"
+    ],
+    "koko": [
+        "size"
+    ],
+    "kollega": [
+        "coleague"
+    ],
+    "kopiokone": [
+        "copier"
+    ],
+    "korjata": [
+        "fix"
+    ],
+    "korkea": [
+        "high"
+    ],
+    "koti": [
+        "home"
+    ],
+    "koulu": [
+        "school"
+    ],
+    "kukka": [
+        "flower"
+    ],
+    "kukkakaali": [
+        "cauliflower"
+    ],
+    "kulho": [
+        "bowl"
+    ],
+    "kunnolla": [
+        "properly",
+        "right",
+        "straight"
+    ],
+    "kuohu": [
+        "sparkling"
+    ],
+    "kuppi": [
+        "cup"
+    ],
+    "kuukausi": [
+        "month"
+    ],
+    "kuunnella": [
+        "listen"
+    ],
+    "kuuma": [
+        "hot"
+    ],
+    "kylmä": [
+        "cold"
+    ],
+    "kylpyhuone": [
+        "bathroom"
+    ],
+    "kypsä": [
+        "ripe"
+    ],
+    "kääntyä": [
+        "turn"
+    ],
+    "laatikko": [
+        "box"
+    ],
+    "lahja": [
+        "gift"
+    ],
+    "laiva": [
+        "ship"
+    ],
+    "lakka": [
+        "cloudberry"
+    ],
+    "lamppu": [
+        "lamp"
+    ],
+    "lapsi": [
+        "child"
+    ],
+    "lasi": [
+        "glass"
+    ],
+    "lasku": [
+        "bill",
+        "invoice"
+    ],
+    "osasto": [
+        "department"
+    ],
+    "hoitaja": [
+        "keeper"
+    ],
+    "lastenhuone": [
+        "nursery"
+    ],
+    "lattia": [
+        "floor"
+    ],
+    "laulaa": [
+        "sing"
+    ],
+    "lautanen": [
+        "plate"
+    ],
+    "lehti": [
+        "magazine"
+    ],
+    "leipoa": [
+        "bake"
+    ],
+    "leipä": [
+        "bread"
+    ],
+    "paahdin": [
+        "toaster"
+    ],
+    "lelu": [
+        "toy"
+    ],
+    "lentokone": [
+        "airplane"
+    ],
+    "lentää": [
+        "fly"
+    ],
+    "leveä": [
+        "wide"
+    ],
+    "liha": [
+        "meat"
+    ],
+    "lihapulla": [
+        "meatball"
+    ],
+    "liikenneympyrä": [
+        "roundabout"
+    ],
+    "limu": [
+        "lemonade"
+    ],
+    "lista": [
+        "list"
+    ],
+    "loma": [
+        "vacation"
+    ],
+    "loppua": [
+        "end"
+    ],
+    "lossi": [
+        "ferry"
+    ],
+    "lounas": [
+        "lunch"
+    ],
+    "lukea": [
+        "read"
+    ],
+    "lumi": [
+        "snow"
+    ],
+    "luovuttaa": [
+        "vacate",
+        "alienate",
+        "surrender",
+        "hand over"
+    ],
+    "lusikka": [
+        "spoon"
+    ],
+    "luumu": [
+        "plum"
+    ],
+    "luvata": [
+        "promise"
+    ],
+    "lyhyt": [
+        "short"
+    ],
+    "lähellä": [
+        "close"
+    ],
+    "lähettäjä": [
+        "sender"
+    ],
+    "lähteä": [
+        "leave"
+    ],
+    "läksiäiset": [
+        "farwell party"
+    ],
+    "lämmin": [
+        "warm"
+    ],
+    "länsi": [
+        "west"
+    ],
+    "läppäri": [
+        "laptop"
+    ],
+    "löytää": [
+        "find"
+    ],
+    "maailma": [
+        "world"
+    ],
+    "maalari": [
+        "painter"
+    ],
+    "maanviljelijä": [
+        "farmer"
+    ],
+    "maito": [
+        "milk"
+    ],
+    "makea": [
+        "sweet"
+    ],
+    "makkara": [
+        "sausage"
+    ],
+    "makuuhuone": [
+        "bedroom"
+    ],
+    "mansikka": [
+        "strawberry"
+    ],
+    "marja": [
+        "berry"
+    ],
+    "matala": [
+        "low"
+    ],
+    "matka": [
+        "trip"
+    ],
+    "matkustaa": [
+        "travel"
+    ],
+    "matto": [
+        "rug"
+    ],
+    "mauste": [
+        "spice"
+    ],
+    "mehu": [
+        "juice"
+    ],
+    "melkein": [
+        "almost"
+    ],
+    "meloni": [
+        "melon"
+    ],
+    "mies": [
+        "man"
+    ],
+    "mieto": [
+        "mild"
+    ],
+    "moottoripyörä": [
+        "motorcycle"
+    ],
+    "mukava": [
+        "nice",
+        "comfortable"
+    ],
+    "muki": [
+        "mug"
+    ],
+    "muna": [
+        "egg"
+    ],
+    "muro": [
+        "cereal"
+    ],
+    "mustikka": [
+        "blueberry"
+    ],
+    "muuttaa": [
+        "move",
+        "relocate"
+    ],
+    "myrsky": [
+        "storm"
+    ],
+    "myydä": [
+        "sell"
+    ],
+    "myyjä": [
+        "salesperson"
+    ],
+    "myöhä": [
+        "late"
+    ],
+    "myös": [
+        "also"
+    ],
+    "naapuri": [
+        "neighbour"
+    ],
+    "naimaton": [
+        "single"
+    ],
+    "nainen": [
+        "woman"
+    ],
+    "nakki": [
+        "frankfurter"
+    ],
+    "nauraa": [
+        "laugh"
+    ],
+    "neukkari": [
+        "conference room"
+    ],
+    "neuvoa": [
+        "tell",
+        "advice"
+    ],
+    "neuvotella": [
+        "negotiate"
+    ],
+    "neuvottelu": [
+        "negotiation"
+    ],
+    "neuvotteluhuone": [
+        "conference room"
+    ],
+    "nimipäivä": [
+        "name day"
+    ],
+    "noin": [
+        "approximately"
+    ],
+    "nojatuoli": [
+        "armchair"
+    ],
+    "nopea": [
+        "fast"
+    ],
+    "nopeasti": [
+        "quickly"
+    ],
+    "nousta": [
+        "get up"
+    ],
+    "nuori": [
+        "young"
+    ],
+    "nähdä": [
+        "see"
+    ],
+    "nätti": [
+        "pretty"
+    ],
+    "näyttelijä": [
+        "actor"
+    ],
+    "näyttää": [
+        "show"
+    ],
+    "oikea": [
+        "right"
+    ],
+    "oikein": [
+        "very"
+    ],
+    "oliivi": [
+        "olive"
+    ],
+    "olohuone": [
+        "living room"
+    ],
+    "omena": [
+        "apple"
+    ],
+    "ongelma": [
+        "problem"
+    ],
+    "onnellinen": [
+        "happy"
+    ],
+    "opettaja": [
+        "teacher"
+    ],
+    "opiskella": [
+        "study"
+    ],
+    "oranssi": [
+        "orange"
+    ],
+    "orkesteri": [
+        "orchestra"
+    ],
+    "ostaa": [
+        "buy"
+    ],
+    "otsikko": [
+        "subject"
+    ],
+    "ovi": [
+        "door"
+    ],
+    "paha": [
+        "evil",
+        "bad"
+    ],
+    "paikka": [
+        "place"
+    ],
+    "paistaa": [
+        "shine"
+    ],
+    "pannu": [
+        "pan"
+    ],
+    "paistinpannu": [
+        "frying pan"
+    ],
+    "pakastin": [
+        "freezer"
+    ],
+    "pakkanen": [
+        "frost"
+    ],
+    "palata": [
+        "return"
+    ],
+    "palkka": [
+        "salary"
+    ],
+    "pallo": [
+        "ball"
+    ],
+    "palomies": [
+        "firefighter"
+    ],
+    "pankki": [
+        "bank"
+    ],
+    "panna": [
+        "put"
+    ],
+    "paperi": [
+        "paper"
+    ],
+    "pappi": [
+        "priest"
+    ],
+    "paprika": [
+        "pepper"
+    ],
+    "papu": [
+        "bean"
+    ],
+    "parturi": [
+        "barber"
+    ],
+    "parveke": [
+        "balcony"
+    ],
+    "pehmeä": [
+        "soft"
+    ],
+    "peili": [
+        "mirror"
+    ],
+    "pelata": [
+        "play"
+    ],
+    "perhe": [
+        "family"
+    ],
+    "perjantai": [
+        "friday"
+    ],
+    "persikka": [
+        "peach"
+    ],
+    "peruna": [
+        "potato"
+    ],
+    "pestä": [
+        "wash"
+    ],
+    "pesuallas": [
+        "sink"
+    ],
+    "pesukone": [
+        "washing machine"
+    ],
+    "pian": [
+        "soon"
+    ],
+    "pieni": [
+        "small"
+    ],
+    "piha": [
+        "yard",
+        "garden"
+    ],
+    "pihvi": [
+        "steak"
+    ],
+    "piimä": [
+        "sour milk"
+    ],
+    "piirakka": [
+        "pie"
+    ],
+    "pilvinen": [
+        "cloudy"
+    ],
+    "pimeä": [
+        "dark"
+    ],
+    "pippuri": [
+        "pepper"
+    ],
+    "pitkä": [
+        "tall"
+    ],
+    "pitää": [
+        "like"
+    ],
+    "pohjoinen": [
+        "north"
+    ],
+    "napa": [
+        "pole",
+        "hub",
+        "terminal"
+    ],
+    "poika": [
+        "boy",
+        "son"
+    ],
+    "pomo": [
+        "boss"
+    ],
+    "porkkana": [
+        "carrot"
+    ],
+    "postinjakaja": [
+        "mailman"
+    ],
+    "jakaja": [
+        "dealer",
+        "distributor"
+    ],
+    "printata": [
+        "print"
+    ],
+    "printteri": [
+        "printer"
+    ],
+    "puhelias": [
+        "talkative"
+    ],
+    "puhelin": [
+        "telephone"
+    ],
+    "puhelu": [
+        "phone call"
+    ],
+    "puhua": [
+        "speak"
+    ],
+    "puisto": [
+        "park"
+    ],
+    "pulla": [
+        "bun"
+    ],
+    "pullo": [
+        "bottle"
+    ],
+    "puoli": [
+        "half"
+    ],
+    "puolukka": [
+        "lingonberry"
+    ],
+    "putkimies": [
+        "plumber"
+    ],
+    "puuro": [
+        "porridge"
+    ],
+    "pyörä": [
+        "bike"
+    ],
+    "päivä": [
+        "day"
+    ],
+    "päiväkoti": [
+        "kindergarten"
+    ],
+    "pääkaupunki": [
+        "capital city"
+    ],
+    "pöytä": [
+        "table"
+    ],
+    "raaka": [
+        "raw"
+    ],
+    "raha": [
+        "money"
+    ],
+    "rakennus": [
+        "building"
+    ],
+    "ranska": [
+        "france"
+    ],
+    "rappu": [
+        "stairway"
+    ],
+    "rasvainen": [
+        "fatty"
+    ],
+    "rasvaton": [
+        "fat-free"
+    ],
+    "riisi": [
+        "rice"
+    ],
+    "risteys": [
+        "crossing"
+    ],
+    "ristiäiset": [
+        "christening"
+    ],
+    "ruis": [
+        "rye"
+    ],
+    "ruma": [
+        "ugly"
+    ],
+    "ruoka": [
+        "food"
+    ],
+    "ruokala": [
+        "canteen"
+    ],
+    "ruokalista": [
+        "menu"
+    ],
+    "ruskea": [
+        "brown"
+    ],
+    "räntä": [
+        "sleet"
+    ],
+    "saada": [
+        "get"
+    ],
+    "sairaanhoitaja": [
+        "nurse"
+    ],
+    "salaatti": [
+        "salad"
+    ],
+    "sama": [
+        "same"
+    ],
+    "sataa": [
+        "rain"
+    ],
+    "sateinen": [
+        "rainy"
+    ],
+    "seinä": [
+        "wall"
+    ],
+    "seisoa": [
+        "stand"
+    ],
+    "selkeä": [
+        "clear"
+    ],
+    "seteli": [
+        "bill"
+    ],
+    "sentti": [
+        "cent"
+    ],
+    "seuraava": [
+        "next"
+    ],
+    "sihteeri": [
+        "secretary"
+    ],
+    "siideri": [
+        "cider"
+    ],
+    "siisti": [
+        "tidy"
+    ],
+    "siivooja": [
+        "cleaner"
+    ],
+    "siivota": [
+        "clean"
+    ],
+    "silmä": [
+        "eye"
+    ],
+    "sipuli": [
+        "onion"
+    ],
+    "sisko": [
+        "sister"
+    ],
+    "sitruuna": [
+        "lemon"
+    ],
+    "sohva": [
+        "couch"
+    ],
+    "soida": [
+        "go off",
+        "ring"
+    ],
+    "soittaa": [
+        "play"
+    ],
+    "sokeri": [
+        "sugar"
+    ],
+    "sopia": [
+        "agree",
+        "suit"
+    ],
+    "sopimus": [
+        "deal",
+        "agreement"
+    ],
+    "sopiva": [
+        "fitting",
+        "suitable"
+    ],
+    "sotkuinen": [
+        "messy"
+    ],
+    "sovittaa": [
+        "try on",
+        "match",
+        "fit"
+    ],
+    "stressi": [
+        "stress"
+    ],
+    "suihku": [
+        "shower"
+    ],
+    "suklaa": [
+        "chocolate"
+    ],
+    "sukunimi": [
+        "last name"
+    ],
+    "suloinen": [
+        "sweet"
+    ],
+    "sumuinen": [
+        "foggy"
+    ],
+    "suola": [
+        "salt"
+    ],
+    "suolainen": [
+        "salty"
+    ],
+    "suolaton": [
+        "salt-free"
+    ],
+    "suomalainen": [
+        "finnish"
+    ],
+    "suora": [
+        "straight"
+    ],
+    "surullinen": [
+        "sad"
+    ],
+    "suuri": [
+        "big"
+    ],
+    "syksy": [
+        "autumn",
+        "fall"
+    ],
+    "syntymäpäivä": [
+        "birthday"
+    ],
+    "syödä": [
+        "eat"
+    ],
+    "sähkömies": [
+        "electrician"
+    ],
+    "sähköposti": [
+        "email"
+    ],
+    "sämpylä": [
+        "roll"
+    ],
+    "sänky": [
+        "bed"
+    ],
+    "sää": [
+        "weather"
+    ],
+    "säästää": [
+        "save"
+    ],
+    "söpö": [
+        "cute"
+    ],
+    "talo": [
+        "house"
+    ],
+    "talvi": [
+        "winter"
+    ],
+    "tanssia": [
+        "dance"
+    ],
+    "tansilattia": [
+        "dancefloor"
+    ],
+    "tapahtua": [
+        "happen"
+    ],
+    "tarjoilija": [
+        "waiter"
+    ],
+    "tarjoitin": [
+        "tray"
+    ],
+    "tarvita": [
+        "need"
+    ],
+    "taso": [
+        "level"
+    ],
+    "taulu": [
+        "painting"
+    ],
+    "tavaratalo": [
+        "department store",
+        "mall"
+    ],
+    "tavata": [
+        "meet"
+    ],
+    "tee": [
+        "tea"
+    ],
+    "tehdä ruoka": [
+        "cook"
+    ],
+    "teksti": [
+        "text"
+    ],
+    "televisio": [
+        "television"
+    ],
+    "teltta": [
+        "tent"
+    ],
+    "terveisin": [
+        "greetings",
+        "sincerely"
+    ],
+    "tie": [
+        "road"
+    ],
+    "tietokone": [
+        "computer"
+    ],
+    "tiimi": [
+        "team"
+    ],
+    "tila": [
+        "space"
+    ],
+    "tilata": [
+        "order"
+    ],
+    "toimisto": [
+        "office"
+    ],
+    "toimittaja": [
+        "reporter",
+        "journalist"
+    ],
+    "toinen": [
+        "another",
+        "second"
+    ],
+    "toissapäivänä": [
+        "day before yesterday"
+    ],
+    "toivottavasti": [
+        "hopefully"
+    ],
+    "toivotus": [
+        "wish"
+    ],
+    "tomaatti": [
+        "tomato"
+    ],
+    "tukeva": [
+        "sturdy"
+    ],
+    "tukka": [
+        "hair"
+    ],
+    "tulinen": [
+        "hot"
+    ],
+    "tulostin": [
+        "printer"
+    ],
+    "tumma": [
+        "dark"
+    ],
+    "tuoda": [
+        "bring"
+    ],
+    "tuoli": [
+        "chair"
+    ],
+    "tupaantuliaiset": [
+        "house-warming party"
+    ],
+    "tuulinen": [
+        "windy"
+    ],
+    "tuulla": [
+        "blow"
+    ],
+    "tyhmä": [
+        "stupid"
+    ],
+    "tyttö": [
+        "girl"
+    ],
+    "tyttöystävä": [
+        "girlfriend"
+    ],
+    "tytär": [
+        "daughter"
+    ],
+    "tyytyväinen": [
+        "satisfied"
+    ],
+    "työaika": [
+        "working hours"
+    ],
+    "työhuone": [
+        "study"
+    ],
+    "työkaveri": [
+        "coworker"
+    ],
+    "työnantaja": [
+        "employer"
+    ],
+    "työntekijä": [
+        "employee"
+    ],
+    "työpäivä": [
+        "workday"
+    ],
+    "työton": [
+        "unemployed"
+    ],
+    "työvuoro": [
+        "shift"
+    ],
+    "tänään": [
+        "today"
+    ],
+    "uida": [
+        "swim"
+    ],
+    "uima-allas": [
+        "swimming pool"
+    ],
+    "uimahalli": [
+        "swimming hall"
+    ],
+    "ujo": [
+        "shy"
+    ],
+    "ukkonen": [
+        "thunder"
+    ],
+    "ulkona": [
+        "outside"
+    ],
+    "ulos": [
+        "out"
+    ],
+    "urheilija": [
+        "athlete"
+    ],
+    "usein": [
+        "often"
+    ],
+    "uutiset": [
+        "news"
+    ],
+    "vaalea": [
+        "blonde"
+    ],
+    "vaaleanpunainen": [
+        "pink"
+    ],
+    "vaatehuone": [
+        "closet"
+    ],
+    "vaatekaappi": [
+        "wardrobe"
+    ],
+    "vadelma": [
+        "raspberry"
+    ],
+    "vahtimestari": [
+        "doorman"
+    ],
+    "vaikea": [
+        "hard"
+    ],
+    "vaimo": [
+        "wife"
+    ],
+    "vain": [
+        "only"
+    ],
+    "valita": [
+        "choose"
+    ],
+    "valkoinen": [
+        "white"
+    ],
+    "valkosipuli": [
+        "garlic"
+    ],
+    "valoisa": [
+        "light"
+    ],
+    "valokuva": [
+        "photograph"
+    ],
+    "valokuvaaja": [
+        "photographer"
+    ],
+    "vanha": [
+        "old"
+    ],
+    "vanhemmat": [
+        "parents"
+    ],
+    "vanilja": [
+        "vanilla"
+    ],
+    "vapaa": [
+        "free"
+    ],
+    "varattu": [
+        "busy",
+        "reserved"
+    ],
+    "varaus": [
+        "reservation"
+    ],
+    "vartija": [
+        "guard"
+    ],
+    "vartti": [
+        "quarter"
+    ],
+    "vastata": [
+        "answer"
+    ],
+    "vauva": [
+        "baby"
+    ],
+    "vedenkeitin": [
+        "kettle"
+    ],
+    "veitsi": [
+        "knife"
+    ],
+    "veli": [
+        "brother"
+    ],
+    "vene": [
+        "boat"
+    ],
+    "verho": [
+        "curtain",
+        "veil"
+    ],
+    "vesi": [
+        "water"
+    ],
+    "vesihana": [
+        "tap"
+    ],
+    "vessa": [
+        "toilet"
+    ],
+    "vesaharja": [
+        "toilet brush"
+    ],
+    "viedä": [
+        "take"
+    ],
+    "vielä": [
+        "yet",
+        "still"
+    ],
+    "vihannes": [
+        "vegetable"
+    ],
+    "vihreä": [
+        "green"
+    ],
+    "viihtyisä": [
+        "cozy",
+        "homely",
+        "comfortable"
+    ],
+    "viikonloppu": [
+        "weekend"
+    ],
+    "viikonpäivät": [
+        "weekdays"
+    ],
+    "viikset": [
+        "moustache"
+    ],
+    "viini": [
+        "wine"
+    ],
+    "viinilasi": [
+        "wine glass"
+    ],
+    "viinirypäle": [
+        "grape"
+    ],
+    "viipyä": [
+        "linger",
+        "stay",
+        "dwell"
+    ],
+    "vika": [
+        "fault",
+        "failure",
+        "defect"
+    ],
+    "vitsi": [
+        "joke"
+    ],
+    "voi": [
+        "butter"
+    ],
+    "voileipä": [
+        "sandwich"
+    ],
+    "vuodenaika": [
+        "season"
+    ],
+    "vuokra-asunto": [
+        "rental flat"
+    ],
+    "vuorokausi": [
+        "day"
+    ],
+    "vuotaa": [
+        "leak"
+    ],
+    "vähän": [
+        "a little"
+    ],
+    "väri": [
+        "color"
+    ],
+    "väsynyt": [
+        "tired"
+    ],
+    "yhdessä": [
+        "together"
+    ],
+    "yksityisyrittäjä": [
+        "sole trader"
+    ],
+    "yksiö": [
+        "studio flat",
+        "studio apartment"
+    ],
+    "yleensä": [
+        "usually"
+    ],
+    "ylihuomenna": [
+        "day after tomorrow"
+    ],
+    "ylityö": [
+        "overtime"
+    ],
+    "yläkerta": [
+        "upstairs"
+    ],
+    "ylös": [
+        "up"
+    ],
+    "ymmärtää": [
+        "understand"
+    ],
+    "yritys": [
+        "business",
+        "company"
+    ],
+    "ystävä": [
+        "friend"
+    ],
+    "yö": [
+        "night"
+    ],
+    "yöpöytä": [
+        "bedside table"
+    ],
+    "äidinkieli": [
+        "mother tongue"
+    ],
+    "äiti": [
+        "mother"
+    ],
+    "öljy": [
+        "oil"
+    ],
+    "aalto": [
+        "wave"
+    ],
+    "ahdas": [
+        "narrow"
+    ],
+    "ahdistunut": [
+        "anxious"
+    ],
+    "ahdistus": [
+        "anxious"
+    ],
+    "ahkera": [
+        "hard-working"
+    ],
+    "ahven": [
+        "pike"
+    ],
+    "aiemmin": [
+        "earlier"
+    ],
+    "aihe": [
+        "subject"
+    ],
+    "aiheuttaa": [
+        "cause"
+    ],
+    "aika": [
+        "time"
+    ],
+    "aikaisemmin": [
+        "earlier"
+    ],
+    "aikaisin": [
+        "early"
+    ],
+    "aikamuoto": [
+        "tense"
+    ],
+    "aikataulu": [
+        "timetable",
+        "schedule"
+    ],
+    "aikuinen": [
+        "adult"
+    ],
+    "aina": [
+        "always"
+    ],
+    "ainakin": [
+        "at least"
+    ],
+    "ainoa": [
+        "only"
+    ],
+    "aisti": [
+        "sense"
+    ],
+    "aivan": [
+        "just",
+        "so"
+    ],
+    "aivot": [
+        "brain"
+    ],
+    "ajanvaraus": [
+        "appointment"
+    ],
+    "ajoissa": [
+        "in time"
+    ],
+    "ajoitus": [
+        "timing"
+    ],
+    "ajokortti": [
+        "driving license"
+    ],
+    "aktiivinen": [
+        "active"
+    ],
+    "aktiivisesti": [
+        "actively"
+    ],
+    "akustinen": [
+        "acoustic"
+    ],
+    "ala": [
+        "industry",
+        "sector",
+        "field"
+    ],
+    "alakoulu": [
+        "primary school"
+    ],
+    "alennus": [
+        "discount",
+        "sale"
+    ],
+    "alennuskoodi": [
+        "discount code"
+    ],
+    "alentaa": [
+        "lower"
+    ],
+    "allas": [
+        "pool"
+    ],
+    "allergia": [
+        "allergy"
+    ],
+    "aloittaa": [
+        "start",
+        "begin"
+    ],
+    "alue": [
+        "area"
+    ],
+    "aluksi": [
+        "at first"
+    ],
+    "ambulanssi": [
+        "ambulance"
+    ],
+    "ammattitaitoinen": [
+        "proficient",
+        "skilled"
+    ],
+    "ampua": [
+        "shoot"
+    ],
+    "annos": [
+        "dish"
+    ],
+    "ansioluettelo": [
+        "cv"
+    ],
+    "arkipäivä": [
+        "weekday"
+    ],
+    "arvioitu": [
+        "estimated"
+    ],
+    "arvokas": [
+        "valuable"
+    ],
+    "arvonlisävero": [
+        "value-added tax"
+    ],
+    "arvosana": [
+        "grade"
+    ],
+    "arvostaa": [
+        "value"
+    ],
+    "assistentti": [
+        "assistant"
+    ],
+    "aste": [
+        "degree"
+    ],
+    "asukas": [
+        "resident",
+        "inhabitant"
+    ],
+    "aueta": [
+        "open"
+    ],
+    "aukioloaika": [
+        "opening hours"
+    ],
+    "auringolasku": [
+        "sunset"
+    ],
+    "autokorjaamo": [
+        "car repair shop"
+    ],
+    "automaattinen": [
+        "automatic"
+    ],
+    "automekaanikko": [
+        "car mechanic"
+    ],
+    "autonkorjaaja": [
+        "car mechanic"
+    ],
+    "avanto": [
+        "hole in the ice"
+    ],
+    "avaruus": [
+        "space"
+    ],
+    "avata": [
+        "open"
+    ],
+    "avioliitto": [
+        "marriage"
+    ],
+    "aviomies": [
+        "husband"
+    ],
+    "aviopuoliso": [
+        "spouse"
+    ],
+    "aviovaimo": [
+        "wife"
+    ],
+    "avoin": [
+        "open"
+    ],
+    "avulias": [
+        "helpful"
+    ],
+    "tulehdus": [
+        "inflammation"
+    ],
+    "edullinen": [
+        "affordable"
+    ],
+    "ehdottaa": [
+        "suggest"
+    ],
+    "ehdottomasti": [
+        "definitely",
+        "absolutely"
+    ],
+    "ehtiä": [
+        "make it"
+    ],
+    "ensimmäinen": [
+        "first"
+    ],
+    "eksyä": [
+        "get lost"
+    ],
+    "elefantti": [
+        "elephant"
+    ],
+    "eläin": [
+        "animal"
+    ],
+    "elämys": [
+        "experience"
+    ],
+    "elämä": [
+        "life"
+    ],
+    "enemmän": [
+        "more"
+    ],
+    "enintään": [
+        "at most"
+    ],
+    "eniten": [
+        "most"
+    ],
+    "entinen": [
+        "former"
+    ],
+    "erikoisuus": [
+        "specialty"
+    ],
+    "erilainen": [
+        "different"
+    ],
+    "erinomainen": [
+        "excellent"
+    ],
+    "erityisesti": [
+        "specially"
+    ],
+    "ero": [
+        "difference"
+    ],
+    "erota": [
+        "divorce",
+        "break up"
+    ],
+    "eräpäivä": [
+        "due date"
+    ],
+    "esihenkilö": [
+        "foreman"
+    ],
+    "esikoulu": [
+        "pre-primary school"
+    ],
+    "esine": [
+        "object"
+    ],
+    "esite": [
+        "brochure"
+    ],
+    "esittää": [
+        "perform"
+    ],
+    "esitys": [
+        "performance"
+    ],
+    "etana": [
+        "snail"
+    ],
+    "etenkin": [
+        "specially"
+    ],
+    "etsiä": [
+        "search from"
+    ],
+    "etukoodi": [
+        "access code"
+    ],
+    "eväs": [
+        "packed lunch"
+    ],
+    "farmasia": [
+        "pharmacy"
+    ],
+    "firma": [
+        "company"
+    ],
+    "flunssa": [
+        "flu"
+    ],
+    "fyysinen": [
+        "physical"
+    ],
+    "gepardi": [
+        "cheetah"
+    ],
+    "grillata": [
+        "barbecue"
+    ],
+    "hastaattelu": [
+        "interview"
+    ],
+    "hai": [
+        "shark"
+    ],
+    "haista": [
+        "smell"
+    ],
+    "haitata": [
+        "hinder"
+    ],
+    "hakata": [
+        "chop",
+        "cut"
+    ],
+    "hakemus": [
+        "application"
+    ],
+    "hammas": [
+        "tooth"
+    ],
+    "hammashoitaja": [
+        "dental nurse"
+    ],
+    "hanhi": [
+        "goose"
+    ],
+    "hankala": [
+        "difficult"
+    ],
+    "hakkia": [
+        "get",
+        "acquire"
+    ],
+    "hanskat": [
+        "gloves"
+    ],
+    "harjoitella": [
+        "practice"
+    ],
+    "harjoittelija": [
+        "trainee"
+    ],
+    "harmittaa": [
+        "vex"
+    ],
+    "harrastaa": [
+        "do hobbies"
+    ],
+    "harrastus": [
+        "hobby"
+    ],
+    "hartiat": [
+        "shoulders"
+    ],
+    "harvoin": [
+        "rarely"
+    ],
+    "hassu": [
+        "silly",
+        "funny"
+    ],
+    "hattara": [
+        "cotton candy"
+    ],
+    "hauki": [
+        "pike"
+    ],
+    "haukka": [
+        "hawk"
+    ],
+    "hauta": [
+        "grave"
+    ],
+    "hautajaiset": [
+        "funeral"
+    ],
+    "hautausmaa": [
+        "graveyard"
+    ],
+    "heijastin": [
+        "reflector"
+    ],
+    "heikko": [
+        "weak"
+    ],
+    "heinä": [
+        "hay"
+    ],
+    "heittää": [
+        "throw"
+    ],
+    "helle": [
+        "heatwave",
+        "heat"
+    ],
+    "helposti": [
+        "easily"
+    ],
+    "hengittää": [
+        "breathe"
+    ],
+    "henkilökortti": [
+        "id card"
+    ],
+    "henkilö": [
+        "person",
+        "individual"
+    ],
+    "herkku": [
+        "delicacy",
+        "treat"
+    ],
+    "hermostunut": [
+        "nervous"
+    ],
+    "herättää": [
+        "wake up"
+    ],
+    "herätä": [
+        "wake up"
+    ],
+    "heti": [
+        "immediately"
+    ],
+    "hieno": [
+        "fine",
+        "great"
+    ],
+    "hiihto": [
+        "skiing"
+    ],
+    "hiljentyä": [
+        "settle down",
+        "quit down"
+    ],
+    "hirveä": [
+        "awful"
+    ],
+    "hirvi": [
+        "elk"
+    ],
+    "hiukset": [
+        "hair"
+    ],
+    "hoitaa": [
+        "take care"
+    ],
+    "hoito": [
+        "treatment"
+    ],
+    "hoitoala": [
+        "care sector"
+    ],
+    "hostelli": [
+        "hostel"
+    ],
+    "huolellinen": [
+        "careful",
+        "meticulous"
+    ],
+    "huolto": [
+        "maintenance"
+    ],
+    "huoltoasema": [
+        "gas station"
+    ],
+    "huoltomies": [
+        "maintenance man"
+    ],
+    "huoltoyhtiö": [
+        "maintenance company"
+    ],
+    "huomata": [
+        "notice"
+    ],
+    "huonekalu": [
+        "furniture"
+    ],
+    "huonolaatuinen": [
+        "bad quality"
+    ],
+    "huono": [
+        "bad"
+    ],
+    "huutaa": [
+        "shout"
+    ],
+    "hylje": [
+        "seal"
+    ],
+    "hytti": [
+        "cabin"
+    ],
+    "hyttynen": [
+        "mosquito"
+    ],
+    "hyvinvointi": [
+        "wellbeing"
+    ],
+    "hyväntuulinen": [
+        "good-humoured"
+    ],
+    "hälyttää": [
+        "alert",
+        "alarm"
+    ],
+    "hämähäkki": [
+        "spider"
+    ],
+    "hämärä": [
+        "dark"
+    ],
+    "hätänumero": [
+        "emergency number"
+    ],
+    "hävitä": [
+        "lose"
+    ],
+    "hääpari": [
+        "wedding couple"
+    ],
+    "ihana": [
+        "wonderful",
+        "lovely"
+    ],
+    "ihastua": [
+        "get a crush"
+    ],
+    "ihminen": [
+        "human"
+    ],
+    "iho": [
+        "skin"
+    ],
+    "ihottuma": [
+        "skin rash"
+    ],
+    "ikävä": [
+        "unfortunate"
+    ],
+    "illallinen": [
+        "dinner"
+    ],
+    "ilmainen": [
+        "free"
+    ],
+    "ilmestyä": [
+        "appear",
+        "show up"
+    ],
+    "ilmoittaa": [
+        "announce",
+        "notify"
+    ],
+    "ilmoittautua": [
+        "sign up",
+        "enroll"
+    ],
+    "ilmoitus": [
+        "notice"
+    ],
+    "ilo": [
+        "joy"
+    ],
+    "ilotulitus": [
+        "fireworks"
+    ],
+    "raketti": [
+        "rocket"
+    ],
+    "iltapala": [
+        "supper"
+    ],
+    "iltasatu": [
+        "bedtime story"
+    ],
+    "inhota": [
+        "detest"
+    ],
+    "innokas": [
+        "enthusiastic"
+    ],
+    "innostua": [
+        "get excited"
+    ],
+    "intensiivikurssi": [
+        "intensive course"
+    ],
+    "irtaimisto": [
+        "personal property"
+    ],
+    "vahinko": [
+        "damage"
+    ],
+    "istua": [
+        "sit"
+    ],
+    "isännöitsijä": [
+        "property manager"
+    ],
+    "itse": [
+        "self"
+    ],
+    "itsenäisesti": [
+        "independently"
+    ],
+    "jaksaminen": [
+        "resilience",
+        "endurance"
+    ],
+    "jakso": [
+        "period"
+    ],
+    "jalka": [
+        "foot",
+        "leg"
+    ],
+    "jälkäkäytävä": [
+        "sidewalk"
+    ],
+    "jalkalamppu": [
+        "foot lamp"
+    ],
+    "jatkua": [
+        "continue"
+    ],
+    "jokainen": [
+        "everybody"
+    ],
+    "joki": [
+        "river"
+    ],
+    "jono": [
+        "queue"
+    ],
+    "joulupäivä": [
+        "christmas"
+    ],
+    "joutsen": [
+        "swan"
+    ],
+    "juhannus": [
+        "midsummer"
+    ],
+    "juhlia": [
+        "celebrate",
+        "party"
+    ],
+    "julkkis": [
+        "celebrity"
+    ],
+    "jumppa": [
+        "aerobics"
+    ],
+    "junamatkailu": [
+        "train travel"
+    ],
+    "juoksi": [
+        "running"
+    ],
+    "juotava": [
+        "drinkable"
+    ],
+    "juttu": [
+        "thing",
+        "story",
+        "case"
+    ],
+    "jälki": [
+        "mark",
+        "sign",
+        "post"
+    ],
+    "jälkiruoka": [
+        "dessert"
+    ],
+    "jänis": [
+        "hare"
+    ],
+    "jännittynyt": [
+        "tense"
+    ],
+    "jännittää": [
+        "get excited"
+    ],
+    "järjestelmä": [
+        "system"
+    ],
+    "järjestelmällinen": [
+        "organised"
+    ],
+    "järjestely": [
+        "arrangement"
+    ],
+    "järjestää": [
+        "organize"
+    ],
+    "järki": [
+        "reason"
+    ],
+    "järvi": [
+        "lake"
+    ],
+    "jättää": [
+        "leave"
+    ],
+    "jää": [
+        "ice"
+    ],
+    "jäädä": [
+        "stay"
+    ],
+    "jääkarhu": [
+        "polar bear"
+    ],
+    "jääkiekko": [
+        "ice hockey"
+    ],
+    "ottelu": [
+        "match"
+    ],
+    "kaaso": [
+        "maid",
+        "matron of honour"
+    ],
+    "kaataa": [
+        "pour"
+    ],
+    "kaatua": [
+        "crash"
+    ],
+    "kadota": [
+        "disappear"
+    ],
+    "kahvinkeitin": [
+        "coffee maker"
+    ],
+    "kai": [
+        "probably"
+    ],
+    "kaikenlainen": [
+        "all sorts"
+    ],
+    "kaiutin": [
+        "speaker"
+    ],
+    "kalastaa": [
+        "fish"
+    ],
+    "kalastus": [
+        "fishing"
+    ],
+    "kallio": [
+        "rock"
+    ],
+    "kallis": [
+        "expensive"
+    ],
+    "kalpea": [
+        "pale"
+    ],
+    "kaluste": [
+        "unit"
+    ],
+    "kamala": [
+        "awful",
+        "horrible"
+    ],
+    "kameli": [
+        "camel"
+    ],
+    "kaneli": [
+        "cinnamon"
+    ],
+    "kangas": [
+        "fabric"
+    ],
+    "kannattaa": [
+        "be worth something"
+    ],
+    "kannustaa": [
+        "support"
+    ],
+    "kansainvälinen": [
+        "international"
+    ],
+    "hymni": [
+        "hymn"
+    ],
+    "runoilija": [
+        "poet"
+    ],
+    "kansi": [
+        "deck"
+    ],
+    "kantaa": [
+        "carry",
+        "collect"
+    ],
+    "karnevaali": [
+        "carnival"
+    ],
+    "kassa": [
+        "cash register"
+    ],
+    "kastella": [
+        "water"
+    ],
+    "kasvaa": [
+        "grow"
+    ],
+    "kasvot": [
+        "face"
+    ],
+    "naama": [
+        "face"
+    ],
+    "katella": [
+        "look"
+    ],
+    "katsella": [
+        "look"
+    ],
+    "kattaa": [
+        "cover"
+    ],
+    "katuvalo": [
+        "streetlight"
+    ],
+    "kauan": [
+        "for long"
+    ],
+    "kauas": [
+        "far"
+    ],
+    "kaukaa": [
+        "from faraway"
+    ],
+    "kaukainen": [
+        "faraway"
+    ],
+    "kaukojuna": [
+        "long-distance train"
+    ],
+    "kaukosäädin": [
+        "remote control"
+    ],
+    "kaula": [
+        "neck"
+    ],
+    "kauneus": [
+        "beauty"
+    ],
+    "kauppa": [
+        "shop"
+    ],
+    "liike": [
+        "shop",
+        "business",
+        "movement"
+    ],
+    "kauppakeskus": [
+        "shopping center"
+    ],
+    "kaupunkilainen": [
+        "urbanite",
+        "townsman"
+    ],
+    "kauris": [
+        "roe deer"
+    ],
+    "keikka": [
+        "gig"
+    ],
+    "keilaus": [
+        "bowling"
+    ],
+    "keittää": [
+        "cook"
+    ],
+    "keksiä": [
+        "come up with something"
+    ],
+    "kelvata": [
+        "be good"
+    ],
+    "kenttä": [
+        "field"
+    ],
+    "keräily": [
+        "collecting"
+    ],
+    "kerätä": [
+        "collect"
+    ],
+    "keskeyttää": [
+        "interrupt"
+    ],
+    "keskikesä": [
+        "midsummer"
+    ],
+    "keskiyö": [
+        "midnight"
+    ],
+    "kestää": [
+        "take time"
+    ],
+    "kettu": [
+        "fox"
+    ],
+    "keuhko": [
+        "lung"
+    ],
+    "kevyt": [
+        "light"
+    ],
+    "kielitaito": [
+        "language skills"
+    ],
+    "taito": [
+        "skill",
+        "ability"
+    ],
+    "kielteinen": [
+        "negative"
+    ],
+    "kieltää": [
+        "deny",
+        "forbid"
+    ],
+    "kierros": [
+        "round",
+        "tour"
+    ],
+    "kierrätys": [
+        "recycling"
+    ],
+    "kiertoajelu": [
+        "tour"
+    ],
+    "kihlaus": [
+        "engagement"
+    ],
+    "kiinnostava": [
+        "interesting"
+    ],
+    "kiireetön": [
+        "idle",
+        "leisured"
+    ],
+    "kiireinen": [
+        "busy"
+    ],
+    "kilpailu": [
+        "competition"
+    ],
+    "kilpa": [
+        "competition"
+    ],
+    "kinkku": [
+        "ham"
+    ],
+    "kipeä": [
+        "sick",
+        "sore",
+        "aching"
+    ],
+    "kirjailija": [
+        "author",
+        "writer"
+    ],
+    "kirjain": [
+        "letter"
+    ],
+    "kerho": [
+        "club"
+    ],
+    "kirjallisuus": [
+        "literature"
+    ],
+    "kirjata": [
+        "record",
+        "log",
+        "register"
+    ],
+    "kirjaudu": [
+        "login"
+    ],
+    "kirkko": [
+        "church"
+    ],
+    "kirpputori": [
+        "flea market"
+    ],
+    "kiuas": [
+        "sauna heater"
+    ],
+    "klinikka": [
+        "clinic"
+    ],
+    "kodinkoneliike": [
+        "home appliance store"
+    ],
+    "koe": [
+        "exam"
+    ],
+    "tentti": [
+        "exam"
+    ],
+    "kohta": [
+        "soon"
+    ],
+    "kohteliaasti": [
+        "politely"
+    ],
+    "koivu": [
+        "birch"
+    ],
+    "kokea": [
+        "experience"
+    ],
+    "kokeilla": [
+        "try out"
+    ],
+    "kokemus": [
+        "experience"
+    ],
+    "kokenut": [
+        "experienced"
+    ],
+    "kokko": [
+        "bonfire"
+    ],
+    "kokonaan": [
+        "completely"
+    ],
+    "kokoontuminen": [
+        "meeting"
+    ],
+    "kokous": [
+        "meeting"
+    ],
+    "kommentoida": [
+        "comment"
+    ],
+    "konditoria": [
+        "pastisserie",
+        "confectionery"
+    ],
+    "kone": [
+        "machine"
+    ],
+    "konfirmaatio": [
+        "confirmation"
+    ],
+    "konsertti": [
+        "concert",
+        "gig"
+    ],
+    "kontakti": [
+        "contact"
+    ],
+    "koripallo": [
+        "basketball"
+    ],
+    "koristella": [
+        "decorate"
+    ],
+    "korjaamo": [
+        "repair shop",
+        "workshop"
+    ],
+    "kumppani": [
+        "partner"
+    ],
+    "kunnianhimoinen": [
+        "ambitious"
+    ],
+    "kunto": [
+        "shape"
+    ],
+    "kuntosali": [
+        "gym"
+    ],
+    "kuohuviini": [
+        "sparkling wine"
+    ],
+    "kuori": [
+        "casing"
+    ],
+    "kuoro": [
+        "choir"
+    ],
+    "kurkku": [
+        "throat",
+        "cucumber"
+    ],
+    "kutsu": [
+        "invitation"
+    ],
+    "kutsua": [
+        "invite"
+    ],
+    "kuu": [
+        "moon"
+    ],
+    "kuulla": [
+        "hear"
+    ],
+    "kuuloke": [
+        "headset"
+    ],
+    "kuulua": [
+        "belong"
+    ],
+    "kuuluisa": [
+        "famous"
+    ],
+    "kuume": [
+        "fever"
+    ],
+    "kuumemittari": [
+        "thermometer"
+    ],
+    "kuumeta": [
+        "heat up"
+    ],
+    "kuva": [
+        "image"
+    ],
+    "kuvataide": [
+        "visual arts"
+    ],
+    "kyky": [
+        "ability"
+    ],
+    "kylmetä": [
+        "cool down"
+    ],
+    "kylmälaukku": [
+        "cooler"
+    ],
+    "kynttilä": [
+        "candle"
+    ],
+    "kyynärpää": [
+        "elbow"
+    ],
+    "kyyti": [
+        "lift",
+        "ride"
+    ],
+    "kännykkä": [
+        "mobile phone",
+        "cell phone"
+    ],
+    "kärpänen": [
+        "fly"
+    ],
+    "kärsivällinen": [
+        "patient"
+    ],
+    "käsi": [
+        "hand"
+    ],
+    "käsijarru": [
+        "hand brake"
+    ],
+    "matkatavara": [
+        "luggage"
+    ],
+    "käsitellä": [
+        "handle"
+    ],
+    "käsityö": [
+        "handcraft"
+    ],
+    "käsivarsi": [
+        "arm"
+    ],
+    "kätevästi": [
+        "handily"
+    ],
+    "kätilö": [
+        "midwife"
+    ],
+    "kävely": [
+        "walk"
+    ],
+    "käyttäminen": [
+        "using"
+    ],
+    "käyttää": [
+        "use"
+    ],
+    "käyttö": [
+        "use",
+        "usage"
+    ],
+    "käytännöllinen": [
+        "practical"
+    ],
+    "käännös": [
+        "translation"
+    ],
+    "kääntää": [
+        "turn"
+    ],
+    "käärme": [
+        "snake"
+    ],
+    "laadukas": [
+        "high quality"
+    ],
+    "laahustaa": [
+        "shuffle along",
+        "drag one's feet"
+    ],
+    "laaja": [
+        "extensive"
+    ],
+    "laatikkoruoka": [
+        "casserole"
+    ],
+    "laatu": [
+        "quality"
+    ],
+    "ladata": [
+        "load"
+    ],
+    "lahti": [
+        "bay"
+    ],
+    "laite": [
+        "device"
+    ],
+    "laittaa": [
+        "prepare",
+        "set",
+        "lay"
+    ],
+    "laituri": [
+        "dock",
+        "platform"
+    ],
+    "lammas": [
+        "sheep"
+    ],
+    "langaton": [
+        "wireless"
+    ],
+    "lapsuus": [
+        "childhood"
+    ],
+    "laskea": [
+        "calculate",
+        "descend",
+        "fall",
+        "drop"
+    ],
+    "laskettelu": [
+        "downhill skiing"
+    ],
+    "laskeutua": [
+        "land"
+    ],
+    "laskin": [
+        "calculator"
+    ],
+    "lastata": [
+        "load",
+        "pack"
+    ],
+    "lataus": [
+        "charge"
+    ],
+    "lautasliina": [
+        "napkin"
+    ],
+    "leikata": [
+        "cut"
+    ],
+    "leivänpaahdin": [
+        "toaster"
+    ],
+    "lenkkeillä": [
+        "jog"
+    ],
+    "lenkki": [
+        "walk",
+        "jog",
+        "run"
+    ],
+    "lento": [
+        "flight"
+    ],
+    "lentoasema": [
+        "airport"
+    ],
+    "lentopallo": [
+        "volleyball"
+    ],
+    "lepo": [
+        "rest"
+    ],
+    "leuka": [
+        "chin",
+        "jaw"
+    ],
+    "levätä": [
+        "rest"
+    ],
+    "lihas": [
+        "muscle"
+    ],
+    "lihava": [
+        "fat"
+    ],
+    "liikenne": [
+        "traffic"
+    ],
+    "liikkua": [
+        "move"
+    ],
+    "liikunta": [
+        "exercise"
+    ],
+    "liite": [
+        "appendix"
+    ],
+    "liittää": [
+        "attach",
+        "join",
+        "relate"
+    ],
+    "linkki": [
+        "link"
+    ],
+    "linna": [
+        "castle"
+    ],
+    "liukas": [
+        "slippery"
+    ],
+    "lohi": [
+        "salmon"
+    ],
+    "lokki": [
+        "seagull"
+    ],
+    "lomake": [
+        "form"
+    ],
+    "lopettaa": [
+        "stop"
+    ],
+    "loppu": [
+        "end"
+    ],
+    "lopulta": [
+        "finally"
+    ],
+    "luento": [
+        "lecture"
+    ],
+    "luistelu": [
+        "skating"
+    ],
+    "lukio": [
+        "high school"
+    ],
+    "lukko": [
+        "lock"
+    ],
+    "lukukausi": [
+        "semester"
+    ],
+    "luonto": [
+        "nature"
+    ],
+    "kohde": [
+        "target",
+        "objective"
+    ],
+    "luotettava": [
+        "reliable",
+        "trusty"
+    ],
+    "luova": [
+        "creative"
+    ],
+    "lupa": [
+        "permit"
+    ],
+    "lupaus": [
+        "promise"
+    ],
+    "luu": [
+        "bone"
+    ],
+    "luulla": [
+        "think",
+        "believe"
+    ],
+    "lyhetä": [
+        "shorten"
+    ],
+    "lähde": [
+        "source"
+    ],
+    "läheinen": [
+        "nearby"
+    ],
+    "lähes": [
+        "almost"
+    ],
+    "lähete": [
+        "referral"
+    ],
+    "lähettää": [
+        "send"
+    ],
+    "lähetys": [
+        "shipment",
+        "parcel"
+    ],
+    "lämmetä": [
+        "warm up"
+    ],
+    "lämmittää": [
+        "heat up"
+    ],
+    "lämpömittari": [
+        "thermometer"
+    ],
+    "lämpötila": [
+        "temperature"
+    ],
+    "lääke": [
+        "medicine"
+    ],
+    "lääkekuuri": [
+        "medication"
+    ],
+    "lääketiede": [
+        "medicine"
+    ],
+    "lääkäri": [
+        "doctor"
+    ],
+    "löyly": [
+        "steam"
+    ],
+    "löylykauha": [
+        "ladle"
+    ],
+    "löytyä": [
+        "find"
+    ],
+    "maa": [
+        "ground",
+        "land",
+        "country"
+    ],
+    "maanomistaja": [
+        "landowner"
+    ],
+    "maaseutu": [
+        "countryside"
+    ],
+    "maha": [
+        "tummy"
+    ],
+    "mahdollinen": [
+        "possible"
+    ],
+    "mahdollisuus": [
+        "opportunity",
+        "possibility",
+        "chance"
+    ],
+    "mahdoton": [
+        "impossible"
+    ],
+    "mahtava": [
+        "awesome"
+    ],
+    "mahtua": [
+        "fit"
+    ],
+    "mainos": [
+        "ad",
+        "advertisement"
+    ],
+    "mainostaa": [
+        "advertise"
+    ],
+    "maisema": [
+        "view"
+    ],
+    "maisteri": [
+        "master"
+    ],
+    "maistua": [
+        "taste"
+    ],
+    "majoitus": [
+        "accomodation"
+    ],
+    "makoilla": [
+        "lay down"
+    ],
+    "maksa": [
+        "liver"
+    ],
+    "maksaa": [
+        "pay"
+    ],
+    "maksaja": [
+        "payer"
+    ],
+    "maksaminen": [
+        "payment"
+    ],
+    "maksu": [
+        "payment"
+    ],
+    "maksutapa": [
+        "payment method"
+    ],
+    "maksuton": [
+        "free of charge"
+    ],
+    "maku": [
+        "taste"
+    ],
+    "malja": [
+        "bowl",
+        "cup"
+    ],
+    "maljakko": [
+        "vase"
+    ],
+    "malli": [
+        "model"
+    ],
+    "markkina": [
+        "market"
+    ],
+    "masennus": [
+        "depression"
+    ],
+    "masentunut": [
+        "depressed"
+    ],
+    "matkailu": [
+        "tourism"
+    ],
+    "matkustaminen": [
+        "travelling"
+    ],
+    "mato": [
+        "worm"
+    ],
+    "mehiläinen": [
+        "bee"
+    ],
+    "tunnelma": [
+        "atmosphere",
+        "vibes",
+        "mood"
+    ],
+    "melko": [
+        "quite"
+    ],
+    "menneisyys": [
+        "past"
+    ],
+    "meno": [
+        "one-way"
+    ],
+    "meno-paluu": [
+        "round-trip"
+    ],
+    "meri": [
+        "sea"
+    ],
+    "merkki": [
+        "brand"
+    ],
+    "messut": [
+        "trade fair"
+    ],
+    "mestaruus": [
+        "champion"
+    ],
+    "metsä": [
+        "forest"
+    ],
+    "metsästys": [
+        "hunting"
+    ],
+    "metsästää": [
+        "hunt"
+    ],
+    "mielenkiintoinen": [
+        "interesting"
+    ],
+    "mielenterveys": [
+        "mental health"
+    ],
+    "mieletön": [
+        "crazy"
+    ],
+    "mielulten": [
+        "preferrably"
+    ],
+    "miettiä": [
+        "think"
+    ],
+    "migreeni": [
+        "migraine"
+    ],
+    "molemmat": [
+        "both"
+    ],
+    "moni": [
+        "many"
+    ],
+    "monikko": [
+        "plural"
+    ],
+    "muisti": [
+        "memory"
+    ],
+    "munuaine": [
+        "kidney"
+    ],
+    "muoto": [
+        "form"
+    ],
+    "murtovaras": [
+        "burglar"
+    ],
+    "musikaali": [
+        "musical"
+    ],
+    "muu": [
+        "other"
+    ],
+    "muurahainen": [
+        "ant"
+    ],
+    "muuten": [
+        "otherwise"
+    ],
+    "myymälä": [
+        "store",
+        "shop"
+    ],
+    "myöhemmin": [
+        "later"
+    ],
+    "myöhässä": [
+        "late"
+    ],
+    "mäki": [
+        "hill"
+    ],
+    "mänty": [
+        "pine"
+    ],
+    "märkä": [
+        "wet"
+    ],
+    "nalle": [
+        "teddy bear"
+    ],
+    "naulakko": [
+        "stand"
+    ],
+    "naurattaa": [
+        "make someone laugh"
+    ],
+    "nauttia": [
+        "enjoy"
+    ],
+    "negatiivinen": [
+        "negative"
+    ],
+    "nenä": [
+        "nose"
+    ],
+    "netti": [
+        "internet"
+    ],
+    "neuvo": [
+        "advice"
+    ],
+    "neuvonta": [
+        "information desk"
+    ],
+    "niemi": [
+        "cape"
+    ],
+    "nilkka": [
+        "ankle"
+    ],
+    "niska": [
+        "neck"
+    ],
+    "noita": [
+        "witch"
+    ],
+    "nolo": [
+        "embarassing"
+    ],
+    "nostaa": [
+        "lift"
+    ],
+    "nukahtaa": [
+        "fall asleep"
+    ],
+    "nukkua": [
+        "sleep"
+    ],
+    "nuoreta": [
+        "get younger"
+    ],
+    "nuoruus": [
+        "youth"
+    ],
+    "nykyinen": [
+        "current"
+    ],
+    "nykyään": [
+        "nowadays",
+        "these days",
+        "now"
+    ],
+    "nähtävyys": [
+        "tourist attraction"
+    ],
+    "näppäin": [
+        "key"
+    ],
+    "näyte": [
+        "sample"
+    ],
+    "ohje": [
+        "instructions"
+    ],
+    "ohjelma": [
+        "programme"
+    ],
+    "ohi": [
+        "past"
+    ],
+    "oikeastaan": [
+        "really"
+    ],
+    "oikeus": [
+        "right"
+    ],
+    "oire": [
+        "symptom"
+    ],
+    "oksa": [
+        "branch"
+    ],
+    "oksennus": [
+        "vomit"
+    ],
+    "oleskelu": [
+        "stay"
+    ],
+    "olo": [
+        "feeling"
+    ],
+    "oma": [
+        "own"
+    ],
+    "omavastuu": [
+        "deductible"
+    ],
+    "ominaisuus": [
+        "characteristic"
+    ],
+    "ommella": [
+        "sew"
+    ],
+    "ompelukone": [
+        "sewing machine"
+    ],
+    "onkia": [
+        "fish"
+    ],
+    "onneksi": [
+        "luckily",
+        "thankfully"
+    ],
+    "onnettomuus": [
+        "accident"
+    ],
+    "onni": [
+        "luck"
+    ],
+    "onnitella": [
+        "congratulate"
+    ],
+    "opas": [
+        "guide"
+    ],
+    "opetella": [
+        "learn"
+    ],
+    "opinnot": [
+        "studies"
+    ],
+    "opiskelija": [
+        "student"
+    ],
+    "opiskelijavaihto": [
+        "student exchange"
+    ],
+    "opisto": [
+        "school",
+        "institute"
+    ],
+    "oppia": [
+        "learn"
+    ],
+    "oppilas": [
+        "student"
+    ],
+    "oppitunti": [
+        "lesson"
+    ],
+    "orava": [
+        "squirrel"
+    ],
+    "organisoitunut": [
+        "organised"
+    ],
+    "osa": [
+        "part"
+    ],
+    "osallistua": [
+        "participate"
+    ],
+    "ostos": [
+        "purchase"
+    ],
+    "ostoskori": [
+        "shopping basket"
+    ],
+    "otsa": [
+        "forehead"
+    ],
+    "ottaa": [
+        "take"
+    ],
+    "outo": [
+        "strange"
+    ],
+    "paikkakunta": [
+        "localilty",
+        "municipality"
+    ],
+    "paikkavaraus": [
+        "seat reservation"
+    ],
+    "painaa": [
+        "press"
+    ],
+    "paitsi": [
+        "except"
+    ],
+    "pajupuu": [
+        "willow tree"
+    ],
+    "pakata": [
+        "pack"
+    ],
+    "paketti": [
+        "package"
+    ],
+    "pakettiauto": [
+        "van"
+    ],
+    "palaa": [
+        "burn"
+    ],
+    "palauttaa": [
+        "return"
+    ],
+    "palauttaminen": [
+        "return"
+    ],
+    "palautus": [
+        "return"
+    ],
+    "palaveri": [
+        "meeting"
+    ],
+    "palovaroitin": [
+        "fire detector"
+    ],
+    "paluu": [
+        "return"
+    ],
+    "palvelu": [
+        "service"
+    ],
+    "parantua": [
+        "heal"
+    ],
+    "passi": [
+        "passport"
+    ],
+    "patsas": [
+        "statue"
+    ],
+    "pelto": [
+        "field"
+    ],
+    "paasto": [
+        "fasting"
+    ],
+    "paeta": [
+        "escape"
+    ],
+    "paholainen": [
+        "devil"
+    ],
+    "paikallinen": [
+        "local"
+    ],
+    "pelätä": [
+        "fear"
+    ],
+    "pensas": [
+        "bush"
+    ],
+    "perhonen": [
+        "butterfly"
+    ],
+    "perinteinen": [
+        "traditional"
+    ],
+    "perua": [
+        "cancel"
+    ],
+    "perus": [
+        "basic"
+    ],
+    "peruskoulu": [
+        "comprehensive school"
+    ],
+    "perustaa": [
+        "found",
+        "stablish",
+        "constitute"
+    ],
+    "peruttu": [
+        "cancelled"
+    ],
+    "pesuhuone": [
+        "washroom"
+    ],
+    "pesä": [
+        "nest"
+    ],
+    "pesäpallo": [
+        "baseball"
+    ],
+    "pidetä": [
+        "lengthen"
+    ],
+    "pienentää": [
+        "reduce"
+    ],
+    "pienetä": [
+        "get smaller"
+    ],
+    "piirtää": [
+        "draw"
+    ],
+    "pilkkiä": [
+        "ice-fish"
+    ],
+    "pimetä": [
+        "darken"
+    ],
+    "pipo": [
+        "hat"
+    ],
+    "pitkään": [
+        "long"
+    ],
+    "pituus": [
+        "length"
+    ],
+    "poimia": [
+        "forage",
+        "pick"
+    ],
+    "politiikka": [
+        "politics"
+    ],
+    "polttarit": [
+        "bachelor party"
+    ],
+    "polvi": [
+        "knee"
+    ],
+    "poro": [
+        "reindeer"
+    ],
+    "porras": [
+        "stair"
+    ],
+    "portti": [
+        "gate"
+    ],
+    "porukka": [
+        "group"
+    ],
+    "positiivinen": [
+        "positive"
+    ],
+    "poski": [
+        "cheek"
+    ],
+    "potilas": [
+        "patient"
+    ],
+    "presidentti": [
+        "president"
+    ],
+    "prosessi": [
+        "process"
+    ],
+    "psykologi": [
+        "psychologist"
+    ],
+    "psyykkinen": [
+        "psychological"
+    ],
+    "pudota": [
+        "fall"
+    ],
+    "pudottaa": [
+        "drop"
+    ],
+    "kupla": [
+        "bubble"
+    ],
+    "pulkka": [
+        "sled"
+    ],
+    "pulu": [
+        "pigeon"
+    ],
+    "punkki": [
+        "mite",
+        "tick"
+    ],
+    "puolivälissä": [
+        "halfway"
+    ],
+    "purjehdus": [
+        "sailing"
+    ],
+    "putiikki": [
+        "boutique"
+    ],
+    "puutyö": [
+        "woodwork"
+    ],
+    "pyhäpäivä": [
+        "holiday"
+    ],
+    "pysähtyä": [
+        "stop"
+    ],
+    "pyyhe": [
+        "towel"
+    ],
+    "pyykki": [
+        "laundry"
+    ],
+    "pyytää": [
+        "request"
+    ],
+    "pyöräily": [
+        "cycling"
+    ],
+    "pähkinä": [
+        "nut"
+    ],
+    "päivitys": [
+        "update"
+    ],
+    "päivystys": [
+        "emergency room"
+    ],
+    "päivällinen": [
+        "dinner"
+    ],
+    "päiväys": [
+        "date"
+    ],
+    "pätevyys": [
+        "qualification"
+    ],
+    "pätevä": [
+        "competent"
+    ],
+    "pätevöityä": [
+        "qualify"
+    ],
+    "koulutus": [
+        "training",
+        "education"
+    ],
+    "pää": [
+        "head"
+    ],
+    "päähenkilö": [
+        "main character"
+    ],
+    "päänsärky": [
+        "headache"
+    ],
+    "pääruoka": [
+        "main course"
+    ],
+    "pääsiäinen": [
+        "easter"
+    ],
+    "pääte": [
+        "terminal"
+    ],
+    "päättää": [
+        "decide"
+    ],
+    "päätös": [
+        "decision"
+    ],
+    "pöllö": [
+        "owl"
+    ],
+    "raide": [
+        "track"
+    ],
+    "raikas": [
+        "fresh"
+    ],
+    "rakastua": [
+        "fall in love"
+    ],
+    "rakastanut": [
+        "in love"
+    ],
+    "rakentaa": [
+        "build"
+    ],
+    "rakkaus": [
+        "love"
+    ],
+    "ranne": [
+        "wrist"
+    ],
+    "rannikko": [
+        "coast"
+    ],
+    "ranta": [
+        "beach"
+    ],
+    "rantakallio": [
+        "cliff"
+    ],
+    "rappukäytävä": [
+        "stairwell",
+        "staircase"
+    ],
+    "raskas": [
+        "heavy"
+    ],
+    "ratikka": [
+        "tram"
+    ],
+    "ratkaisu": [
+        "solution"
+    ],
+    "ratsastus": [
+        "horse riding"
+    ],
+    "rauha": [
+        "peace"
+    ],
+    "rauhallinen": [
+        "calm",
+        "peaceful"
+    ],
+    "rauhoittua": [
+        "calm down"
+    ],
+    "ravinto": [
+        "nutrition"
+    ],
+    "reagoida": [
+        "react"
+    ],
+    "reipas": [
+        "cheery"
+    ],
+    "reissu": [
+        "trip"
+    ],
+    "rekisteröida": [
+        "register"
+    ],
+    "parisuhde": [
+        "relationship"
+    ],
+    "rekka": [
+        "truck"
+    ],
+    "rento": [
+        "relaxed"
+    ],
+    "rentouttava": [
+        "relaxing"
+    ],
+    "rentoutua": [
+        "relax"
+    ],
+    "repliikki": [
+        "lines"
+    ],
+    "reppu": [
+        "bag",
+        "backpack"
+    ],
+    "resepti": [
+        "prescription",
+        "recipe"
+    ],
+    "retkeillä": [
+        "hike"
+    ],
+    "retkeily": [
+        "hiking",
+        "camping"
+    ],
+    "retki": [
+        "trip"
+    ],
+    "riippumatto": [
+        "hammock"
+    ],
+    "riittävästi": [
+        "enough"
+    ],
+    "rittää": [
+        "be enough"
+    ],
+    "rikas": [
+        "rich"
+    ],
+    "rikkaus": [
+        "wealth"
+    ],
+    "rikki": [
+        "broken"
+    ],
+    "rikkoa": [
+        "break"
+    ],
+    "rinta": [
+        "chest",
+        "breast"
+    ],
+    "ripuli": [
+        "diarrhea"
+    ],
+    "ripustaa": [
+        "hang"
+    ],
+    "ristikko": [
+        "lattice"
+    ],
+    "rohkea": [
+        "brave"
+    ],
+    "rokotus": [
+        "vaccination"
+    ],
+    "roska": [
+        "rubbish"
+    ],
+    "runo": [
+        "poem"
+    ],
+    "runsaasti": [
+        "plenty"
+    ],
+    "ruoanlaitto": [
+        "cooking"
+    ],
+    "ruoho": [
+        "grass"
+    ],
+    "ruokailu": [
+        "eating"
+    ],
+    "ruokavalio": [
+        "diet"
+    ],
+    "ruveta": [
+        "do"
+    ],
+    "saapas": [
+        "boot"
+    ],
+    "saapua": [
+        "arrive"
+    ],
+    "saari": [
+        "island"
+    ],
+    "saastunut": [
+        "contaminated"
+    ],
+    "sade": [
+        "rain"
+    ],
+    "saippua": [
+        "soap"
+    ],
+    "sairaala": [
+        "hospital"
+    ],
+    "sairas": [
+        "sick"
+    ],
+    "sairaus": [
+        "sickness",
+        "illness"
+    ],
+    "sairausloma": [
+        "sick leave"
+    ],
+    "salaisuus": [
+        "secret"
+    ],
+    "salibandy": [
+        "floorball"
+    ],
+    "salmi": [
+        "sound",
+        "strait"
+    ],
+    "sammakko": [
+        "frog"
+    ],
+    "sammal": [
+        "moss"
+    ],
+    "sammua": [
+        "shut down"
+    ],
+    "sammuttaa": [
+        "shut down"
+    ],
+    "sanaristikko": [
+        "crossword"
+    ],
+    "lyriikka": [
+        "lyrics"
+    ],
+    "sandaali": [
+        "sandal"
+    ],
+    "sarja": [
+        "series"
+    ],
+    "sattua": [
+        "hurt"
+    ],
+    "satula": [
+        "saddle"
+    ],
+    "sauvapiippu": [
+        "chimney"
+    ],
+    "selittää": [
+        "explain"
+    ],
+    "selvitä": [
+        "survive"
+    ],
+    "serkku": [
+        "cousin"
+    ],
+    "seurata": [
+        "follow",
+        "track"
+    ],
+    "seurustella": [
+        "date"
+    ],
+    "shakki": [
+        "chess"
+    ],
+    "sieni": [
+        "mushroom"
+    ],
+    "siili": [
+        "hedgehog"
+    ],
+    "siirtyä": [
+        "move"
+    ],
+    "sijainen": [
+        "substitute"
+    ],
+    "silakka": [
+        "herring"
+    ],
+    "sima": [
+        "mead"
+    ],
+    "sisältää": [
+        "include"
+    ],
+    "soitin": [
+        "instrument"
+    ],
+    "sormi": [
+        "finger"
+    ],
+    "sormus": [
+        "ring"
+    ],
+    "sorsa": [
+        "duck"
+    ],
+    "sosiaalinen": [
+        "sociable"
+    ],
+    "sotku": [
+        "mess"
+    ],
+    "stressata": [
+        "stress"
+    ],
+    "sukulainen": [
+        "relative"
+    ],
+    "suljettu": [
+        "closed"
+    ],
+    "sulkapallo": [
+        "badminton"
+    ],
+    "sulkea": [
+        "close"
+    ],
+    "sulkeutua": [
+        "close"
+    ],
+    "suo": [
+        "marsh",
+        "mire",
+        "wetland"
+    ],
+    "suosittu": [
+        "popular"
+    ],
+    "suostua": [
+        "agree"
+    ],
+    "suppea": [
+        "narrow"
+    ],
+    "susi": [
+        "wolf"
+    ],
+    "suu": [
+        "mouth"
+    ],
+    "suunnilleen": [
+        "about"
+    ],
+    "suunnistaa": [
+        "navigate"
+    ],
+    "suunnitella": [
+        "plan"
+    ],
+    "suureta": [
+        "get larger",
+        "enlarge"
+    ],
+    "sydän": [
+        "heart"
+    ],
+    "syntyä": [
+        "born"
+    ],
+    "syttyä": [
+        "catch fire",
+        "ignite"
+    ],
+    "sytyttää": [
+        "light"
+    ],
+    "syvyys": [
+        "depth"
+    ],
+    "syy": [
+        "reason"
+    ],
+    "syöpä": [
+        "cancer"
+    ],
+    "syötävä": [
+        "edible"
+    ],
+    "säilyttää": [
+        "keep",
+        "store",
+        "preserve"
+    ],
+    "säilöä": [
+        "preserve"
+    ],
+    "särkylääke": [
+        "painkiller"
+    ],
+    "säännöllisesti": [
+        "regularly"
+    ],
+    "taas": [
+        "again"
+    ],
+    "taidenäyttely": [
+        "art exhibition"
+    ],
+    "taitaa": [
+        "may be"
+    ],
+    "taivas": [
+        "sky"
+    ],
+    "tajuta": [
+        "realise"
+    ],
+    "takaisin": [
+        "back"
+    ],
+    "takapenkki": [
+        "backseat"
+    ],
+    "takapuoli": [
+        "butt",
+        "backside"
+    ],
+    "takuu": [
+        "warranty"
+    ],
+    "talonmies": [
+        "janitor"
+    ],
+    "talous": [
+        "economy",
+        "economics"
+    ],
+    "tammi": [
+        "oak"
+    ],
+    "tapa": [
+        "habit"
+    ],
+    "tapaaminen": [
+        "meeting"
+    ],
+    "tapahtuma": [
+        "event"
+    ],
+    "tarina": [
+        "story"
+    ],
+    "tarjeta": [
+        "stand the cold"
+    ],
+    "tarjoilla": [
+        "serve"
+    ],
+    "tarjotin": [
+        "tray"
+    ],
+    "tarjous": [
+        "tender",
+        "offer"
+    ],
+    "tarkasti": [
+        "carefully"
+    ],
+    "tarkistaa": [
+        "check"
+    ],
+    "tarkka": [
+        "exact",
+        "accurate",
+        "precise"
+    ],
+    "tarkoittaa": [
+        "mean"
+    ],
+    "tarpeeksi": [
+        "enough"
+    ],
+    "tasku": [
+        "pocket"
+    ],
+    "tauti": [
+        "disease",
+        "illness",
+        "sickness"
+    ],
+    "tavallinen": [
+        "ordinary",
+        "regular"
+    ],
+    "tavallisesti": [
+        "usually"
+    ],
+    "tavara": [
+        "item"
+    ],
+    "tavarateline": [
+        "bike rack"
+    ],
+    "tavu": [
+        "syllable"
+    ],
+    "tehdas": [
+        "factory"
+    ],
+    "tehtävä": [
+        "assignment",
+        "task"
+    ],
+    "tekijä": [
+        "maker",
+        "culprit"
+    ],
+    "telttailla": [
+        "camp"
+    ],
+    "temppeli": [
+        "temple"
+    ],
+    "terassi": [
+        "terrace"
+    ],
+    "teroitin": [
+        "sharpener"
+    ],
+    "terve": [
+        "healthy"
+    ],
+    "terveyhdenhoito": [
+        "healthcare"
+    ],
+    "terveys": [
+        "health"
+    ],
+    "terveyskeskus": [
+        "health center"
+    ],
+    "tiede": [
+        "science"
+    ],
+    "tietokirja": [
+        "encyclopedia"
+    ],
+    "tietysti": [
+        "of course"
+    ],
+    "tietää": [
+        "know"
+    ],
+    "tilaus": [
+        "order"
+    ],
+    "todistus": [
+        "certificate"
+    ],
+    "tohtori": [
+        "doctor"
+    ],
+    "toimipiste": [
+        "location"
+    ],
+    "toimittaa": [
+        "deliver"
+    ],
+    "toimitusaika": [
+        "delivery time"
+    ],
+    "tonnikala": [
+        "tuna"
+    ],
+    "tosiaan": [
+        "indeed"
+    ],
+    "tosin": [
+        "however"
+    ],
+    "totuus": [
+        "truth"
+    ],
+    "totta": [
+        "true"
+    ],
+    "tulevaisuus": [
+        "future"
+    ],
+    "tuli": [
+        "fire"
+    ],
+    "tuliainen": [
+        "souvenir"
+    ],
+    "tulikuuma": [
+        "burning hot"
+    ],
+    "tulkata": [
+        "interpret"
+    ],
+    "tulli": [
+        "customs"
+    ],
+    "tulos": [
+        "result"
+    ],
+    "tunne": [
+        "feeling"
+    ],
+    "tunnistautua": [
+        "identify yourself"
+    ],
+    "tunnusluku": [
+        "passcode"
+    ],
+    "tuntea": [
+        "feel"
+    ],
+    "tuntua": [
+        "feel"
+    ],
+    "tunturi": [
+        "fell"
+    ],
+    "tuoksua": [
+        "smell"
+    ],
+    "tuore": [
+        "fresh"
+    ],
+    "tuote": [
+        "product"
+    ],
+    "turhaan": [
+        "in vain",
+        "for nothing"
+    ],
+    "turva": [
+        "safety"
+    ],
+    "turvallinen": [
+        "safe"
+    ],
+    "turvatarkastus": [
+        "security control"
+    ],
+    "turvonnut": [
+        "swollen"
+    ],
+    "tutkimus": [
+        "research"
+    ],
+    "tutkinto": [
+        "degree"
+    ],
+    "tuttu": [
+        "familiar"
+    ],
+    "tuuletin": [
+        "fan"
+    ],
+    "tuuma": [
+        "inch"
+    ],
+    "tyhjetä": [
+        "empty"
+    ],
+    "tylsä": [
+        "boring"
+    ],
+    "työhaastattelu": [
+        "job interview"
+    ],
+    "työhakemus": [
+        "job application"
+    ],
+    "työharjoittelu": [
+        "internship"
+    ],
+    "työkokemus": [
+        "work experience"
+    ],
+    "työnhakijä": [
+        "job applicant"
+    ],
+    "työntää": [
+        "push"
+    ],
+    "työpaikka": [
+        "workplace"
+    ],
+    "työskennellä": [
+        "work"
+    ],
+    "työttömyys": [
+        "unemployment"
+    ],
+    "tuki": [
+        "assistance",
+        "support"
+    ],
+    "työtön": [
+        "unemployed"
+    ],
+    "tärkeys": [
+        "importance"
+    ],
+    "täsmällinen": [
+        "punctual"
+    ],
+    "täynnä": [
+        "full"
+    ],
+    "täyttää": [
+        "fill"
+    ],
+    "uimapuku": [
+        "swimsuit"
+    ],
+    "uinti": [
+        "swimming"
+    ],
+    "ulkoilla": [
+        "go outside"
+    ],
+    "ulkopuolella": [
+        "outside"
+    ],
+    "unelma": [
+        "dream"
+    ],
+    "uni": [
+        "sleep"
+    ],
+    "unohtaa": [
+        "forget"
+    ],
+    "upea": [
+        "awesome",
+        "great"
+    ],
+    "urheilu": [
+        "sport"
+    ],
+    "uskaltaa": [
+        "dare"
+    ],
+    "uudestaan": [
+        "again"
+    ],
+    "uupunut": [
+        "exhausted"
+    ],
+    "uutus": [
+        "novelty"
+    ],
+    "vaahtera": [
+        "maple"
+    ],
+    "vaarallinen": [
+        "dangerous"
+    ],
+    "vaate": [
+        "clothing"
+    ],
+    "vaatia": [
+        "demand"
+    ],
+    "vahingoittaa": [
+        "harm",
+        "damage"
+    ],
+    "vahingossa": [
+        "accidentally"
+    ],
+    "vahva": [
+        "strong"
+    ],
+    "vaihtaa": [
+        "exchange"
+    ],
+    "vaihteleva": [
+        "varied",
+        "variable"
+    ],
+    "vaihtelu": [
+        "variation"
+    ],
+    "vaihto": [
+        "exchange"
+    ],
+    "vaihtoehto": [
+        "alternative"
+    ],
+    "vaihtua": [
+        "change"
+    ],
+    "vaikka": [
+        "although"
+    ],
+    "vaikkapa": [
+        "for instance"
+    ],
+    "vaikuttaa": [
+        "influence"
+    ],
+    "vakuutus": [
+        "insurance"
+    ],
+    "valaisin": [
+        "lamp"
+    ],
+    "valas": [
+        "whale"
+    ],
+    "valitettavasti": [
+        "unfortunately"
+    ],
+    "valitus": [
+        "complaint"
+    ],
+    "valmis": [
+        "ready"
+    ],
+    "valmistaa": [
+        "prepare"
+    ],
+    "valmistautua": [
+        "prepare"
+    ],
+    "valmistella": [
+        "prepare"
+    ],
+    "valmistua": [
+        "graduate"
+    ],
+    "valmistus": [
+        "preparation"
+    ],
+    "valvoa": [
+        "stay up late"
+    ],
+    "vanheta": [
+        "grow old"
+    ],
+    "vanhuus": [
+        "old age"
+    ],
+    "vapaasti": [
+        "freely"
+    ],
+    "varas": [
+        "thief"
+    ],
+    "varasto": [
+        "storage",
+        "stock"
+    ],
+    "varata": [
+        "book"
+    ],
+    "varis": [
+        "crow"
+    ],
+    "varkaus": [
+        "theft"
+    ],
+    "varmasti": [
+        "probably",
+        "certainly"
+    ],
+    "varmistaa": [
+        "verify"
+    ],
+    "varoa": [
+        "be careful",
+        "beware"
+    ],
+    "varsinkin": [
+        "especially"
+    ],
+    "vartalo": [
+        "body"
+    ],
+    "varvas": [
+        "toe"
+    ],
+    "vasta": [
+        "only"
+    ],
+    "vastaanottaja": [
+        "receiver",
+        "recipient"
+    ],
+    "vastaanotto": [
+        "reception"
+    ],
+    "vastuuntuntoinen": [
+        "responsible"
+    ],
+    "vatsa": [
+        "stomach"
+    ],
+    "vatsatauti": [
+        "stomach bug"
+    ],
+    "vaunu": [
+        "carriage"
+    ],
+    "veneillä": [
+        "boat"
+    ],
+    "verenpaine": [
+        "blood pressure"
+    ],
+    "verikoe": [
+        "blood sample"
+    ],
+    "veri": [
+        "blood"
+    ],
+    "verkko": [
+        "web",
+        "network"
+    ],
+    "sivu": [
+        "page"
+    ],
+    "vertailla": [
+        "compare"
+    ],
+    "vertailu": [
+        "comparison"
+    ],
+    "varastaa": [
+        "steal"
+    ],
+    "vieläkin": [
+        "still"
+    ],
+    "vieras": [
+        "guest",
+        "stranger",
+        "visitor"
+    ],
+    "viettää": [
+        "spend time"
+    ],
+    "vihainen": [
+        "angry"
+    ],
+    "vihata": [
+        "hate"
+    ],
+    "vihdoin": [
+        "finally"
+    ],
+    "vihkiä": [
+        "marry"
+    ],
+    "viihtylsä": [
+        "homely"
+    ],
+    "viihtyä": [
+        "have fun"
+    ],
+    "viiletä": [
+        "cool down"
+    ],
+    "viileä": [
+        "cool"
+    ],
+    "viime": [
+        "last"
+    ],
+    "viimeinen": [
+        "last"
+    ],
+    "viisas": [
+        "wise"
+    ],
+    "viisumi": [
+        "visa"
+    ],
+    "virkailija": [
+        "clerk"
+    ],
+    "vitsailla": [
+        "joke"
+    ],
+    "viulu": [
+        "violin"
+    ],
+    "voittaa": [
+        "win"
+    ],
+    "vuokranantaja": [
+        "landlord"
+    ],
+    "vuokrata": [
+        "rent"
+    ],
+    "vuori": [
+        "mountain"
+    ],
+    "vuoristo": [
+        "mountain range"
+    ],
+    "vuoro": [
+        "shift"
+    ],
+    "vuosi": [
+        "year"
+    ],
+    "väite": [
+        "claim",
+        "statement"
+    ],
+    "välillä": [
+        "occasionally",
+        "between"
+    ],
+    "väline": [
+        "equipment"
+    ],
+    "vähintään": [
+        "at least"
+    ],
+    "yhdistys": [
+        "association"
+    ],
+    "yhdistää": [
+        "connect",
+        "merge",
+        "unit"
+    ],
+    "yhdyssana": [
+        "compound word"
+    ],
+    "yhteinen": [
+        "common"
+    ],
+    "yhtä tarkeä kuin": [
+        "as important as"
+    ],
+    "yhtäkkiä": [
+        "suddenly"
+    ],
+    "yksin": [
+        "alone"
+    ],
+    "yksinkertainen": [
+        "simple"
+    ],
+    "yksinäisyys": [
+        "loneliness"
+    ],
+    "yksityinen": [
+        "private"
+    ],
+    "yleinen": [
+        "general"
+    ],
+    "yli": [
+        "over"
+    ],
+    "yliopisto": [
+        "university"
+    ],
+    "yllättynyt": [
+        "surprised"
+    ],
+    "yllättää": [
+        "surprise"
+    ],
+    "yllätys": [
+        "surprise"
+    ],
+    "ympäri": [
+        "around"
+    ],
+    "ympäristö": [
+        "environment",
+        "surroundings"
+    ],
+    "yrittää": [
+        "try"
+    ],
+    "yskä": [
+        "cough"
+    ],
+    "ystävyys": [
+        "friendship"
+    ],
+    "yöpyä": [
+        "sleep over",
+        "stay overnight"
+    ],
+    "älykäs": [
+        "intelligent",
+        "smart"
+    ],
+    "äsken": [
+        "just"
+    ],
+    "ääntäminen": [
+        "pronounciation"
+    ],
+    "loska": [
+        "slush"
+    ],
+    "luistella": [
+        "skate"
+    ],
+    "kukkia": [
+        "bloom"
+    ],
+    "tulppa": [
+        "tulip"
+    ],
+    "narsissi": [
+        "narcissus"
+    ],
+    "opinto": [
+        "study"
+    ],
+    "tunnus": [
+        "identifier"
+    ],
+    "viiva": [
+        "dash",
+        "hyphen"
+    ],
+    "vuohi": [
+        "goat"
+    ],
+    "lisuke": [
+        "side dish"
+    ],
+    "käytävä": [
+        "aisle",
+        "corridor",
+        "hallway"
+    ],
+    "naula": [
+        "nail"
+    ],
+    "avio": [
+        "marital",
+        "matrimonial"
+    ],
+    "hiisi": [
+        "devil"
+    ]
 }
